@@ -32,6 +32,11 @@ jobs:
       - name: Install dependencies
         run: make install
 
+      - name: Patch build script to use stdlib json
+        run: |
+          sed -i '1i import json' scripts/build_data.py
+          sed -i 's/pandas\.io\.json\.dumps/json.dumps/g' scripts/build_data.py
+
       - name: Build the site (production)
         run: make build.production
 
