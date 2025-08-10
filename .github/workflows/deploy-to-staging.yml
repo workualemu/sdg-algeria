@@ -32,22 +32,27 @@ jobs:
       - name: Install dependencies
         run: make install
 
+      # Strong shim so deps can `from pandas.io import json`
       - name: Inject pandas.io.json shim (sitecustomize.py)
         run: |
           cat > sitecustomize.py <<'PY'
-          import json, types
-          try:
-              import pandas as pd
-              setattr(pd.io, "json", types.SimpleNamespace(dumps=json.dumps, loads=json.loads))
-          except Exception:
-              pass
-          PY
-      
+import sys, types, json, importlib
+try:
+    importlib.import_module('pandas.io')
+    m = types.ModuleType('pandas.io.json')
+    m.dumps = json.dumps
+    m.loads = json.loads
+    sys.modules['pandas.io.json'] = m
+    print("[shim] injected pandas.io.json with dumps/loads")
+except Exception as e:
+    print("[shim] failed:", e)
+PY
+
+      # Mass-replace any repo usages (defensive)
       - name: Patch all pandas.io.json usages
         run: |
-          # (the mass-replace block from Option A)
-          set -e
-          files=$(git ls-files '*.py' | xargs grep -IlE 'pandas\.io\.json\.dumps|pd\.io\.json\.dumps|from pandas\.io import json' || true)
+          set -euo pipefail
+          files=$(grep -RIlE 'pandas\.io\.json\.dumps|pd\.io\.json\.dumps|from pandas\.io import json' -- scripts || true)
           if [ -n "$files" ]; then
             for f in $files; do
               grep -qE '^[[:space:]]*import json(\s|$)' "$f" || sed -i '1i import json' "$f"
