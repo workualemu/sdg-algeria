@@ -27,6 +27,34 @@ jobs:
       - name: Install dependencies
         run: make install
 
+      - name: Inject pandas.io.json shim (sitecustomize.py)
+        run: |
+          cat > sitecustomize.py <<'PY'
+          import json, types
+          try:
+              import pandas as pd
+              setattr(pd.io, "json", types.SimpleNamespace(dumps=json.dumps, loads=json.loads))
+          except Exception:
+              pass
+          PY
+      
+      - name: Patch all pandas.io.json usages
+        run: |
+          # (the mass-replace block from Option A)
+          set -e
+          files=$(git ls-files '*.py' | xargs grep -IlE 'pandas\.io\.json\.dumps|pd\.io\.json\.dumps|from pandas\.io import json' || true)
+          if [ -n "$files" ]; then
+            for f in $files; do
+              grep -qE '^[[:space:]]*import json(\s|$)' "$f" || sed -i '1i import json' "$f"
+              sed -i -E 's/\b(pandas|pd)\.io\.json\.dumps/json.dumps/g' "$f"
+              sed -i -E 's/\b(pandas|pd)\.io\.json\.loads/json.loads/g' "$f"
+              sed -i -E 's/^from[[:space:]]+pandas\.io[[:space:]]+import[[:space:]]+json(\s+as\s+\w+)?/import json\1/' "$f"
+            done
+            echo "Patched: $files"
+          else
+            echo "No pandas.io.json usages found in repo files."
+          fi
+          
       - name: Patch build script to use stdlib json
         run: |
           sed -i '1i import json' scripts/build_data.py
