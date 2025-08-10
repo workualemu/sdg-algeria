@@ -7,27 +7,38 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write  # required for pushing to gh-pages
+
     steps:
-    - uses: actions/checkout@v1
-    - name: Set up Ruby 2.6
-      uses: ruby/setup-ruby@v1
-      with:
-        ruby-version: '2.6'
-    - name: Set up Python 3.7
-      uses: actions/setup-python@v1
-      with:
-        python-version: 3.7
-    - name: Install dependencies
-      run: make install
-    - name: Build the site
-      run: make build
-    - name: Deploy to GitHub Pages
-      uses: JamesIves/github-pages-deploy-action@3.7.1
-      with:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        BRANCH: gh-pages
-        FOLDER: _site
-        CLEAN: true
+      - uses: actions/checkout@v4
+
+      # Ruby for Jekyll 3.8.x + your plugins
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '2.7'
+          bundler-cache: true
+
+      # Python for sdg-build/scripts
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: make install
+
+      - name: Build the site
+        run: make build
+
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages
+          folder: _site
+          clean: true
+          token: ${{ secrets.GITHUB_TOKEN }}
