@@ -10,3 +10,5 @@ git+https://github.com/open-sdg/sdg-build@2.1.0
 
 # Needed by sdmx (dependency of sdg-build)
 packaging
+
+pandas==1.5.3
