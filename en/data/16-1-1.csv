@@ -1,0 +1,3 @@
+Year,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,SOURCE_DETAIL,Value
+2012,VC_IHR_PSRC,231,PER_100000_POP,2025-03-21T00:00:00,A,0,2012,Data based on an a statistical modification of an original value from the Government,8.51
+2012,VC_IHR_PSRCN,231,NUMBER,2025-03-21T00:00:00,A,0,2012,Data based on an a statistical modification of an original value from the Government,8153.0

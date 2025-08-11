@@ -1,0 +1,25 @@
+Year,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,COMMENT_OBS,SOURCE_DETAIL,Value
+2000,AG_LND_FRSTBIOPHA,231,T_PER_HA,2025-03-21T00:00:00,A,0,2020,Officially reported data,FAO. Global Forest Resources Assessment 2020,124.11
+2010,AG_LND_FRSTBIOPHA,231,T_PER_HA,2025-03-21T00:00:00,A,0,2020,Officially reported data,FAO. Global Forest Resources Assessment 2020,122.86
+2015,AG_LND_FRSTBIOPHA,231,T_PER_HA,2025-03-21T00:00:00,A,0,2020,Officially reported data,FAO. Global Forest Resources Assessment 2020,122.1
+2016,AG_LND_FRSTBIOPHA,231,T_PER_HA,2025-03-21T00:00:00,A,0,2020,Officially reported data,FAO. Global Forest Resources Assessment 2020,121.94
+2017,AG_LND_FRSTBIOPHA,231,T_PER_HA,2025-03-21T00:00:00,A,0,2020,Officially reported data,FAO. Global Forest Resources Assessment 2020,121.79
+2018,AG_LND_FRSTBIOPHA,231,T_PER_HA,2025-03-21T00:00:00,A,0,2020,Officially reported data,FAO. Global Forest Resources Assessment 2020,121.63
+2019,AG_LND_FRSTBIOPHA,231,T_PER_HA,2025-03-21T00:00:00,A,0,2020,Officially reported data,FAO. Global Forest Resources Assessment 2020,121.47
+2020,AG_LND_FRSTBIOPHA,231,T_PER_HA,2025-03-21T00:00:00,A,0,2020,Officially reported data,FAO. Global Forest Resources Assessment 2020,121.31
+2000,AG_LND_FRSTCERT,231,HA,2025-03-21T00:00:00,A,3,2023,No certified forest area,No data on certified forest area in the FSC and PEFC records,0.0
+2005,AG_LND_FRSTCERT,231,HA,2025-03-21T00:00:00,A,3,2023,No certified forest area,No data on certified forest area in the FSC and PEFC records,0.0
+2010,AG_LND_FRSTCERT,231,HA,2025-03-21T00:00:00,A,3,2023,No certified forest area,No data on certified forest area in the FSC and PEFC records,0.0
+2015,AG_LND_FRSTCERT,231,HA,2025-03-21T00:00:00,A,3,2023,No certified forest area,No data on certified forest area in the FSC and PEFC records,0.0
+2016,AG_LND_FRSTCERT,231,HA,2025-03-21T00:00:00,A,3,2023,No certified forest area,No data on certified forest area in the FSC and PEFC records,0.0
+2017,AG_LND_FRSTCERT,231,HA,2025-03-21T00:00:00,A,3,2023,No certified forest area,No data on certified forest area in the FSC and PEFC records,0.0
+2018,AG_LND_FRSTCERT,231,HA,2025-03-21T00:00:00,A,3,2023,No certified forest area,No data on certified forest area in the FSC and PEFC records,0.0
+2019,AG_LND_FRSTCERT,231,HA,2025-03-21T00:00:00,A,3,2023,No certified forest area,No data on certified forest area in the FSC and PEFC records,0.0
+2020,AG_LND_FRSTCERT,231,HA,2025-03-21T00:00:00,A,3,2023,No certified forest area,No data on certified forest area in the FSC and PEFC records,0.0
+2021,AG_LND_FRSTCERT,231,HA,2025-03-21T00:00:00,A,3,2023,No certified forest area,No data on certified forest area in the FSC and PEFC records,0.0
+2022,AG_LND_FRSTCERT,231,HA,2025-03-21T00:00:00,A,3,2023,No certified forest area,No data on certified forest area in the FSC and PEFC records,0.0
+2023,AG_LND_FRSTCERT,231,HA,2025-03-21T00:00:00,A,3,2023,No certified forest area,No data on certified forest area in the FSC and PEFC records,0.0
+2010,AG_LND_FRSTCHG,231,PT,2025-03-21T00:00:00,A,0,2010-2020,Officially reported data,FAO. Global Forest Resources Assessment 2020,-0.4
+2020,AG_LND_FRSTCHG,231,PT,2025-03-21T00:00:00,A,0,2010-2020,Officially reported data,FAO. Global Forest Resources Assessment 2020,-0.42
+2018,AG_LND_FRSTMGT,231,PT,2025-03-21T00:00:00,O,0,2020,NaN = A figure was not provided,NA,5.16
+2018,AG_LND_FRSTPRCT,231,PT,2025-03-21T00:00:00,O,0,2020,NaN = A figure was not provided,NA,35.26

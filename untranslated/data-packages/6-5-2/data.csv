@@ -1,0 +1,4 @@
+Year,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,COMMENT_OBS,SOURCE_DETAIL,Value
+2023,EG_TBA_H2COAQ,231,PT,2025-02-24T00:00:00,A,0,2023-2024,No data provided for transboundary aquifers,Source: Relevant country authority;,0.0
+2020,EG_TBA_H2CORL,231,PT,2025-02-24T00:00:00,A,0,2023-2024,Further information needed for transboundary river and lake basins,Source: Relevant country authority;,49.51
+2023,EG_TBA_H2CORL,231,PT,2025-02-24T00:00:00,A,0,2023-2024,Further information needed for transboundary river and lake basins,Source: Relevant country authority;,49.51

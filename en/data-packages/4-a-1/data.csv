@@ -1,0 +1,33 @@
+Year,SERIES,REF_AREA,EDUCATION_LEV,UNIT_MEASURE,DATA_LAST_UPDATE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,SOURCE_DETAIL,Value
+2020,SE_ACC_HNDWSH,231,ISCED11_1,PT,2025-03-05T00:00:00,A,0,2023,Source: UIS Dynamic template based on data provided by country Data extracted on 25 February 2025.,13.72185
+2021,SE_ACC_HNDWSH,231,ISCED11_1,PT,2025-03-05T00:00:00,A,0,2023,Source: UIS Dynamic template based on data provided by country Data extracted on 25 February 2025.,14.04947
+2023,SE_ACC_HNDWSH,231,ISCED11_1,PT,2025-03-05T00:00:00,A,0,2023,Source: UIS Dynamic template based on data provided by country Data extracted on 25 February 2025.,14.12378
+2020,SE_ACC_HNDWSH,231,ISCED11_2,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,24.48482
+2021,SE_ACC_HNDWSH,231,ISCED11_2,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,34.7314
+2020,SE_ACC_HNDWSH,231,ISCED11_3,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,24.48482
+2021,SE_ACC_HNDWSH,231,ISCED11_3,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,34.7314
+2020,SE_ACS_CMPTR,231,AGG_2_3,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,75.97614
+2021,SE_ACS_CMPTR,231,AGG_2_3,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,78.91411
+2020,SE_ACS_CMPTR,231,ISCED11_2,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,75.97614
+2021,SE_ACS_CMPTR,231,ISCED11_2,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,78.91411
+2020,SE_ACS_CMPTR,231,ISCED11_3,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,75.97614
+2021,SE_ACS_CMPTR,231,ISCED11_3,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,78.91411
+2020,SE_ACS_ELECT,231,ISCED11_1,PT,2025-03-05T00:00:00,A,0,2023,Source: UIS Dynamic template based on data provided by country Data extracted on 25 February 2025.,26.9298
+2021,SE_ACS_ELECT,231,ISCED11_1,PT,2025-03-05T00:00:00,A,0,2023,Source: UIS Dynamic template based on data provided by country Data extracted on 25 February 2025.,27.73485
+2023,SE_ACS_ELECT,231,ISCED11_1,PT,2025-03-05T00:00:00,A,0,2023,Source: UIS Dynamic template based on data provided by country Data extracted on 25 February 2025.,27.42706
+2020,SE_ACS_ELECT,231,ISCED11_2,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,70.44469
+2021,SE_ACS_ELECT,231,ISCED11_2,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,75.15082
+2020,SE_ACS_ELECT,231,ISCED11_3,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,70.44469
+2021,SE_ACS_ELECT,231,ISCED11_3,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,75.15082
+2021,SE_ACS_H2O,231,ISCED11_1,PT,2025-03-05T00:00:00,A,0,2023,Source: UIS Dynamic template based on data provided by country Data extracted on 25 February 2025.,19.80823
+2023,SE_ACS_H2O,231,ISCED11_1,PT,2025-03-05T00:00:00,A,0,2023,Source: UIS Dynamic template based on data provided by country Data extracted on 25 February 2025.,19.82942
+2021,SE_ACS_H2O,231,ISCED11_2,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,45.79144
+2021,SE_ACS_H2O,231,ISCED11_3,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,45.79144
+2020,SE_ACS_INTNT,231,AGG_2_3,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,20.58026
+2021,SE_ACS_INTNT,231,AGG_2_3,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,22.92445
+2020,SE_ACS_INTNT,231,ISCED11_2,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,20.58026
+2021,SE_ACS_INTNT,231,ISCED11_2,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,22.92445
+2020,SE_ACS_INTNT,231,ISCED11_3,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,20.58026
+2021,SE_ACS_INTNT,231,ISCED11_3,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,22.92445
+2023,SE_ACS_SANIT,231,ISCED11_1,PT,2025-03-05T00:00:00,A,0,2023,Source: UIS Dynamic template based on data provided by country Data extracted on 25 February 2025.,29.7212
+2023,SE_ACS_SANIT,231,ISCED11_2,PT,2025-03-05T00:00:00,A,0,2023,Source: UIS Dynamic template based on data provided by country Data extracted on 25 February 2025.,49.45084

@@ -1,0 +1,156 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "231",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "F",
+                "M",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y_GE15",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "OCCUPATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "ISCO08_0",
+                "ISCO08_1",
+                "ISCO08_2",
+                "ISCO08_3",
+                "ISCO08_4",
+                "ISCO08_5",
+                "ISCO08_6",
+                "ISCO08_7",
+                "ISCO08_8",
+                "ISCO08_9",
+                "ISCO08_X",
+                "ISCO88_0",
+                "ISCO88_1",
+                "ISCO88_2",
+                "ISCO88_3",
+                "ISCO88_4",
+                "ISCO88_5",
+                "ISCO88_6",
+                "ISCO88_7",
+                "ISCO88_8",
+                "ISCO88_9",
+                "ISCO88_X",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "U",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2021",
+                "2005",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Repository: ILO-STATISTICS - Micro data processing | Currency: ETH - Birr (ETB)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "LFS - National Labor Force Survey",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-5-1",
+  "title": "Average hourly earnings of employees, by sex, age, occupation and persons with disabilities"
+}

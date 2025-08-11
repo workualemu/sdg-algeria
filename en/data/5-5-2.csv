@@ -1,0 +1,7 @@
+Year,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,DATA_LAST_UPDATE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,COMMENT_OBS,SOURCE_DETAIL,Value
+2005,IC_GEN_MGTL,231,F,Y_GE15,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,20.1
+2013,IC_GEN_MGTL,231,F,Y_GE15,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,26.52
+2021,IC_GEN_MGTL,231,F,Y_GE15,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,25.43
+2005,IC_GEN_MGTN,231,F,Y_GE15,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,15.07
+2013,IC_GEN_MGTN,231,F,Y_GE15,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,21.08
+2021,IC_GEN_MGTN,231,F,Y_GE15,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,27.0

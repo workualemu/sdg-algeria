@@ -1,0 +1,7 @@
+Year,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,DATA_LAST_UPDATE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,SOURCE_DETAIL,Value
+2013,SL_DOM_TSPD,231,F,Y_GE10,PT,2025-03-13T00:00:00,A,0,2013,Calculated by UNSD based on available country data from the Ethiopian Time Use Survey to apply ICATUS.,19.30556
+2013,SL_DOM_TSPD,231,M,Y_GE10,PT,2025-03-13T00:00:00,A,0,2013,Calculated by UNSD based on available country data from the Ethiopian Time Use Survey to apply ICATUS.,6.59722
+2013,SL_DOM_TSPDCW,231,F,Y_GE10,PT,2025-03-13T00:00:00,A,0,2013,Calculated by UNSD based on available country data from the Ethiopian Time Use Survey to apply ICATUS.,3.26389
+2013,SL_DOM_TSPDCW,231,M,Y_GE10,PT,2025-03-13T00:00:00,A,0,2013,Calculated by UNSD based on available country data from the Ethiopian Time Use Survey to apply ICATUS.,0.55556
+2013,SL_DOM_TSPDDC,231,F,Y_GE10,PT,2025-03-13T00:00:00,A,0,2013,Calculated by UNSD based on available country data from the Ethiopian Time Use Survey to apply ICATUS.,16.04167
+2013,SL_DOM_TSPDDC,231,M,Y_GE10,PT,2025-03-13T00:00:00,A,0,2013,Calculated by UNSD based on available country data from the Ethiopian Time Use Survey to apply ICATUS.,6.04167

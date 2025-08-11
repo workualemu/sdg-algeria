@@ -1,0 +1,35 @@
+Year,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,SOURCE_DETAIL,COMMENT_OBS,Value
+2004,IT_MOB_2GNTWK,231,PT,2025-03-06T00:00:00,A,0,2022,Ethiopian Communications Authority,,9.7
+2005,IT_MOB_2GNTWK,231,PT,2025-03-06T00:00:00,A,0,2022,Ethiopian Communications Authority,,10.0
+2006,IT_MOB_2GNTWK,231,PT,2025-03-06T00:00:00,A,0,2022,Ethiopian Communications Authority,,10.0
+2012,IT_MOB_2GNTWK,231,PT,2025-03-06T00:00:00,A,0,2022,Ethiopian Communications Authority,,73.0
+2014,IT_MOB_2GNTWK,231,PT,2025-03-06T00:00:00,A,0,2022,Ethiopian Communications Authority,,90.0
+2015,IT_MOB_2GNTWK,231,PT,2025-03-06T00:00:00,A,0,2022,Ethiopian Communications Authority,,95.0
+2016,IT_MOB_2GNTWK,231,PT,2025-03-06T00:00:00,A,0,2022,Ethiopian Communications Authority,,97.0
+2017,IT_MOB_2GNTWK,231,PT,2025-03-06T00:00:00,A,0,2022,Ethiopian Communications Authority,,97.0
+2019,IT_MOB_2GNTWK,231,PT,2025-03-06T00:00:00,A,0,2022,Ethiopian Communications Authority,,97.0
+2020,IT_MOB_2GNTWK,231,PT,2025-03-06T00:00:00,A,0,2022,Ethiopian Communications Authority,,97.0
+2021,IT_MOB_2GNTWK,231,PT,2025-03-06T00:00:00,A,0,2022,Ethiopian Communications Authority,,97.0
+2022,IT_MOB_2GNTWK,231,PT,2025-03-06T00:00:00,A,0,2022,Ethiopian Communications Authority,,99.1
+2011,IT_MOB_3GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,4.0
+2012,IT_MOB_3GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,4.0
+2013,IT_MOB_3GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,17.54
+2014,IT_MOB_3GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,65.0
+2015,IT_MOB_3GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,71.0
+2016,IT_MOB_3GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,85.0
+2017,IT_MOB_3GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,85.0
+2019,IT_MOB_3GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,85.0
+2020,IT_MOB_3GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,85.0
+2021,IT_MOB_3GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,85.0
+2022,IT_MOB_3GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,98.53
+2023,IT_MOB_3GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,98.53
+2014,IT_MOB_4GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,10.0
+2015,IT_MOB_4GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,10.0
+2016,IT_MOB_4GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,10.0
+2017,IT_MOB_4GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,7.0
+2019,IT_MOB_4GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,7.0
+2020,IT_MOB_4GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,7.0
+2021,IT_MOB_4GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,10.0
+2022,IT_MOB_4GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,33.0
+2023,IT_MOB_4GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,35.0
+2022,IT_MOB_5GNTWK,231,PT,2025-03-08T00:00:00,A,0,2023,Data based on the ITU DataHub,Data not available,0.0

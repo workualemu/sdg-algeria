@@ -1,0 +1,161 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "231",
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "CUST_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "C02",
+                "C03",
+                "C04",
+                ""
+              ]
+            },
+            "title": "CUST_BREAKDOWN"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "LC_ART",
+                "LC_CRP",
+                "LC_GRS",
+                "LC_IWB",
+                "LC_MGCI",
+                "LC_PSG",
+                "LC_SAF",
+                "LC_SHR",
+                "LC_SNV",
+                "LC_TBL",
+                "LC_TRE",
+                ""
+              ]
+            },
+            "title": "COMPOSITE_BREAKDOWN"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string",
+            "title": "DATA_LAST_UPDATE"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "E",
+                ""
+              ]
+            },
+            "title": "OBS_STATUS"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2000-2021",
+                "2021",
+                ""
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FAO estimate",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Food and Agriculture Organization of the United Nations (FAO)",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "CUST_BREAKDOWN_LB",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Alpine",
+                "Montane",
+                "Remaining mountain area",
+                ""
+              ]
+            },
+            "title": "CUST_BREAKDOWN_LB"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "15-4-2",
+  "title": "(a) Mountain Green Cover Index and (b) proportion of degraded mountain land"
+}

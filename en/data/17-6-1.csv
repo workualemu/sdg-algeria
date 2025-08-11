@@ -1,0 +1,75 @@
+Year,SERIES,REF_AREA,COMPOSITE_BREAKDOWN,UNIT_MEASURE,DATA_LAST_UPDATE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,SOURCE_DETAIL,COMMENT_OBS,Value
+2003,IT_NET_BBND,231,None,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,7.72e-05
+2004,IT_NET_BBND,231,None,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,4.6e-05
+2005,IT_NET_BBND,231,None,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,7.78e-05
+2006,IT_NET_BBND,231,None,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.00032
+2007,IT_NET_BBND,231,None,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.00125
+2008,IT_NET_BBND,231,None,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.00175
+2009,IT_NET_BBND,231,None,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.00397
+2010,IT_NET_BBND,231,None,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.00454
+2011,IT_NET_BBND,231,None,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.00682
+2012,IT_NET_BBND,231,None,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.00891
+2013,IT_NET_BBND,231,None,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.24184
+2014,IT_NET_BBND,231,None,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.46609
+2015,IT_NET_BBND,231,None,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.4602
+2016,IT_NET_BBND,231,None,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.52381
+2017,IT_NET_BBND,231,None,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.0574
+2019,IT_NET_BBND,231,None,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.13738
+2020,IT_NET_BBND,231,None,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.17827
+2021,IT_NET_BBND,231,None,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.39938
+2022,IT_NET_BBND,231,None,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.45158
+2014,IT_NET_BBND,231,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.09322
+2015,IT_NET_BBND,231,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.10038
+2016,IT_NET_BBND,231,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.12112
+2017,IT_NET_BBND,231,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.04296
+2021,IT_NET_BBND,231,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.00147
+2022,IT_NET_BBND,231,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.0015
+2014,IT_NET_BBND,231,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.23304
+2015,IT_NET_BBND,231,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.2365
+2016,IT_NET_BBND,231,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.24892
+2017,IT_NET_BBND,231,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.01267
+2021,IT_NET_BBND,231,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.38235
+2022,IT_NET_BBND,231,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.42634
+2014,IT_NET_BBND,231,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.13983
+2015,IT_NET_BBND,231,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.14253
+2016,IT_NET_BBND,231,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.15377
+2017,IT_NET_BBND,231,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.00177
+2021,IT_NET_BBND,231,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.01556
+2022,IT_NET_BBND,231,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.02373
+2003,IT_NET_BBNDN,231,None,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,Source: Ethio Telecom,57.0
+2004,IT_NET_BBNDN,231,None,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,Source: Ethio Telecom,35.0
+2005,IT_NET_BBNDN,231,None,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,Source: Ethio Telecom,61.0
+2006,IT_NET_BBNDN,231,None,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,Source: Ethio Telecom,261.0
+2007,IT_NET_BBNDN,231,None,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,Source: Ethio Telecom,1036.0
+2008,IT_NET_BBNDN,231,None,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,Source: Ethio Telecom,1496.0
+2009,IT_NET_BBNDN,231,None,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,Source: Ethio Telecom,3498.0
+2010,IT_NET_BBNDN,231,None,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,Source: Ethio Telecom,4107.0
+2011,IT_NET_BBNDN,231,None,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,Source: Ethio Telecom,6353.0
+2012,IT_NET_BBNDN,231,None,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,Source: Ethio Telecom,8535.0
+2013,IT_NET_BBNDN,231,None,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,Source: Ethio Telecom,238067.0
+2014,IT_NET_BBNDN,231,None,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,Source: Ethio Telecom,471285.0
+2015,IT_NET_BBNDN,231,None,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,Source: Ethio Telecom,478000.0
+2016,IT_NET_BBNDN,231,None,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,Source: Ethio Telecom,559000.0
+2017,IT_NET_BBNDN,231,None,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,Source: Ethio Telecom,62950.0
+2019,IT_NET_BBNDN,231,None,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,Source: Ethio Telecom,159000.0
+2020,IT_NET_BBNDN,231,None,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,Source: Ethio Telecom,212000.0
+2021,IT_NET_BBNDN,231,None,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,Source: Ethio Telecom,487800.0
+2022,IT_NET_BBNDN,231,None,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,Source: Ethio Telecom,566206.0
+2014,IT_NET_BBNDN,231,IS_256KT2M,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,"Starting end of 2016, and in 2017 our country was under a state of emergency where internet shutdown was implemented this  has shown significant decrease.",94257.0
+2015,IT_NET_BBNDN,231,IS_256KT2M,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,"Starting end of 2016, and in 2017 our country was under a state of emergency where internet shutdown was implemented this  has shown significant decrease.",104257.0
+2016,IT_NET_BBNDN,231,IS_256KT2M,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,"Starting end of 2016, and in 2017 our country was under a state of emergency where internet shutdown was implemented this  has shown significant decrease.",129257.0
+2017,IT_NET_BBNDN,231,IS_256KT2M,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,"Starting end of 2016, and in 2017 our country was under a state of emergency where internet shutdown was implemented this  has shown significant decrease.",47108.0
+2021,IT_NET_BBNDN,231,IS_256KT2M,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,"Starting end of 2016, and in 2017 our country was under a state of emergency where internet shutdown was implemented this  has shown significant decrease.",1800.0
+2022,IT_NET_BBNDN,231,IS_256KT2M,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,"Starting end of 2016, and in 2017 our country was under a state of emergency where internet shutdown was implemented this  has shown significant decrease.",1880.0
+2014,IT_NET_BBNDN,231,IS_2MT10M,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,"Starting end of 2016, and in 2017 our country was under a state of emergency where internet shutdown was implemented this  has shown significant decrease.",235643.0
+2015,IT_NET_BBNDN,231,IS_2MT10M,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,"Starting end of 2016, and in 2017 our country was under a state of emergency where internet shutdown was implemented this  has shown significant decrease.",245643.0
+2016,IT_NET_BBNDN,231,IS_2MT10M,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,"Starting end of 2016, and in 2017 our country was under a state of emergency where internet shutdown was implemented this  has shown significant decrease.",265643.0
+2017,IT_NET_BBNDN,231,IS_2MT10M,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,"Starting end of 2016, and in 2017 our country was under a state of emergency where internet shutdown was implemented this  has shown significant decrease.",13900.0
+2021,IT_NET_BBNDN,231,IS_2MT10M,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,"Starting end of 2016, and in 2017 our country was under a state of emergency where internet shutdown was implemented this  has shown significant decrease.",467000.0
+2022,IT_NET_BBNDN,231,IS_2MT10M,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,"Starting end of 2016, and in 2017 our country was under a state of emergency where internet shutdown was implemented this  has shown significant decrease.",534569.0
+2014,IT_NET_BBNDN,231,IS_GE10M,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,"Starting end of 2016, and in 2017 our country was under a state of emergency where internet shutdown was implemented this  has shown significant decrease.",141385.0
+2015,IT_NET_BBNDN,231,IS_GE10M,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,"Starting end of 2016, and in 2017 our country was under a state of emergency where internet shutdown was implemented this  has shown significant decrease.",148040.0
+2016,IT_NET_BBNDN,231,IS_GE10M,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,"Starting end of 2016, and in 2017 our country was under a state of emergency where internet shutdown was implemented this  has shown significant decrease.",164100.0
+2017,IT_NET_BBNDN,231,IS_GE10M,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,"Starting end of 2016, and in 2017 our country was under a state of emergency where internet shutdown was implemented this  has shown significant decrease.",1942.0
+2021,IT_NET_BBNDN,231,IS_GE10M,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,"Starting end of 2016, and in 2017 our country was under a state of emergency where internet shutdown was implemented this  has shown significant decrease.",19000.0
+2022,IT_NET_BBNDN,231,IS_GE10M,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,"Starting end of 2016, and in 2017 our country was under a state of emergency where internet shutdown was implemented this  has shown significant decrease.",29757.0

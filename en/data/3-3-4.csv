@@ -1,0 +1,4 @@
+Year,SERIES,REF_AREA,AGE,UNIT_MEASURE,DATA_LAST_UPDATE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,UPPER_BOUND,LOWER_BOUND,SOURCE_DETAIL,Value
+2015,SH_HAP_HBSAG,231,Y0T4,PT,2021-05-20T00:00:00,A,0,2020,1.85,1.36,"Based on serosurveys at city, subnational or national level. World Health Organisation (WHO).",2.61
+2018,SH_HAP_HBSAG,231,Y0T4,PT,2021-05-20T00:00:00,A,0,2020,1.85,1.36,"Based on serosurveys at city, subnational or national level. World Health Organisation (WHO).",1.47
+2020,SH_HAP_HBSAG,231,Y0T4,PT,2021-05-20T00:00:00,A,0,2020,1.85,1.36,"Based on serosurveys at city, subnational or national level. World Health Organisation (WHO).",1.59

@@ -1,0 +1,3 @@
+Year,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,COMMENT_OBS,SOURCE_DETAIL,Value
+2000,EN_TWT_GENV,231,T,2025-03-21T00:00:00,A,0,2001,Data refer to Addis Ababa city only.,"UN Statistics Division, Country Files from the UNSD/UNEP data collection on environment statistics (available at: https://unstats.un.org/unsd/envstats/country_files) - UNSD/UNEP Questionnaire",132330
+2001,EN_TWT_GENV,231,T,2025-03-21T00:00:00,A,0,2001,Data refer to Addis Ababa city only.,"UN Statistics Division, Country Files from the UNSD/UNEP data collection on environment statistics (available at: https://unstats.un.org/unsd/envstats/country_files) - UNSD/UNEP Questionnaire",151250

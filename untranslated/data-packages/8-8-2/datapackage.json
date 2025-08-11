@@ -1,0 +1,100 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "231",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "E",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2023",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SDG indicator 8.8.2 seeks to measure the level of national compliance with fundamental labour rights (freedom of association and collective bargaining). It is based on six International Labour Organization (ILO) supervisory body textual sources and also on national legislation. National law is not enacted for the purpose of generating a statistical indicator of compliance with fundamental rights, nor were any of the ILO textual sources created for this purpose. Indicator 8.8.2 is compiled from these sources and its use does not constitute a waiver of the respective ILO Constituents' divergent points of view on the sources' conclusions. SDG indicator 8.8.2 is not intended as a tool to compare compliance among ILO member States. It should specifically be noted that reporting obligations of an ILO member State to the ILO's supervisory system and thus ILO textual sources are different for ratifying and non-ratifying ILO member States. Remarks: The score should be treated with care due to the possibility of insufficient information in the textual sources, based on comparison with an externally produced indicator (see Metadata, point 4.f.)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ILO calculations based on information from ILO textual sources.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-8-2",
+  "title": "Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation, by sex and migrant status"
+}

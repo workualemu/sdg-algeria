@@ -1,0 +1,13 @@
+Year,SERIES,REF_AREA,SEX,UNIT_MEASURE,DATA_LAST_UPDATE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,SOURCE_DETAIL,Value
+2012,SE_PRE_PARTN,231,None,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,22.92605
+2014,SE_PRE_PARTN,231,None,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,31.78716
+2015,SE_PRE_PARTN,231,None,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,34.36309
+2021,SE_PRE_PARTN,231,None,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,41.41765
+2012,SE_PRE_PARTN,231,F,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,24.30373
+2014,SE_PRE_PARTN,231,F,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,30.72625
+2015,SE_PRE_PARTN,231,F,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,33.40538
+2021,SE_PRE_PARTN,231,F,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,40.32731
+2012,SE_PRE_PARTN,231,M,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,21.59545
+2014,SE_PRE_PARTN,231,M,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,32.80958
+2015,SE_PRE_PARTN,231,M,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,35.28586
+2021,SE_PRE_PARTN,231,M,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,42.46679

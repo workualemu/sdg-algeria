@@ -1,0 +1,3 @@
+Year,SERIES,REF_AREA,ACTIVITY,UNIT_MEASURE,DATA_LAST_UPDATE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,SOURCE_DETAIL,Value
+2011,FC_ACC_SSID,231,ISIC4_C,PT,2025-02-27T00:00:00,A,0,2015,World Bank Enterprise Surveys. Available at https://www.enterprisesurveys.org/,3.77
+2015,FC_ACC_SSID,231,ISIC4_C,PT,2025-02-27T00:00:00,A,0,2015,World Bank Enterprise Surveys. Available at https://www.enterprisesurveys.org/,32.87

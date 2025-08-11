@@ -1,0 +1,7 @@
+Year,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,DATA_LAST_UPDATE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,COMMENT_OBS,SOURCE_DETAIL,Value
+2013,SL_TLF_NEET,231,None,Y15T24,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,10.48
+2021,SL_TLF_NEET,231,None,Y15T24,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,17.53
+2013,SL_TLF_NEET,231,F,Y15T24,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,15.13
+2021,SL_TLF_NEET,231,F,Y15T24,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,24.88
+2013,SL_TLF_NEET,231,M,Y15T24,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,5.66
+2021,SL_TLF_NEET,231,M,Y15T24,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,9.87

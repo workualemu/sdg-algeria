@@ -1,0 +1,11 @@
+Year,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,COMMENT_OBS,SOURCE_DETAIL,Value
+1999,SH_XPD_EARN10,231,PT,2024-12-03T00:00:00,A,0,2018,"Survey-based estimate, using household total consumption expenditure in the denominator",Ethiopia Socioeconomic Survey 2018-2019,1.58
+2004,SH_XPD_EARN10,231,PT,2024-12-03T00:00:00,A,0,2018,"Survey-based estimate, using household total consumption expenditure in the denominator",Ethiopia Socioeconomic Survey 2018-2019,0.82
+2011,SH_XPD_EARN10,231,PT,2024-12-03T00:00:00,A,0,2018,"Survey-based estimate, using household total consumption expenditure in the denominator",Ethiopia Socioeconomic Survey 2018-2019,1.88
+2015,SH_XPD_EARN10,231,PT,2024-12-03T00:00:00,A,0,2018,"Survey-based estimate, using household total consumption expenditure in the denominator",Ethiopia Socioeconomic Survey 2018-2019,2.12
+2018,SH_XPD_EARN10,231,PT,2024-12-03T00:00:00,A,0,2018,"Survey-based estimate, using household total consumption expenditure in the denominator",Ethiopia Socioeconomic Survey 2018-2019,3.48
+1999,SH_XPD_EARN25,231,PT,2024-12-03T00:00:00,A,0,2018,"Survey-based estimate, using household total consumption expenditure in the denominator",Ethiopia Socioeconomic Survey 2018-2019,0.11
+2004,SH_XPD_EARN25,231,PT,2024-12-03T00:00:00,A,0,2018,"Survey-based estimate, using household total consumption expenditure in the denominator",Ethiopia Socioeconomic Survey 2018-2019,0.18
+2011,SH_XPD_EARN25,231,PT,2024-12-03T00:00:00,A,0,2018,"Survey-based estimate, using household total consumption expenditure in the denominator",Ethiopia Socioeconomic Survey 2018-2019,0.2
+2015,SH_XPD_EARN25,231,PT,2024-12-03T00:00:00,A,0,2018,"Survey-based estimate, using household total consumption expenditure in the denominator",Ethiopia Socioeconomic Survey 2018-2019,0.27
+2018,SH_XPD_EARN25,231,PT,2024-12-03T00:00:00,A,0,2018,"Survey-based estimate, using household total consumption expenditure in the denominator",Ethiopia Socioeconomic Survey 2018-2019,0.57

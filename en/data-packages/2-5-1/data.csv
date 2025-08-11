@@ -1,0 +1,74 @@
+Year,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,SOURCE_DETAIL,COMMENT_OBS,Value
+2000,ER_GRF_ANIMKPT,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,8.0
+2001,ER_GRF_ANIMKPT,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,8.0
+2002,ER_GRF_ANIMKPT,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,8.0
+2003,ER_GRF_ANIMKPT,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,8.0
+2004,ER_GRF_ANIMKPT,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,8.0
+2005,ER_GRF_ANIMKPT,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,9.0
+2006,ER_GRF_ANIMKPT,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,65.0
+2007,ER_GRF_ANIMKPT,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,65.0
+2008,ER_GRF_ANIMKPT,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,65.0
+2009,ER_GRF_ANIMKPT,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,65.0
+2010,ER_GRF_ANIMKPT,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,65.0
+2011,ER_GRF_ANIMKPT,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,65.0
+2012,ER_GRF_ANIMKPT,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,65.0
+2013,ER_GRF_ANIMKPT,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,65.0
+2014,ER_GRF_ANIMKPT,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,65.0
+2015,ER_GRF_ANIMKPT,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,65.0
+2016,ER_GRF_ANIMKPT,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,65.0
+2017,ER_GRF_ANIMKPT,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,65.0
+2018,ER_GRF_ANIMKPT,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,65.0
+2019,ER_GRF_ANIMKPT,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,65.0
+2020,ER_GRF_ANIMKPT,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,65.0
+2021,ER_GRF_ANIMKPT,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,65.0
+2022,ER_GRF_ANIMKPT,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,65.0
+2023,ER_GRF_ANIMKPT,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,65.0
+2024,ER_GRF_ANIMKPT,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,93.0
+2000,ER_GRF_ANIMKPT_TRB,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,1.0
+2001,ER_GRF_ANIMKPT_TRB,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,1.0
+2002,ER_GRF_ANIMKPT_TRB,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,1.0
+2003,ER_GRF_ANIMKPT_TRB,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,1.0
+2004,ER_GRF_ANIMKPT_TRB,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,1.0
+2005,ER_GRF_ANIMKPT_TRB,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,1.0
+2006,ER_GRF_ANIMKPT_TRB,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,14.0
+2007,ER_GRF_ANIMKPT_TRB,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,14.0
+2008,ER_GRF_ANIMKPT_TRB,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,14.0
+2009,ER_GRF_ANIMKPT_TRB,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,14.0
+2010,ER_GRF_ANIMKPT_TRB,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,14.0
+2011,ER_GRF_ANIMKPT_TRB,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,14.0
+2012,ER_GRF_ANIMKPT_TRB,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,14.0
+2013,ER_GRF_ANIMKPT_TRB,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,14.0
+2014,ER_GRF_ANIMKPT_TRB,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,14.0
+2015,ER_GRF_ANIMKPT_TRB,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,14.0
+2016,ER_GRF_ANIMKPT_TRB,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,14.0
+2017,ER_GRF_ANIMKPT_TRB,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,14.0
+2018,ER_GRF_ANIMKPT_TRB,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,14.0
+2019,ER_GRF_ANIMKPT_TRB,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,14.0
+2020,ER_GRF_ANIMKPT_TRB,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,14.0
+2021,ER_GRF_ANIMKPT_TRB,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,14.0
+2022,ER_GRF_ANIMKPT_TRB,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,14.0
+2023,ER_GRF_ANIMKPT_TRB,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,14.0
+2024,ER_GRF_ANIMKPT_TRB,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,,15.0
+2020,ER_GRF_ANIMRCNTN,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,NaN = A figure was not provided,5.0
+2021,ER_GRF_ANIMRCNTN,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,NaN = A figure was not provided,5.0
+2022,ER_GRF_ANIMRCNTN,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,NaN = A figure was not provided,5.0
+2023,ER_GRF_ANIMRCNTN,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,NaN = A figure was not provided,5.0
+2024,ER_GRF_ANIMRCNTN,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,NaN = A figure was not provided,5.0
+2020,ER_GRF_ANIMRCNTN_TRB,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,NaN = A figure was not provided,0.0
+2021,ER_GRF_ANIMRCNTN_TRB,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,NaN = A figure was not provided,0.0
+2022,ER_GRF_ANIMRCNTN_TRB,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,NaN = A figure was not provided,0.0
+2023,ER_GRF_ANIMRCNTN_TRB,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,NaN = A figure was not provided,0.0
+2024,ER_GRF_ANIMRCNTN_TRB,231,NUMBER,2025-03-21T00:00:00,E,0,2024,Institute of Biodiversity Conservation and Research,NaN = A figure was not provided,0.0
+1995,ER_GRF_PLNTSTOR,231,NUMBER,2025-03-21T00:00:00,E,0,2022,FAO-WIEWS (http://www.fao.org/wiews),Estimate based on 2019 report.,52024.0
+2000,ER_GRF_PLNTSTOR,231,NUMBER,2025-03-21T00:00:00,E,0,2022,FAO-WIEWS (http://www.fao.org/wiews),Estimate based on 2019 report.,56078.0
+2005,ER_GRF_PLNTSTOR,231,NUMBER,2025-03-21T00:00:00,E,0,2022,FAO-WIEWS (http://www.fao.org/wiews),Estimate based on 2019 report.,67207.0
+2010,ER_GRF_PLNTSTOR,231,NUMBER,2025-03-21T00:00:00,E,0,2022,FAO-WIEWS (http://www.fao.org/wiews),Estimate based on 2019 report.,70695.0
+2012,ER_GRF_PLNTSTOR,231,NUMBER,2025-03-21T00:00:00,E,0,2022,FAO-WIEWS (http://www.fao.org/wiews),Estimate based on 2019 report.,70975.0
+2014,ER_GRF_PLNTSTOR,231,NUMBER,2025-03-21T00:00:00,E,0,2022,FAO-WIEWS (http://www.fao.org/wiews),Estimate based on 2019 report.,71553.0
+2016,ER_GRF_PLNTSTOR,231,NUMBER,2025-03-21T00:00:00,E,0,2022,FAO-WIEWS (http://www.fao.org/wiews),Estimate based on 2019 report.,72510.0
+2017,ER_GRF_PLNTSTOR,231,NUMBER,2025-03-21T00:00:00,E,0,2022,FAO-WIEWS (http://www.fao.org/wiews),Estimate based on 2019 report.,72510.0
+2018,ER_GRF_PLNTSTOR,231,NUMBER,2025-03-21T00:00:00,E,0,2022,FAO-WIEWS (http://www.fao.org/wiews),Estimate based on 2019 report.,72510.0
+2019,ER_GRF_PLNTSTOR,231,NUMBER,2025-03-21T00:00:00,E,0,2022,FAO-WIEWS (http://www.fao.org/wiews),Estimate based on 2019 report.,73164.0
+2020,ER_GRF_PLNTSTOR,231,NUMBER,2025-03-21T00:00:00,E,0,2022,FAO-WIEWS (http://www.fao.org/wiews),Estimate based on 2019 report.,73164.0
+2021,ER_GRF_PLNTSTOR,231,NUMBER,2025-03-21T00:00:00,E,0,2022,FAO-WIEWS (http://www.fao.org/wiews),Estimate based on 2019 report.,73164.0
+2022,ER_GRF_PLNTSTOR,231,NUMBER,2025-03-21T00:00:00,E,0,2022,FAO-WIEWS (http://www.fao.org/wiews),Estimate based on 2019 report.,73164.0

@@ -1,0 +1,15 @@
+Year,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,COMMENT_OBS,SOURCE_DETAIL,Value
+2010,SH_TRP_INTVN,231,NUMBER,2025-02-13T00:00:00,A,0,2023,Aggregation across diseases,WHO Global Health Observatory,65000000
+2011,SH_TRP_INTVN,231,NUMBER,2025-02-13T00:00:00,A,0,2023,Aggregation across diseases,WHO Global Health Observatory,65000000
+2012,SH_TRP_INTVN,231,NUMBER,2025-02-13T00:00:00,A,0,2023,Aggregation across diseases,WHO Global Health Observatory,55026689
+2013,SH_TRP_INTVN,231,NUMBER,2025-02-13T00:00:00,A,0,2023,Aggregation across diseases,WHO Global Health Observatory,64497779
+2014,SH_TRP_INTVN,231,NUMBER,2025-02-13T00:00:00,A,0,2023,Aggregation across diseases,WHO Global Health Observatory,72657474
+2015,SH_TRP_INTVN,231,NUMBER,2025-02-13T00:00:00,A,0,2023,Aggregation across diseases,WHO Global Health Observatory,75106161
+2016,SH_TRP_INTVN,231,NUMBER,2025-02-13T00:00:00,A,0,2023,Aggregation across diseases,WHO Global Health Observatory,74204513
+2017,SH_TRP_INTVN,231,NUMBER,2025-02-13T00:00:00,A,0,2023,Aggregation across diseases,WHO Global Health Observatory,69802693
+2018,SH_TRP_INTVN,231,NUMBER,2025-02-13T00:00:00,A,0,2023,Aggregation across diseases,WHO Global Health Observatory,77653029
+2019,SH_TRP_INTVN,231,NUMBER,2025-02-13T00:00:00,A,0,2023,Aggregation across diseases,WHO Global Health Observatory,76238251
+2020,SH_TRP_INTVN,231,NUMBER,2025-02-13T00:00:00,A,0,2023,Aggregation across diseases,WHO Global Health Observatory,75731040
+2021,SH_TRP_INTVN,231,NUMBER,2025-02-13T00:00:00,A,0,2023,Aggregation across diseases,WHO Global Health Observatory,71787220
+2022,SH_TRP_INTVN,231,NUMBER,2025-02-13T00:00:00,A,0,2023,Aggregation across diseases,WHO Global Health Observatory,67815004
+2023,SH_TRP_INTVN,231,NUMBER,2025-02-13T00:00:00,A,0,2023,Aggregation across diseases,WHO Global Health Observatory,63060994

@@ -1,0 +1,40 @@
+Year,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,SOURCE_DETAIL,Value
+2010,ER_FFS_CMPT_CD,231,USD,2025-03-21T00:00:00,A,9,2022,"IEA fossil fuel subsidies database, OECD.Stat- Inventory of Support Measures for Fossil Fuels and IMF Energy Subsidies Template (pre-tax calculations)",0.37093
+2011,ER_FFS_CMPT_CD,231,USD,2025-03-21T00:00:00,A,9,2022,"IEA fossil fuel subsidies database, OECD.Stat- Inventory of Support Measures for Fossil Fuels and IMF Energy Subsidies Template (pre-tax calculations)",0.45669
+2012,ER_FFS_CMPT_CD,231,USD,2025-03-21T00:00:00,A,9,2022,"IEA fossil fuel subsidies database, OECD.Stat- Inventory of Support Measures for Fossil Fuels and IMF Energy Subsidies Template (pre-tax calculations)",0.60384
+2013,ER_FFS_CMPT_CD,231,USD,2025-03-21T00:00:00,A,9,2022,"IEA fossil fuel subsidies database, OECD.Stat- Inventory of Support Measures for Fossil Fuels and IMF Energy Subsidies Template (pre-tax calculations)",0.74879
+2014,ER_FFS_CMPT_CD,231,USD,2025-03-21T00:00:00,A,9,2022,"IEA fossil fuel subsidies database, OECD.Stat- Inventory of Support Measures for Fossil Fuels and IMF Energy Subsidies Template (pre-tax calculations)",0.64425
+2015,ER_FFS_CMPT_CD,231,USD,2025-03-21T00:00:00,A,9,2022,"IEA fossil fuel subsidies database, OECD.Stat- Inventory of Support Measures for Fossil Fuels and IMF Energy Subsidies Template (pre-tax calculations)",0.5522
+2016,ER_FFS_CMPT_CD,231,USD,2025-03-21T00:00:00,A,9,2022,"IEA fossil fuel subsidies database, OECD.Stat- Inventory of Support Measures for Fossil Fuels and IMF Energy Subsidies Template (pre-tax calculations)",0.59332
+2017,ER_FFS_CMPT_CD,231,USD,2025-03-21T00:00:00,A,9,2022,"IEA fossil fuel subsidies database, OECD.Stat- Inventory of Support Measures for Fossil Fuels and IMF Energy Subsidies Template (pre-tax calculations)",0.65955
+2018,ER_FFS_CMPT_CD,231,USD,2025-03-21T00:00:00,A,9,2022,"IEA fossil fuel subsidies database, OECD.Stat- Inventory of Support Measures for Fossil Fuels and IMF Energy Subsidies Template (pre-tax calculations)",1.6767
+2019,ER_FFS_CMPT_CD,231,USD,2025-03-21T00:00:00,A,9,2022,"IEA fossil fuel subsidies database, OECD.Stat- Inventory of Support Measures for Fossil Fuels and IMF Energy Subsidies Template (pre-tax calculations)",1.1147
+2020,ER_FFS_CMPT_CD,231,USD,2025-03-21T00:00:00,A,9,2022,"IEA fossil fuel subsidies database, OECD.Stat- Inventory of Support Measures for Fossil Fuels and IMF Energy Subsidies Template (pre-tax calculations)",0.77225
+2021,ER_FFS_CMPT_CD,231,USD,2025-03-21T00:00:00,A,9,2022,"IEA fossil fuel subsidies database, OECD.Stat- Inventory of Support Measures for Fossil Fuels and IMF Energy Subsidies Template (pre-tax calculations)",1.86724
+2022,ER_FFS_CMPT_CD,231,USD,2025-03-21T00:00:00,A,9,2022,"IEA fossil fuel subsidies database, OECD.Stat- Inventory of Support Measures for Fossil Fuels and IMF Energy Subsidies Template (pre-tax calculations)",4.13769
+2010,ER_FFS_CMPT_GDP,231,PT,2025-03-21T00:00:00,A,0,2022,"IEA fossil fuel subsidies database, OECD.Stat- Inventory of Support Measures for Fossil Fuels and IMF Energy Subsidies Template (pre-tax calculations)",0.97306
+2011,ER_FFS_CMPT_GDP,231,PT,2025-03-21T00:00:00,A,0,2022,"IEA fossil fuel subsidies database, OECD.Stat- Inventory of Support Measures for Fossil Fuels and IMF Energy Subsidies Template (pre-tax calculations)",1.05876
+2012,ER_FFS_CMPT_GDP,231,PT,2025-03-21T00:00:00,A,0,2022,"IEA fossil fuel subsidies database, OECD.Stat- Inventory of Support Measures for Fossil Fuels and IMF Energy Subsidies Template (pre-tax calculations)",1.28847
+2013,ER_FFS_CMPT_GDP,231,PT,2025-03-21T00:00:00,A,0,2022,"IEA fossil fuel subsidies database, OECD.Stat- Inventory of Support Measures for Fossil Fuels and IMF Energy Subsidies Template (pre-tax calculations)",1.44486
+2014,ER_FFS_CMPT_GDP,231,PT,2025-03-21T00:00:00,A,0,2022,"IEA fossil fuel subsidies database, OECD.Stat- Inventory of Support Measures for Fossil Fuels and IMF Energy Subsidies Template (pre-tax calculations)",1.12743
+2015,ER_FFS_CMPT_GDP,231,PT,2025-03-21T00:00:00,A,0,2022,"IEA fossil fuel subsidies database, OECD.Stat- Inventory of Support Measures for Fossil Fuels and IMF Energy Subsidies Template (pre-tax calculations)",0.87542
+2016,ER_FFS_CMPT_GDP,231,PT,2025-03-21T00:00:00,A,0,2022,"IEA fossil fuel subsidies database, OECD.Stat- Inventory of Support Measures for Fossil Fuels and IMF Energy Subsidies Template (pre-tax calculations)",0.87447
+2017,ER_FFS_CMPT_GDP,231,PT,2025-03-21T00:00:00,A,0,2022,"IEA fossil fuel subsidies database, OECD.Stat- Inventory of Support Measures for Fossil Fuels and IMF Energy Subsidies Template (pre-tax calculations)",0.88723
+2018,ER_FFS_CMPT_GDP,231,PT,2025-03-21T00:00:00,A,0,2022,"IEA fossil fuel subsidies database, OECD.Stat- Inventory of Support Measures for Fossil Fuels and IMF Energy Subsidies Template (pre-tax calculations)",2.11159
+2019,ER_FFS_CMPT_GDP,231,PT,2025-03-21T00:00:00,A,0,2022,"IEA fossil fuel subsidies database, OECD.Stat- Inventory of Support Measures for Fossil Fuels and IMF Energy Subsidies Template (pre-tax calculations)",1.29546
+2020,ER_FFS_CMPT_GDP,231,PT,2025-03-21T00:00:00,A,0,2022,"IEA fossil fuel subsidies database, OECD.Stat- Inventory of Support Measures for Fossil Fuels and IMF Energy Subsidies Template (pre-tax calculations)",0.8462
+2021,ER_FFS_CMPT_GDP,231,PT,2025-03-21T00:00:00,A,0,2022,"IEA fossil fuel subsidies database, OECD.Stat- Inventory of Support Measures for Fossil Fuels and IMF Energy Subsidies Template (pre-tax calculations)",1.9368
+2022,ER_FFS_CMPT_GDP,231,PT,2025-03-21T00:00:00,A,0,2022,"IEA fossil fuel subsidies database, OECD.Stat- Inventory of Support Measures for Fossil Fuels and IMF Energy Subsidies Template (pre-tax calculations)",4.07497
+2010,ER_FFS_CMPT_PC_CD,231,USD,2025-03-21T00:00:00,A,0,2022,UNEP / WESR,4.15665
+2011,ER_FFS_CMPT_PC_CD,231,USD,2025-03-21T00:00:00,A,0,2022,UNEP / WESR,4.97391
+2012,ER_FFS_CMPT_PC_CD,231,USD,2025-03-21T00:00:00,A,0,2022,UNEP / WESR,6.39314
+2013,ER_FFS_CMPT_PC_CD,231,USD,2025-03-21T00:00:00,A,0,2022,UNEP / WESR,7.7128
+2014,ER_FFS_CMPT_PC_CD,231,USD,2025-03-21T00:00:00,A,0,2022,UNEP / WESR,6.4589
+2015,ER_FFS_CMPT_PC_CD,231,USD,2025-03-21T00:00:00,A,0,2022,UNEP / WESR,5.38882
+2016,ER_FFS_CMPT_PC_CD,231,USD,2025-03-21T00:00:00,A,0,2022,UNEP / WESR,5.63489
+2017,ER_FFS_CMPT_PC_CD,231,USD,2025-03-21T00:00:00,A,0,2022,UNEP / WESR,6.09577
+2018,ER_FFS_CMPT_PC_CD,231,USD,2025-03-21T00:00:00,A,0,2022,UNEP / WESR,15.08784
+2019,ER_FFS_CMPT_PC_CD,231,USD,2025-03-21T00:00:00,A,0,2022,UNEP / WESR,9.7677
+2020,ER_FFS_CMPT_PC_CD,231,USD,2025-03-21T00:00:00,A,0,2022,UNEP / WESR,6.58964
+2021,ER_FFS_CMPT_PC_CD,231,USD,2025-03-21T00:00:00,A,0,2022,UNEP / WESR,15.52375
+2022,ER_FFS_CMPT_PC_CD,231,USD,2025-03-21T00:00:00,A,0,2022,UNEP / WESR,33.53621

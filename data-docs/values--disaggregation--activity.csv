@@ -1,0 +1,14 @@
+Value,Disaggregation combinations using this value,Number of indicators
+HH,1,1
+ISIC3_D,1,1
+ISIC4_A,3,1
+ISIC4_A01_A0210_A0322,2,2
+ISIC4_BTFXE,7,3
+ISIC4_BTU,3,1
+ISIC4_C,7,5
+ISIC4_C10T32X19,1,1
+ISIC4_F,1,1
+ISIC4_GTS,1,1
+ISIC4_GTS_HH,1,1
+ISIC4_GTT,2,2
+None,13,5
