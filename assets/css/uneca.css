@@ -1,0 +1,92 @@
+:root {
+  --eca-teal: #056c8c;
+  --eca-text: #ffffff;
+  --eca-btn-stroke: rgba(255, 255, 255, 0.75);
+  --eca-btn-fill: rgba(255, 255, 255, 0.08);
+  --eca-btn-fill-hover: rgba(255, 255, 255, 0.16);
+  --eca-stripe-h: 8px;
+  --eca-square-w: 10px;
+}
+
+/* Banner wrapper */
+.eca-banner {
+  background: var(--eca-teal);
+  color: var(--eca-text);
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+}
+
+/* Top teal bar */
+.eca-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 64px;
+  padding: 0 clamp(16px, 3vw, 40px);
+}
+
+/* Left: logo + name */
+.eca-brand {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.eca-logo {
+  width: 120px;
+  height: 120px;
+}
+
+.eca-name {
+  font-size: 28px;
+  letter-spacing: 0.02em;
+  font-weight: 600;
+}
+
+/* Right: HOME button */
+.eca-home-btn {
+  appearance: none;
+  border: 1px solid var(--eca-btn-stroke);
+  background: var(--eca-btn-fill);
+  color: var(--eca-text);
+  padding: 8px 16px;
+  border-radius: 999px;
+  font-size: 12px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: background 0.15s ease, box-shadow 0.15s ease, transform 0.02s ease;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.05), 0 2px 4px rgba(0, 0, 0, 0.15) inset;
+}
+
+.eca-home-btn:hover {
+  background: var(--eca-btn-fill-hover);
+}
+
+.eca-home-btn:active {
+  transform: translateY(1px);
+}
+
+/* Bottom SDG multi-color strip */
+.eca-sdg-strip {
+  height: var(--eca-stripe-h);
+  background: repeating-linear-gradient(
+    90deg,
+    #E5243B 0 calc(var(--eca-square-w) * 1),
+    #DDA63A 0 calc(var(--eca-square-w) * 2),
+    #4C9F38 0 calc(var(--eca-square-w) * 3),
+    #C5192D 0 calc(var(--eca-square-w) * 4),
+    #FF3A21 0 calc(var(--eca-square-w) * 5),
+    #26BDE2 0 calc(var(--eca-square-w) * 6),
+    #FCC30B 0 calc(var(--eca-square-w) * 7),
+    #A21942 0 calc(var(--eca-square-w) * 8),
+    #FD6925 0 calc(var(--eca-square-w) * 9),
+    #DD1367 0 calc(var(--eca-square-w) * 10),
+    #FD9D24 0 calc(var(--eca-square-w) * 11),
+    #BF8B2E 0 calc(var(--eca-square-w) * 12),
+    #3F7E44 0 calc(var(--eca-square-w) * 13),
+    #0A97D9 0 calc(var(--eca-square-w) * 14),
+    #56C02B 0 calc(var(--eca-square-w) * 15),
+    #00689D 0 calc(var(--eca-square-w) * 16),
+    #19486A 0 calc(var(--eca-square-w) * 17)
+  );
+}
