@@ -1,13 +1,37 @@
-Year,SERIES,REF_AREA,SEX,UNIT_MEASURE,DATA_LAST_UPDATE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,SOURCE_DETAIL,Value
-2012,SE_PRE_PARTN,231,None,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,22.92605
-2014,SE_PRE_PARTN,231,None,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,31.78716
-2015,SE_PRE_PARTN,231,None,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,34.36309
-2021,SE_PRE_PARTN,231,None,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,41.41765
-2012,SE_PRE_PARTN,231,F,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,24.30373
-2014,SE_PRE_PARTN,231,F,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,30.72625
-2015,SE_PRE_PARTN,231,F,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,33.40538
-2021,SE_PRE_PARTN,231,F,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,40.32731
-2012,SE_PRE_PARTN,231,M,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,21.59545
-2014,SE_PRE_PARTN,231,M,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,32.80958
-2015,SE_PRE_PARTN,231,M,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,35.28586
-2021,SE_PRE_PARTN,231,M,PT,2025-03-05T00:00:00,A,0,2021,Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.,42.46679
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,SEX,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2003,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,12,None,PT,2025-03-05T00:00:00,2024,8.86068
+2004,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,12,None,PT,2025-03-05T00:00:00,2024,12.26067
+2005,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,12,None,PT,2025-03-05T00:00:00,2024,13.76741
+2006,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,12,None,PT,2025-03-05T00:00:00,2024,33.61716
+2008,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,12,None,PT,2025-03-05T00:00:00,2024,42.40167
+2009,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,12,None,PT,2025-03-05T00:00:00,2024,80.52463
+2010,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,12,None,PT,2025-03-05T00:00:00,2024,82.8532
+2011,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,12,None,PT,2025-03-05T00:00:00,2024,77.75941
+2021,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,12,None,PT,2025-03-05T00:00:00,2024,62.7558
+2022,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,12,None,PT,2025-03-05T00:00:00,2024,66.09644
+2023,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,12,None,PT,2025-03-05T00:00:00,2024,66.39774
+2024,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,12,None,PT,2025-03-05T00:00:00,2024,58.99851
+2003,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,12,F,PT,2025-03-05T00:00:00,2024,8.97441
+2004,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,12,F,PT,2025-03-05T00:00:00,2024,12.26564
+2005,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,12,F,PT,2025-03-05T00:00:00,2024,13.2631
+2006,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,12,F,PT,2025-03-05T00:00:00,2024,33.41658
+2008,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,12,F,PT,2025-03-05T00:00:00,2024,41.2302
+2009,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,12,F,PT,2025-03-05T00:00:00,2024,80.28409
+2010,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,12,F,PT,2025-03-05T00:00:00,2024,80.83574
+2011,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,12,F,PT,2025-03-05T00:00:00,2024,78.86764
+2021,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,12,F,PT,2025-03-05T00:00:00,2024,63.87249
+2022,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,12,F,PT,2025-03-05T00:00:00,2024,67.46003
+2023,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,12,F,PT,2025-03-05T00:00:00,2024,67.85757
+2024,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,12,F,PT,2025-03-05T00:00:00,2024,59.58738
+2003,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,12,M,PT,2025-03-05T00:00:00,2024,8.75592
+2004,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,12,M,PT,2025-03-05T00:00:00,2024,12.25589
+2005,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,12,M,PT,2025-03-05T00:00:00,2024,14.25277
+2006,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,12,M,PT,2025-03-05T00:00:00,2024,33.80974
+2008,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,12,M,PT,2025-03-05T00:00:00,2024,43.52264
+2009,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,12,M,PT,2025-03-05T00:00:00,2024,80.75446
+2010,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,12,M,PT,2025-03-05T00:00:00,2024,84.77942
+2011,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,12,M,PT,2025-03-05T00:00:00,2024,76.70218
+2021,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,12,M,PT,2025-03-05T00:00:00,2024,61.68289
+2022,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,12,M,PT,2025-03-05T00:00:00,2024,64.78565
+2023,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,12,M,PT,2025-03-05T00:00:00,2024,64.99482
+2024,A,0,SOURCE: UIS Education Survey Data extracted on 25 February 2025.,SE_PRE_PARTN,12,M,PT,2025-03-05T00:00:00,2024,58.43296

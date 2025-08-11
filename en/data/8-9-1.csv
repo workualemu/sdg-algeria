@@ -1,2 +1,17 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,SOURCE_DETAIL,Value
-2019,ST_GDP_ZS,231,PT,2025-03-12T00:00:00,A,0,2019,Ethiopia Tourism Satellite Account,2.60604
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2008,A,0,The data correspond to Tourism GVA (direct) as a percentage of total GVA.,National Statistics Office,ST_GDP_ZS,12,PT,2025-03-12T00:00:00,2023,0.77914
+2009,A,0,The data correspond to Tourism GVA (direct) as a percentage of total GVA.,National Statistics Office,ST_GDP_ZS,12,PT,2025-03-12T00:00:00,2023,1.01034
+2010,A,0,The data correspond to Tourism GVA (direct) as a percentage of total GVA.,National Statistics Office,ST_GDP_ZS,12,PT,2025-03-12T00:00:00,2023,0.95513
+2011,A,0,The data correspond to Tourism GVA (direct) as a percentage of total GVA.,National Statistics Office,ST_GDP_ZS,12,PT,2025-03-12T00:00:00,2023,0.82206
+2012,A,0,The data correspond to Tourism GVA (direct) as a percentage of total GVA.,National Statistics Office,ST_GDP_ZS,12,PT,2025-03-12T00:00:00,2023,0.87226
+2013,A,0,The data correspond to Tourism GVA (direct) as a percentage of total GVA.,National Statistics Office,ST_GDP_ZS,12,PT,2025-03-12T00:00:00,2023,1.00661
+2014,A,0,The data correspond to Tourism GVA (direct) as a percentage of total GVA.,National Statistics Office,ST_GDP_ZS,12,PT,2025-03-12T00:00:00,2023,1.03
+2015,A,0,The data correspond to Tourism GVA (direct) as a percentage of total GVA.,National Statistics Office,ST_GDP_ZS,12,PT,2025-03-12T00:00:00,2023,1.15092
+2016,A,0,The data correspond to Tourism GVA (direct) as a percentage of total GVA.,National Statistics Office,ST_GDP_ZS,12,PT,2025-03-12T00:00:00,2023,1.28468
+2017,A,0,The data correspond to Tourism GVA (direct) as a percentage of total GVA.,National Statistics Office,ST_GDP_ZS,12,PT,2025-03-12T00:00:00,2023,1.37483
+2018,A,0,The data correspond to Tourism GVA (direct) as a percentage of total GVA.,National Statistics Office,ST_GDP_ZS,12,PT,2025-03-12T00:00:00,2023,1.39329
+2019,A,0,The data correspond to Tourism GVA (direct) as a percentage of total GVA.,National Statistics Office,ST_GDP_ZS,12,PT,2025-03-12T00:00:00,2023,1.38079
+2020,A,0,The data correspond to Tourism GVA (direct) as a percentage of total GVA.,National Statistics Office,ST_GDP_ZS,12,PT,2025-03-12T00:00:00,2023,0.60856
+2021,A,0,The data correspond to Tourism GVA (direct) as a percentage of total GVA.,National Statistics Office,ST_GDP_ZS,12,PT,2025-03-12T00:00:00,2023,0.81195
+2022,A,0,The data correspond to Tourism GVA (direct) as a percentage of total GVA.,National Statistics Office,ST_GDP_ZS,12,PT,2025-03-12T00:00:00,2023,1.08616
+2023,A,0,The data correspond to Tourism GVA (direct) as a percentage of total GVA.,National Statistics Office,ST_GDP_ZS,12,PT,2025-03-12T00:00:00,2023,1.39349

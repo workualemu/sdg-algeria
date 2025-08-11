@@ -15,33 +15,11 @@
             "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "231",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "DATA_LAST_UPDATE",
-            "type": "string"
-          },
-          {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
-                "Q",
+                "A",
                 ""
               ]
             }
@@ -57,21 +35,11 @@
             }
           },
           {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2024",
-                ""
-              ]
-            }
-          },
-          {
             "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
-                "Missing value - suppressed",
+                "Level of implementation: 1 lowest to 5 highest",
                 ""
               ]
             }
@@ -81,7 +49,39 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Food and Agriculture Organization of the United Nations (FAO)",
+                "Questionnaire on the implementation of the Code of Conduct for Responsible Fisheries - Country self-reporting",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "12",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2024",
                 ""
               ]
             }

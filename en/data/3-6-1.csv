@@ -1,3 +1,3 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,UPPER_BOUND,LOWER_BOUND,SOURCE_DETAIL,Value
-2021,SH_STA_TRAF,231,PER_100000_POP,2024-05-23T00:00:00,A,0,2021,20.1,15.3,"Global Status Report on Road Safety 2023 ( Data come from different sources police data, Ministry of health and Ministry of transport, studies and Survey)",17.7
-2021,SH_STA_TRAFN,231,NUMBER,2024-05-07T00:00:00,A,0,2021,24153,18363,"Global Status Report on Road Safety 2023 ( Data come from different sources police data, Ministry of health and Ministry of transport, studies and Survey)",21258.0
+Year,OBS_STATUS,UNIT_MULT,UPPER_BOUND,LOWER_BOUND,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2021,A,0,20.6,16.1,"Global Status Report on Road Safety 2023 ( Data come from different sources police data, Ministry of health and Ministry of transport, studies and Survey)",SH_STA_TRAF,12,PER_100000_POP,2024-05-23T00:00:00,2021,18.3
+2021,A,0,9094,7119,"Global Status Report on Road Safety 2023 ( Data come from different sources police data, Ministry of health and Ministry of transport, studies and Survey)",SH_STA_TRAFN,12,NUMBER,2024-05-07T00:00:00,2021,8106.0

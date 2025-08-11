@@ -16,32 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "231",
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "DATA_LAST_UPDATE",
-            "type": "string",
-            "title": "DATA_LAST_UPDATE"
-          },
-          {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
@@ -64,15 +38,15 @@
             "title": "UNIT_MULT"
           },
           {
-            "name": "TIME_DETAIL",
+            "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
-                "2017",
+                "Break in series with previous year for which data are available",
                 ""
               ]
             },
-            "title": "TIME_DETAIL"
+            "title": "COMMENT_OBS"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -86,15 +60,41 @@
             "title": "SOURCE_DETAIL"
           },
           {
-            "name": "COMMENT_OBS",
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Break in series with previous year for which data are available",
+                "12",
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "REF_AREA"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string",
+            "title": "DATA_LAST_UPDATE"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2017",
+                ""
+              ]
+            },
+            "title": "TIME_DETAIL"
           },
           {
             "name": "Value",

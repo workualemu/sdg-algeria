@@ -15,6 +15,47 @@
             "type": "integer"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Data in reference to one country but derived from different types of sources should not be compared between them.",
+                "NaN = Value omitted for confidentiality reasons. Data in reference to one country but derived from different types of sources should not be compared between them.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "GLOTIP Database",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SERIES",
             "type": "string"
           },
@@ -23,6 +64,19 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "12",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "F",
+                "M",
                 ""
               ]
             }
@@ -32,6 +86,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "None",
+                "Y_GE18",
+                "Y0T17",
                 ""
               ]
             }
@@ -45,46 +102,14 @@
             "type": "string"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
+                "2022",
+                "2020",
+                "2017",
+                "2016",
                 ""
               ]
             }

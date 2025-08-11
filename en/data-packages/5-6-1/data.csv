@@ -1,9 +1,1 @@
-Year,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,DATA_LAST_UPDATE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,COMMENT_OBS,SOURCE_DETAIL,Value
-2011,SH_FPL_INFM,231,F,Y15T49,PT,2025-03-10T00:00:00,A,0,2016,"Based on women aged 15-49 years married or in union, regardless of whether they are using any contraceptives.","DHS 2016. UNFPA Global Database, 2025.",53.4
-2016,SH_FPL_INFM,231,F,Y15T49,PT,2025-03-10T00:00:00,A,0,2016,"Based on women aged 15-49 years married or in union, regardless of whether they are using any contraceptives.","DHS 2016. UNFPA Global Database, 2025.",38.0
-2011,SH_FPL_INFMCU,231,F,Y15T49,PT,2025-03-10T00:00:00,A,0,2016,"Based on women aged 15-49 years married or in union, regardless of whether they are using any contraceptives.","DHS 2016. UNFPA Global Database, 2024.",96.4
-2016,SH_FPL_INFMCU,231,F,Y15T49,PT,2025-03-10T00:00:00,A,0,2016,"Based on women aged 15-49 years married or in union, regardless of whether they are using any contraceptives.","DHS 2016. UNFPA Global Database, 2024.",90.5
-2011,SH_FPL_INFMRH,231,F,Y15T49,PT,2025-03-10T00:00:00,A,0,2016,"Based on women aged 15-49 years married or in union, regardless of whether they are using any contraceptives.","DHS 2016. UNFPA Global Database, 2024.",82.5
-2016,SH_FPL_INFMRH,231,F,Y15T49,PT,2025-03-10T00:00:00,A,0,2016,"Based on women aged 15-49 years married or in union, regardless of whether they are using any contraceptives.","DHS 2016. UNFPA Global Database, 2024.",81.8
-2011,SH_FPL_INFMSR,231,F,Y15T49,PT,2025-03-10T00:00:00,A,0,2016,"Based on women aged 15-49 years married or in union, regardless of whether they are using any contraceptives.","DHS 2016. UNFPA Global Database, 2024.",63.0
-2016,SH_FPL_INFMSR,231,F,Y15T49,PT,2025-03-10T00:00:00,A,0,2016,"Based on women aged 15-49 years married or in union, regardless of whether they are using any contraceptives.","DHS 2016. UNFPA Global Database, 2024.",45.6
+Year,Value

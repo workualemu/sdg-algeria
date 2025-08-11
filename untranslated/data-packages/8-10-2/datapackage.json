@@ -15,6 +15,36 @@
             "type": "integer"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "The World Bank (2021), Global Findex Database (https://www.worldbank.org/en/publication/globalfindex)",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SERIES",
             "type": "string"
           },
@@ -23,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "231",
+                "12",
                 ""
               ]
             }
@@ -48,18 +78,6 @@
                 "Y_GE15",
                 "Y_GE25",
                 "Y15T24",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "None",
-                "R",
-                "U",
                 ""
               ]
             }
@@ -97,41 +115,11 @@
             "type": "string"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
-                ""
-              ]
-            }
-          },
-          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "2022",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "The World Bank (2021), Global Findex Database (https://www.worldbank.org/en/publication/globalfindex)",
+                "2021",
                 ""
               ]
             }

@@ -15,33 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "231",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "DATA_LAST_UPDATE",
-            "type": "string"
-          },
-          {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
                 "A",
+                "D",
                 ""
               ]
             }
@@ -57,38 +36,128 @@
             }
           },
           {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2018",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Litter from riverbanks",
-                ""
-              ]
-            }
-          },
-          {
             "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
+                "Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",
                 "Plastic Pollution (MLW, MDMAP, ICC)",
+                "World Environment Situation Room",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "12",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "CUST_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "C08",
+                "C12",
+                "C191",
+                "C196",
+                "C250",
+                "C275",
+                "C300",
+                "C336",
+                "C376",
+                "C380",
+                "C400",
+                "C422",
+                "C434",
+                "C470",
+                "C504",
+                "C724",
+                "C760",
+                "C788",
+                "C792",
+                "C818",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "FCC_E",
+                "FCC_H",
+                "FCC_M",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2010-2021",
+                "2010-2022",
+                "2010-2019",
+                "2018",
+                "2022",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "CUST_BREAKDOWN_LB",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Algeria",
+                "Croatia",
+                "Cyprus",
+                "France",
+                "State of Palestine",
+                "Greece",
+                "Holy See",
+                "Israel",
+                "Italy",
+                "Jordan",
+                "Lebanon",
+                "Libya",
+                "Malta",
+                "Morocco",
+                "Spain",
+                "Syrian Arab Republic",
+                "Tunisia",
+                "Turkey",
+                "Egypt",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

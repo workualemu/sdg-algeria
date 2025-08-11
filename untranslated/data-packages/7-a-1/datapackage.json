@@ -15,45 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "231",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "None",
-                "TRT_BIOENERGY",
-                "TRT_GEOTHERMAL",
-                "TRT_HYDROPOWER",
-                "TRT_MARINE",
-                "TRT_MULTIPLE",
-                "TRT_SOLAR",
-                "TRT_WIND",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "DATA_LAST_UPDATE",
-            "type": "string"
-          },
-          {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
@@ -84,16 +45,6 @@
             }
           },
           {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2023",
-                ""
-              ]
-            }
-          },
-          {
             "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
@@ -109,6 +60,55 @@
             "constraints": {
               "enum": [
                 "DAC Statistics database, 2025, The Organisation for Economic Co-operation and Development (OECD) and IRENA Public Finance Database, 2025, The international Renewable Energy Agency (IRENA)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "12",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "TRT_BIOENERGY",
+                "TRT_GEOTHERMAL",
+                "TRT_HYDROPOWER",
+                "TRT_MARINE",
+                "TRT_MULTIPLE",
+                "TRT_SOLAR",
+                "TRT_WIND",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2023",
                 ""
               ]
             }

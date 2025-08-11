@@ -15,28 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "231",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "DATA_LAST_UPDATE",
-            "type": "string"
-          },
-          {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
@@ -52,18 +30,6 @@
             "constraints": {
               "enum": [
                 "0",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2014-2024",
-                "2012-2024",
-                "2024",
                 ""
               ]
             }
@@ -88,6 +54,40 @@
                 "https://absch.cbd.int/countries",
                 "https://www.cbd.int/abs/nagoya-protocol/signatories/default.shtml, Access and Benefit-sharing Clearing-house https://absch.cbd.int/, http://www.fao.org/plant-treaty/countries/membership/en/,  The Online Reporting System on Compliance of the International",
                 "ITPGRFA Secretariat",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "12",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2014-2024",
+                "2012-2024",
+                "2024",
                 ""
               ]
             }

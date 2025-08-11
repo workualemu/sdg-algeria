@@ -1,4 +1,2 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,COMMENT_OBS,SOURCE_DETAIL,Value
-2004,SI_POV_NAHC,231,PT,2025-04-29T00:00:00,A,0,2015,"Source: FDRE, 2017. Poverty line is absolute.","Poverty and Inequality Platform, World Bank",39
-2010,SI_POV_NAHC,231,PT,2025-04-29T00:00:00,A,0,2015,"Source: FDRE, 2017. Poverty line is absolute.","Poverty and Inequality Platform, World Bank",30
-2015,SI_POV_NAHC,231,PT,2025-04-29T00:00:00,A,0,2015,"Source: FDRE, 2017. Poverty line is absolute.","Poverty and Inequality Platform, World Bank",24
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2011,A,0,Source: La Pauvrete en Algerie en 2011. Direction Des Statistiques Sociales et des Revenus. Septembre 2014. Poverty line is absolute. Government estimate.,"Poverty and Inequality Platform, World Bank",SI_POV_NAHC,12,PT,2025-04-29T00:00:00,2011,6

@@ -1,1 +1,256 @@
-Year,Value
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,SEX,AGE,URBANISATION,COMPOSITE_BREAKDOWN,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,None,SKILL_DLDONLD,PT,2025-03-14T00:00:00,2018,27.3
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,None,SKILL_FONLCRS,PT,2025-03-14T00:00:00,2018,15.7
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,None,SKILL_GSINF,PT,2025-03-14T00:00:00,2018,23.5
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,None,SKILL_GSPUR,PT,2025-03-14T00:00:00,2018,11.3
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,None,SKILL_HLTHINF,PT,2025-03-14T00:00:00,2018,20.5
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,None,SKILL_ICTATCH,PT,2025-03-14T00:00:00,2018,16.1
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,None,SKILL_ICTCDV,PT,2025-03-14T00:00:00,2018,16.2
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,None,SKILL_ICTCPT,PT,2025-03-14T00:00:00,2018,17.7
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,None,SKILL_ICTPRGM,PT,2025-03-14T00:00:00,2018,6.9
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,None,SKILL_ICTPST,PT,2025-03-14T00:00:00,2018,7.2
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,None,SKILL_ICTSFWR,PT,2025-03-14T00:00:00,2018,15.5
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,None,SKILL_ICTSSHT,PT,2025-03-14T00:00:00,2018,9.4
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,None,SKILL_INTBNK,PT,2025-03-14T00:00:00,2018,6.3
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,None,SKILL_ONLCNS,PT,2025-03-14T00:00:00,2018,4.9
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,None,SKILL_ONLSFT,PT,2025-03-14T00:00:00,2018,4.5
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,None,SKILL_SNTWK,PT,2025-03-14T00:00:00,2018,40.8
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,None,SKILL_VOIP,PT,2025-03-14T00:00:00,2018,33.2
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,R,SKILL_DLDONLD,PT,2025-03-14T00:00:00,2018,17.1
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,R,SKILL_FONLCRS,PT,2025-03-14T00:00:00,2018,11.1
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,R,SKILL_GSINF,PT,2025-03-14T00:00:00,2018,15.1
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,R,SKILL_GSPUR,PT,2025-03-14T00:00:00,2018,6.0
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,R,SKILL_HLTHINF,PT,2025-03-14T00:00:00,2018,11.3
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,R,SKILL_ICTATCH,PT,2025-03-14T00:00:00,2018,9.3
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,R,SKILL_ICTCDV,PT,2025-03-14T00:00:00,2018,9.2
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,R,SKILL_ICTCPT,PT,2025-03-14T00:00:00,2018,10.3
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,R,SKILL_ICTPRGM,PT,2025-03-14T00:00:00,2018,3.8
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,R,SKILL_ICTPST,PT,2025-03-14T00:00:00,2018,4.2
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,R,SKILL_ICTSFWR,PT,2025-03-14T00:00:00,2018,8.4
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,R,SKILL_ICTSSHT,PT,2025-03-14T00:00:00,2018,5.8
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,R,SKILL_INTBNK,PT,2025-03-14T00:00:00,2018,3.2
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,R,SKILL_ONLCNS,PT,2025-03-14T00:00:00,2018,4.0
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,R,SKILL_ONLSFT,PT,2025-03-14T00:00:00,2018,2.5
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,R,SKILL_SNTWK,PT,2025-03-14T00:00:00,2018,30.8
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,R,SKILL_VOIP,PT,2025-03-14T00:00:00,2018,23.8
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,U,SKILL_DLDONLD,PT,2025-03-14T00:00:00,2018,32.3
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,U,SKILL_FONLCRS,PT,2025-03-14T00:00:00,2018,17.9
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,U,SKILL_GSINF,PT,2025-03-14T00:00:00,2018,27.5
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,U,SKILL_GSPUR,PT,2025-03-14T00:00:00,2018,13.8
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,U,SKILL_HLTHINF,PT,2025-03-14T00:00:00,2018,24.9
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,U,SKILL_ICTATCH,PT,2025-03-14T00:00:00,2018,19.4
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,U,SKILL_ICTCDV,PT,2025-03-14T00:00:00,2018,19.6
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,U,SKILL_ICTCPT,PT,2025-03-14T00:00:00,2018,21.3
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,U,SKILL_ICTPRGM,PT,2025-03-14T00:00:00,2018,8.4
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,U,SKILL_ICTPST,PT,2025-03-14T00:00:00,2018,8.7
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,U,SKILL_ICTSFWR,PT,2025-03-14T00:00:00,2018,19.0
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,U,SKILL_ICTSSHT,PT,2025-03-14T00:00:00,2018,11.1
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,U,SKILL_INTBNK,PT,2025-03-14T00:00:00,2018,7.7
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,U,SKILL_ONLCNS,PT,2025-03-14T00:00:00,2018,5.4
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,U,SKILL_ONLSFT,PT,2025-03-14T00:00:00,2018,5.5
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,U,SKILL_SNTWK,PT,2025-03-14T00:00:00,2018,45.6
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,None,U,SKILL_VOIP,PT,2025-03-14T00:00:00,2018,37.7
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,Y15T24,None,SKILL_DLDONLD,PT,2025-03-14T00:00:00,2018,35.0
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,Y15T24,None,SKILL_FONLCRS,PT,2025-03-14T00:00:00,2018,27.2
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,Y15T24,None,SKILL_GSINF,PT,2025-03-14T00:00:00,2018,29.1
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,Y15T24,None,SKILL_GSPUR,PT,2025-03-14T00:00:00,2018,13.2
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,Y15T24,None,SKILL_HLTHINF,PT,2025-03-14T00:00:00,2018,22.5
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,Y15T24,None,SKILL_ICTATCH,PT,2025-03-14T00:00:00,2018,20.3
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,Y15T24,None,SKILL_ICTCDV,PT,2025-03-14T00:00:00,2018,22.3
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,Y15T24,None,SKILL_ICTCPT,PT,2025-03-14T00:00:00,2018,24.7
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,Y15T24,None,SKILL_ICTPRGM,PT,2025-03-14T00:00:00,2018,7.5
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,Y15T24,None,SKILL_ICTPST,PT,2025-03-14T00:00:00,2018,8.7
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,Y15T24,None,SKILL_ICTSFWR,PT,2025-03-14T00:00:00,2018,21.2
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,Y15T24,None,SKILL_ICTSSHT,PT,2025-03-14T00:00:00,2018,12.3
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,Y15T24,None,SKILL_INTBNK,PT,2025-03-14T00:00:00,2018,4.3
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,Y15T24,None,SKILL_ONLCNS,PT,2025-03-14T00:00:00,2018,7.4
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,Y15T24,None,SKILL_ONLSFT,PT,2025-03-14T00:00:00,2018,5.8
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,Y15T24,None,SKILL_SNTWK,PT,2025-03-14T00:00:00,2018,57.5
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,Y15T24,None,SKILL_VOIP,PT,2025-03-14T00:00:00,2018,44.2
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,Y25T74,None,SKILL_DLDONLD,PT,2025-03-14T00:00:00,2018,26.3
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,Y25T74,None,SKILL_FONLCRS,PT,2025-03-14T00:00:00,2018,12.9
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,Y25T74,None,SKILL_GSINF,PT,2025-03-14T00:00:00,2018,22.9
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,Y25T74,None,SKILL_GSPUR,PT,2025-03-14T00:00:00,2018,11.2
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,Y25T74,None,SKILL_HLTHINF,PT,2025-03-14T00:00:00,2018,20.8
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,Y25T74,None,SKILL_ICTATCH,PT,2025-03-14T00:00:00,2018,15.7
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,Y25T74,None,SKILL_ICTCDV,PT,2025-03-14T00:00:00,2018,15.1
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,Y25T74,None,SKILL_ICTCPT,PT,2025-03-14T00:00:00,2018,16.5
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,Y25T74,None,SKILL_ICTPRGM,PT,2025-03-14T00:00:00,2018,7.0
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,Y25T74,None,SKILL_ICTPST,PT,2025-03-14T00:00:00,2018,7.1
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,Y25T74,None,SKILL_ICTSFWR,PT,2025-03-14T00:00:00,2018,14.6
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,Y25T74,None,SKILL_ICTSSHT,PT,2025-03-14T00:00:00,2018,9.0
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,Y25T74,None,SKILL_INTBNK,PT,2025-03-14T00:00:00,2018,7.1
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,Y25T74,None,SKILL_ONLCNS,PT,2025-03-14T00:00:00,2018,4.4
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,Y25T74,None,SKILL_ONLSFT,PT,2025-03-14T00:00:00,2018,4.4
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,Y25T74,None,SKILL_SNTWK,PT,2025-03-14T00:00:00,2018,37.7
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,None,Y25T74,None,SKILL_VOIP,PT,2025-03-14T00:00:00,2018,31.4
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,None,SKILL_DLDONLD,PT,2025-03-14T00:00:00,2018,21.7
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,None,SKILL_FONLCRS,PT,2025-03-14T00:00:00,2018,15.2
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,None,SKILL_GSINF,PT,2025-03-14T00:00:00,2018,17.7
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,None,SKILL_GSPUR,PT,2025-03-14T00:00:00,2018,7.4
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,None,SKILL_HLTHINF,PT,2025-03-14T00:00:00,2018,18.4
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,None,SKILL_ICTATCH,PT,2025-03-14T00:00:00,2018,10.5
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,None,SKILL_ICTCDV,PT,2025-03-14T00:00:00,2018,10.3
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,None,SKILL_ICTCPT,PT,2025-03-14T00:00:00,2018,12.5
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,None,SKILL_ICTPRGM,PT,2025-03-14T00:00:00,2018,4.7
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,None,SKILL_ICTPST,PT,2025-03-14T00:00:00,2018,4.6
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,None,SKILL_ICTSFWR,PT,2025-03-14T00:00:00,2018,10.5
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,None,SKILL_ICTSSHT,PT,2025-03-14T00:00:00,2018,5.8
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,None,SKILL_INTBNK,PT,2025-03-14T00:00:00,2018,3.8
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,None,SKILL_ONLCNS,PT,2025-03-14T00:00:00,2018,3.1
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,None,SKILL_ONLSFT,PT,2025-03-14T00:00:00,2018,2.9
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,None,SKILL_SNTWK,PT,2025-03-14T00:00:00,2018,31.5
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,None,SKILL_VOIP,PT,2025-03-14T00:00:00,2018,26.5
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,R,SKILL_DLDONLD,PT,2025-03-14T00:00:00,2018,12.9
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,R,SKILL_FONLCRS,PT,2025-03-14T00:00:00,2018,10.6
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,R,SKILL_GSINF,PT,2025-03-14T00:00:00,2018,9.7
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,R,SKILL_GSPUR,PT,2025-03-14T00:00:00,2018,3.1
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,R,SKILL_HLTHINF,PT,2025-03-14T00:00:00,2018,9.2
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,R,SKILL_ICTATCH,PT,2025-03-14T00:00:00,2018,6.5
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,R,SKILL_ICTCDV,PT,2025-03-14T00:00:00,2018,6.5
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,R,SKILL_ICTCPT,PT,2025-03-14T00:00:00,2018,8.3
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,R,SKILL_ICTPRGM,PT,2025-03-14T00:00:00,2018,2.7
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,R,SKILL_ICTPST,PT,2025-03-14T00:00:00,2018,3.5
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,R,SKILL_ICTSFWR,PT,2025-03-14T00:00:00,2018,6.3
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,R,SKILL_ICTSSHT,PT,2025-03-14T00:00:00,2018,4.0
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,R,SKILL_INTBNK,PT,2025-03-14T00:00:00,2018,2.8
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,R,SKILL_ONLCNS,PT,2025-03-14T00:00:00,2018,2.6
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,R,SKILL_ONLSFT,PT,2025-03-14T00:00:00,2018,1.7
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,R,SKILL_SNTWK,PT,2025-03-14T00:00:00,2018,19.5
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,R,SKILL_VOIP,PT,2025-03-14T00:00:00,2018,17.9
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,U,SKILL_DLDONLD,PT,2025-03-14T00:00:00,2018,25.8
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,U,SKILL_FONLCRS,PT,2025-03-14T00:00:00,2018,17.4
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,U,SKILL_GSINF,PT,2025-03-14T00:00:00,2018,21.4
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,U,SKILL_GSPUR,PT,2025-03-14T00:00:00,2018,9.4
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,U,SKILL_HLTHINF,PT,2025-03-14T00:00:00,2018,22.7
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,U,SKILL_ICTATCH,PT,2025-03-14T00:00:00,2018,12.3
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,U,SKILL_ICTCDV,PT,2025-03-14T00:00:00,2018,12.0
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,U,SKILL_ICTCPT,PT,2025-03-14T00:00:00,2018,14.5
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,U,SKILL_ICTPRGM,PT,2025-03-14T00:00:00,2018,5.6
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,U,SKILL_ICTPST,PT,2025-03-14T00:00:00,2018,5.1
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,U,SKILL_ICTSFWR,PT,2025-03-14T00:00:00,2018,12.5
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,U,SKILL_ICTSSHT,PT,2025-03-14T00:00:00,2018,6.6
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,U,SKILL_INTBNK,PT,2025-03-14T00:00:00,2018,4.3
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,U,SKILL_ONLCNS,PT,2025-03-14T00:00:00,2018,3.3
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,U,SKILL_ONLSFT,PT,2025-03-14T00:00:00,2018,3.5
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,U,SKILL_SNTWK,PT,2025-03-14T00:00:00,2018,37.1
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,None,U,SKILL_VOIP,PT,2025-03-14T00:00:00,2018,30.5
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,Y15T24,None,SKILL_DLDONLD,PT,2025-03-14T00:00:00,2018,35.3
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,Y15T24,None,SKILL_FONLCRS,PT,2025-03-14T00:00:00,2018,25.5
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,Y15T24,None,SKILL_GSINF,PT,2025-03-14T00:00:00,2018,26.9
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,Y15T24,None,SKILL_GSPUR,PT,2025-03-14T00:00:00,2018,11.3
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,Y15T24,None,SKILL_HLTHINF,PT,2025-03-14T00:00:00,2018,24.1
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,Y15T24,None,SKILL_ICTATCH,PT,2025-03-14T00:00:00,2018,15.5
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,Y15T24,None,SKILL_ICTCDV,PT,2025-03-14T00:00:00,2018,19.3
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,Y15T24,None,SKILL_ICTCPT,PT,2025-03-14T00:00:00,2018,22.7
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,Y15T24,None,SKILL_ICTPRGM,PT,2025-03-14T00:00:00,2018,6.5
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,Y15T24,None,SKILL_ICTPST,PT,2025-03-14T00:00:00,2018,8.1
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,Y15T24,None,SKILL_ICTSFWR,PT,2025-03-14T00:00:00,2018,18.5
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,Y15T24,None,SKILL_ICTSSHT,PT,2025-03-14T00:00:00,2018,10.9
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,Y15T24,None,SKILL_INTBNK,PT,2025-03-14T00:00:00,2018,2.9
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,Y15T24,None,SKILL_ONLCNS,PT,2025-03-14T00:00:00,2018,5.8
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,Y15T24,None,SKILL_ONLSFT,PT,2025-03-14T00:00:00,2018,6.4
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,Y15T24,None,SKILL_SNTWK,PT,2025-03-14T00:00:00,2018,48.6
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,Y15T24,None,SKILL_VOIP,PT,2025-03-14T00:00:00,2018,38.9
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,Y25T74,None,SKILL_DLDONLD,PT,2025-03-14T00:00:00,2018,18.8
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,Y25T74,None,SKILL_FONLCRS,PT,2025-03-14T00:00:00,2018,12.9
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,Y25T74,None,SKILL_GSINF,PT,2025-03-14T00:00:00,2018,15.8
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,Y25T74,None,SKILL_GSPUR,PT,2025-03-14T00:00:00,2018,6.6
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,Y25T74,None,SKILL_HLTHINF,PT,2025-03-14T00:00:00,2018,17.6
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,Y25T74,None,SKILL_ICTATCH,PT,2025-03-14T00:00:00,2018,9.5
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,Y25T74,None,SKILL_ICTCDV,PT,2025-03-14T00:00:00,2018,8.1
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,Y25T74,None,SKILL_ICTCPT,PT,2025-03-14T00:00:00,2018,10.1
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,Y25T74,None,SKILL_ICTPRGM,PT,2025-03-14T00:00:00,2018,4.4
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,Y25T74,None,SKILL_ICTPST,PT,2025-03-14T00:00:00,2018,3.8
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,Y25T74,None,SKILL_ICTSFWR,PT,2025-03-14T00:00:00,2018,8.7
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,Y25T74,None,SKILL_ICTSSHT,PT,2025-03-14T00:00:00,2018,4.6
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,Y25T74,None,SKILL_INTBNK,PT,2025-03-14T00:00:00,2018,4.3
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,Y25T74,None,SKILL_ONLCNS,PT,2025-03-14T00:00:00,2018,2.4
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,Y25T74,None,SKILL_ONLSFT,PT,2025-03-14T00:00:00,2018,2.0
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,Y25T74,None,SKILL_SNTWK,PT,2025-03-14T00:00:00,2018,28.0
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,F,Y25T74,None,SKILL_VOIP,PT,2025-03-14T00:00:00,2018,24.1
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,None,SKILL_DLDONLD,PT,2025-03-14T00:00:00,2018,32.9
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,None,SKILL_FONLCRS,PT,2025-03-14T00:00:00,2018,16.1
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,None,SKILL_GSINF,PT,2025-03-14T00:00:00,2018,29.2
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,None,SKILL_GSPUR,PT,2025-03-14T00:00:00,2018,15.1
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,None,SKILL_HLTHINF,PT,2025-03-14T00:00:00,2018,22.5
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,None,SKILL_ICTATCH,PT,2025-03-14T00:00:00,2018,21.7
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,None,SKILL_ICTCDV,PT,2025-03-14T00:00:00,2018,22.1
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,None,SKILL_ICTCPT,PT,2025-03-14T00:00:00,2018,22.8
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,None,SKILL_ICTPRGM,PT,2025-03-14T00:00:00,2018,9.1
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,None,SKILL_ICTPST,PT,2025-03-14T00:00:00,2018,9.8
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,None,SKILL_ICTSFWR,PT,2025-03-14T00:00:00,2018,20.5
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,None,SKILL_ICTSSHT,PT,2025-03-14T00:00:00,2018,13.0
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,None,SKILL_INTBNK,PT,2025-03-14T00:00:00,2018,8.6
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,None,SKILL_ONLCNS,PT,2025-03-14T00:00:00,2018,6.8
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,None,SKILL_ONLSFT,PT,2025-03-14T00:00:00,2018,6.1
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,None,SKILL_SNTWK,PT,2025-03-14T00:00:00,2018,49.9
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,None,SKILL_VOIP,PT,2025-03-14T00:00:00,2018,39.7
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,R,SKILL_DLDONLD,PT,2025-03-14T00:00:00,2018,21.0
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,R,SKILL_FONLCRS,PT,2025-03-14T00:00:00,2018,11.6
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,R,SKILL_GSINF,PT,2025-03-14T00:00:00,2018,20.2
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,R,SKILL_GSPUR,PT,2025-03-14T00:00:00,2018,8.8
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,R,SKILL_HLTHINF,PT,2025-03-14T00:00:00,2018,13.3
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,R,SKILL_ICTATCH,PT,2025-03-14T00:00:00,2018,12.0
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,R,SKILL_ICTCDV,PT,2025-03-14T00:00:00,2018,11.8
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,R,SKILL_ICTCPT,PT,2025-03-14T00:00:00,2018,12.2
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,R,SKILL_ICTPRGM,PT,2025-03-14T00:00:00,2018,4.8
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,R,SKILL_ICTPST,PT,2025-03-14T00:00:00,2018,4.9
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,R,SKILL_ICTSFWR,PT,2025-03-14T00:00:00,2018,10.4
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,R,SKILL_ICTSSHT,PT,2025-03-14T00:00:00,2018,7.5
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,R,SKILL_INTBNK,PT,2025-03-14T00:00:00,2018,3.5
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,R,SKILL_ONLCNS,PT,2025-03-14T00:00:00,2018,5.3
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,R,SKILL_ONLSFT,PT,2025-03-14T00:00:00,2018,3.3
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,R,SKILL_SNTWK,PT,2025-03-14T00:00:00,2018,41.4
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,R,SKILL_VOIP,PT,2025-03-14T00:00:00,2018,29.4
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,U,SKILL_DLDONLD,PT,2025-03-14T00:00:00,2018,38.7
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,U,SKILL_FONLCRS,PT,2025-03-14T00:00:00,2018,18.3
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,U,SKILL_GSINF,PT,2025-03-14T00:00:00,2018,33.6
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,U,SKILL_GSPUR,PT,2025-03-14T00:00:00,2018,18.2
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,U,SKILL_HLTHINF,PT,2025-03-14T00:00:00,2018,27.1
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,U,SKILL_ICTATCH,PT,2025-03-14T00:00:00,2018,26.6
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,U,SKILL_ICTCDV,PT,2025-03-14T00:00:00,2018,27.1
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,U,SKILL_ICTCPT,PT,2025-03-14T00:00:00,2018,28.1
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,U,SKILL_ICTPRGM,PT,2025-03-14T00:00:00,2018,11.2
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,U,SKILL_ICTPST,PT,2025-03-14T00:00:00,2018,12.3
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,U,SKILL_ICTSFWR,PT,2025-03-14T00:00:00,2018,25.5
+2018,A,0,Aged 15 and older.,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,U,SKILL_ICTSSHT,PT,2025-03-14T00:00:00,2018,15.7
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,U,SKILL_INTBNK,PT,2025-03-14T00:00:00,2018,11.2
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,U,SKILL_ONLCNS,PT,2025-03-14T00:00:00,2018,7.5
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,U,SKILL_ONLSFT,PT,2025-03-14T00:00:00,2018,7.5
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,U,SKILL_SNTWK,PT,2025-03-14T00:00:00,2018,54.2
+2018,A,0,Aged 15 and older. Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,None,U,SKILL_VOIP,PT,2025-03-14T00:00:00,2018,44.9
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,Y15T24,None,SKILL_DLDONLD,PT,2025-03-14T00:00:00,2018,34.7
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,Y15T24,None,SKILL_FONLCRS,PT,2025-03-14T00:00:00,2018,28.9
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,Y15T24,None,SKILL_GSINF,PT,2025-03-14T00:00:00,2018,31.2
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,Y15T24,None,SKILL_GSPUR,PT,2025-03-14T00:00:00,2018,15.0
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,Y15T24,None,SKILL_HLTHINF,PT,2025-03-14T00:00:00,2018,20.9
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,Y15T24,None,SKILL_ICTATCH,PT,2025-03-14T00:00:00,2018,24.9
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,Y15T24,None,SKILL_ICTCDV,PT,2025-03-14T00:00:00,2018,25.2
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,Y15T24,None,SKILL_ICTCPT,PT,2025-03-14T00:00:00,2018,26.7
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,Y15T24,None,SKILL_ICTPRGM,PT,2025-03-14T00:00:00,2018,8.6
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,Y15T24,None,SKILL_ICTPST,PT,2025-03-14T00:00:00,2018,9.2
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,Y15T24,None,SKILL_ICTSFWR,PT,2025-03-14T00:00:00,2018,23.8
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,Y15T24,None,SKILL_ICTSSHT,PT,2025-03-14T00:00:00,2018,13.6
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,Y15T24,None,SKILL_INTBNK,PT,2025-03-14T00:00:00,2018,5.5
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,Y15T24,None,SKILL_ONLCNS,PT,2025-03-14T00:00:00,2018,8.8
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,Y15T24,None,SKILL_ONLSFT,PT,2025-03-14T00:00:00,2018,5.1
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,Y15T24,None,SKILL_SNTWK,PT,2025-03-14T00:00:00,2018,65.9
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,Y15T24,None,SKILL_VOIP,PT,2025-03-14T00:00:00,2018,49.4
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,Y25T74,None,SKILL_DLDONLD,PT,2025-03-14T00:00:00,2018,33.8
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,Y25T74,None,SKILL_FONLCRS,PT,2025-03-14T00:00:00,2018,12.9
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,Y25T74,None,SKILL_GSINF,PT,2025-03-14T00:00:00,2018,29.9
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,Y25T74,None,SKILL_GSPUR,PT,2025-03-14T00:00:00,2018,15.8
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,Y25T74,None,SKILL_HLTHINF,PT,2025-03-14T00:00:00,2018,24.1
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,Y25T74,None,SKILL_ICTATCH,PT,2025-03-14T00:00:00,2018,21.8
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,Y25T74,None,SKILL_ICTCDV,PT,2025-03-14T00:00:00,2018,22.1
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,Y25T74,None,SKILL_ICTCPT,PT,2025-03-14T00:00:00,2018,22.7
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,Y25T74,None,SKILL_ICTPRGM,PT,2025-03-14T00:00:00,2018,9.7
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,Y25T74,None,SKILL_ICTPST,PT,2025-03-14T00:00:00,2018,10.5
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,Y25T74,None,SKILL_ICTSFWR,PT,2025-03-14T00:00:00,2018,20.5
+2018,A,0,,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,Y25T74,None,SKILL_ICTSSHT,PT,2025-03-14T00:00:00,2018,13.4
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,Y25T74,None,SKILL_INTBNK,PT,2025-03-14T00:00:00,2018,10.0
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,Y25T74,None,SKILL_ONLCNS,PT,2025-03-14T00:00:00,2018,6.4
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,Y25T74,None,SKILL_ONLSFT,PT,2025-03-14T00:00:00,2018,6.7
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,Y25T74,None,SKILL_SNTWK,PT,2025-03-14T00:00:00,2018,47.3
+2018,A,0,Are calculated from the data of the last 12 months,"Ministry of Post, Telecommunications, Technologies and Digital",SE_ADT_ACTS,12,M,Y25T74,None,SKILL_VOIP,PT,2025-03-14T00:00:00,2018,38.6

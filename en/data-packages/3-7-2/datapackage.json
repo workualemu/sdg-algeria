@@ -16,6 +16,40 @@
             "title": "Year"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            },
+            "title": "OBS_STATUS"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Algeria 2018-2019 Multiple Indicator Cluster Survey",
+                "Registration National Statistics",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -25,7 +59,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "231",
+                "12",
                 ""
               ]
             },
@@ -65,48 +99,16 @@
             "title": "DATA_LAST_UPDATE"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            },
-            "title": "OBS_STATUS"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
-                ""
-              ]
-            },
-            "title": "UNIT_MULT"
-          },
-          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
                 "2016-2019",
+                "2019",
                 ""
               ]
             },
             "title": "TIME_DETAIL"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ethiopia 2019 Demographic and Health Survey",
-                ""
-              ]
-            },
-            "title": "SOURCE_DETAIL"
           },
           {
             "name": "Value",

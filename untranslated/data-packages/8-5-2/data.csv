@@ -1,55 +1,92 @@
-Year,SERIES,REF_AREA,SEX,AGE,DISABILITY_STATUS,UNIT_MEASURE,DATA_LAST_UPDATE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,COMMENT_OBS,SOURCE_DETAIL,Value
-2005,SL_TLF_UEM,231,None,Y_GE15,None,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,2.5
-2013,SL_TLF_UEM,231,None,Y_GE15,None,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,2.25
-2021,SL_TLF_UEM,231,None,Y_GE15,None,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,3.93
-2005,SL_TLF_UEM,231,None,Y_GE25,None,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,1.97
-2013,SL_TLF_UEM,231,None,Y_GE25,None,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,1.68
-2021,SL_TLF_UEM,231,None,Y_GE25,None,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,3.09
-2005,SL_TLF_UEM,231,None,Y15T24,None,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,3.61
-2013,SL_TLF_UEM,231,None,Y15T24,None,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,3.53
-2021,SL_TLF_UEM,231,None,Y15T24,None,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,6.39
-2005,SL_TLF_UEM,231,F,Y_GE15,None,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,3.25
-2013,SL_TLF_UEM,231,F,Y_GE15,None,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,2.94
-2021,SL_TLF_UEM,231,F,Y_GE15,None,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,5.27
-2005,SL_TLF_UEM,231,F,Y_GE25,None,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,2.56
-2013,SL_TLF_UEM,231,F,Y_GE25,None,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,2.22
-2021,SL_TLF_UEM,231,F,Y_GE25,None,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,4.07
-2005,SL_TLF_UEM,231,F,Y15T24,None,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,4.6
-2013,SL_TLF_UEM,231,F,Y15T24,None,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,4.48
-2021,SL_TLF_UEM,231,F,Y15T24,None,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,8.4
-2005,SL_TLF_UEM,231,M,Y_GE15,None,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,1.81
-2013,SL_TLF_UEM,231,M,Y_GE15,None,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,1.65
-2021,SL_TLF_UEM,231,M,Y_GE15,None,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,2.93
-2005,SL_TLF_UEM,231,M,Y_GE25,None,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,1.45
-2013,SL_TLF_UEM,231,M,Y_GE25,None,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,1.23
-2021,SL_TLF_UEM,231,M,Y_GE25,None,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,2.4
-2005,SL_TLF_UEM,231,M,Y15T24,None,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,2.63
-2013,SL_TLF_UEM,231,M,Y15T24,None,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,2.65
-2021,SL_TLF_UEM,231,M,Y15T24,None,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,4.65
-2005,SL_TLF_UEMDIS,231,None,Y_GE15,None,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,2.5
-2013,SL_TLF_UEMDIS,231,None,Y_GE15,None,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,2.25
-2021,SL_TLF_UEMDIS,231,None,Y_GE15,None,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,3.93
-2005,SL_TLF_UEMDIS,231,None,Y_GE15,PD,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,2.5
-2013,SL_TLF_UEMDIS,231,None,Y_GE15,PD,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,1.57
-2021,SL_TLF_UEMDIS,231,None,Y_GE15,PD,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,2.43
-2005,SL_TLF_UEMDIS,231,None,Y_GE15,PWD,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,2.5
-2013,SL_TLF_UEMDIS,231,None,Y_GE15,PWD,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,2.27
-2021,SL_TLF_UEMDIS,231,None,Y_GE15,PWD,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,3.95
-2005,SL_TLF_UEMDIS,231,F,Y_GE15,None,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,3.25
-2013,SL_TLF_UEMDIS,231,F,Y_GE15,None,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,2.94
-2021,SL_TLF_UEMDIS,231,F,Y_GE15,None,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,5.27
-2005,SL_TLF_UEMDIS,231,F,Y_GE15,PD,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,3.31
-2013,SL_TLF_UEMDIS,231,F,Y_GE15,PD,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,2.27
-2021,SL_TLF_UEMDIS,231,F,Y_GE15,PD,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,1.64
-2005,SL_TLF_UEMDIS,231,F,Y_GE15,PWD,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,3.25
-2013,SL_TLF_UEMDIS,231,F,Y_GE15,PWD,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,2.96
-2021,SL_TLF_UEMDIS,231,F,Y_GE15,PWD,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,5.31
-2005,SL_TLF_UEMDIS,231,M,Y_GE15,None,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,1.81
-2013,SL_TLF_UEMDIS,231,M,Y_GE15,None,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,1.65
-2021,SL_TLF_UEMDIS,231,M,Y_GE15,None,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,2.93
-2005,SL_TLF_UEMDIS,231,M,Y_GE15,PD,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,1.98
-2013,SL_TLF_UEMDIS,231,M,Y_GE15,PD,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,1.1
-2021,SL_TLF_UEMDIS,231,M,Y_GE15,PD,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,2.94
-2005,SL_TLF_UEMDIS,231,M,Y_GE15,PWD,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,1.81
-2013,SL_TLF_UEMDIS,231,M,Y_GE15,PWD,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,1.67
-2021,SL_TLF_UEMDIS,231,M,Y_GE15,PWD,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,2.93
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,COMMENT_OBS,Value
+2000,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y_GE15,PT,2025-03-15T00:00:00,2016,Data reference period: September,29.77
+2001,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y_GE15,PT,2025-03-15T00:00:00,2016,Data reference period: September,27.3
+2002,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y_GE15,PT,2025-03-15T00:00:00,2016,Data reference period: September,25.9
+2003,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y_GE15,PT,2025-03-15T00:00:00,2016,Data reference period: September,23.72
+2004,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y_GE15,PT,2025-03-15T00:00:00,2016,Data reference period: September,17.65
+2005,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y_GE15,PT,2025-03-15T00:00:00,2016,Data reference period: September,15.27
+2006,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y_GE15,PT,2025-03-15T00:00:00,2016,Data reference period: September,12.27
+2007,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y_GE15,PT,2025-03-15T00:00:00,2016,Data reference period: September,13.79
+2008,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y_GE15,PT,2025-03-15T00:00:00,2016,Data reference period: September,11.33
+2009,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y_GE15,PT,2025-03-15T00:00:00,2016,Data reference period: September,10.16
+2010,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y_GE15,PT,2025-03-15T00:00:00,2016,Data reference period: September,9.96
+2011,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y_GE15,PT,2025-03-15T00:00:00,2016,Data reference period: September,9.96
+2012,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y_GE15,PT,2025-03-15T00:00:00,2016,Data reference period: September,10.97
+2013,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y_GE15,PT,2025-03-15T00:00:00,2016,Data reference period: September,9.82
+2014,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y_GE15,PT,2025-03-15T00:00:00,2016,Data reference period: September,10.21
+2015,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y_GE15,PT,2025-03-15T00:00:00,2016,Data reference period: September,11.21
+2016,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y_GE15,PT,2025-03-15T00:00:00,2016,Data reference period: September,10.2
+2001,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y_GE25,PT,2025-03-15T00:00:00,2016,Data reference period: September,19.96
+2005,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y_GE25,PT,2025-03-15T00:00:00,2016,Data reference period: September,10.47
+2006,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y_GE25,PT,2025-03-15T00:00:00,2016,Data reference period: September,8.92
+2007,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y_GE25,PT,2025-03-15T00:00:00,2016,Data reference period: September,9.98
+2008,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y_GE25,PT,2025-03-15T00:00:00,2016,Data reference period: September,7.92
+2009,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y_GE25,PT,2025-03-15T00:00:00,2016,Data reference period: September,7.24
+2010,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y_GE25,PT,2025-03-15T00:00:00,2016,Data reference period: September,7.07
+2011,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y_GE25,PT,2025-03-15T00:00:00,2016,Data reference period: September,7.17
+2012,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y_GE25,PT,2025-03-15T00:00:00,2016,Data reference period: September,7.56
+2013,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y_GE25,PT,2025-03-15T00:00:00,2016,Data reference period: September,6.77
+2014,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y_GE25,PT,2025-03-15T00:00:00,2016,Data reference period: September,7.37
+2015,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y_GE25,PT,2025-03-15T00:00:00,2016,Data reference period: September,8.03
+2016,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y_GE25,PT,2025-03-15T00:00:00,2016,Data reference period: September,7.71
+2001,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y15T24,PT,2025-03-15T00:00:00,2016,Data reference period: September,47.76
+2005,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y15T24,PT,2025-03-15T00:00:00,2016,Data reference period: September,31.08
+2006,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y15T24,PT,2025-03-15T00:00:00,2016,Data reference period: September,24.3
+2007,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y15T24,PT,2025-03-15T00:00:00,2016,Data reference period: September,27.41
+2008,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y15T24,PT,2025-03-15T00:00:00,2016,Data reference period: September,23.81
+2009,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y15T24,PT,2025-03-15T00:00:00,2016,Data reference period: September,21.26
+2010,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y15T24,PT,2025-03-15T00:00:00,2016,Data reference period: September,21.54
+2011,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y15T24,PT,2025-03-15T00:00:00,2016,Data reference period: September,22.43
+2012,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y15T24,PT,2025-03-15T00:00:00,2016,Data reference period: September,27.54
+2013,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y15T24,PT,2025-03-15T00:00:00,2016,Data reference period: September,24.8
+2014,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y15T24,PT,2025-03-15T00:00:00,2016,Data reference period: September,25.03
+2015,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y15T24,PT,2025-03-15T00:00:00,2016,Data reference period: September,29.84
+2016,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,None,Y15T24,PT,2025-03-15T00:00:00,2016,Data reference period: September,25.72
+2000,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,F,Y_GE15,PT,2025-03-15T00:00:00,2016,Data reference period: September,29.72
+2003,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,F,Y_GE15,PT,2025-03-15T00:00:00,2016,Data reference period: September,25.44
+2004,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,F,Y_GE15,PT,2025-03-15T00:00:00,2016,Data reference period: September,18.19
+2009,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,F,Y_GE15,PT,2025-03-15T00:00:00,2016,Data reference period: September,18.1
+2010,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,F,Y_GE15,PT,2025-03-15T00:00:00,2016,Data reference period: September,19.1
+2012,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,F,Y_GE15,PT,2025-03-15T00:00:00,2016,Data reference period: September,16.99
+2013,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,F,Y_GE15,PT,2025-03-15T00:00:00,2016,Data reference period: September,16.3
+2014,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,F,Y_GE15,PT,2025-03-15T00:00:00,2016,Data reference period: September,15.58
+2015,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,F,Y_GE15,PT,2025-03-15T00:00:00,2016,Data reference period: September,16.57
+2016,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,F,Y_GE15,PT,2025-03-15T00:00:00,2016,Data reference period: September,18.25
+2009,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,F,Y_GE25,PT,2025-03-15T00:00:00,2016,Data reference period: September,14.43
+2010,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,F,Y_GE25,PT,2025-03-15T00:00:00,2016,Data reference period: September,14.98
+2012,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,F,Y_GE25,PT,2025-03-15T00:00:00,2016,Data reference period: September,12.55
+2013,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,F,Y_GE25,PT,2025-03-15T00:00:00,2016,Data reference period: September,11.93
+2014,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,F,Y_GE25,PT,2025-03-15T00:00:00,2016,Data reference period: September,11.77
+2015,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,F,Y_GE25,PT,2025-03-15T00:00:00,2016,Data reference period: September,12.33
+2016,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,F,Y_GE25,PT,2025-03-15T00:00:00,2016,Data reference period: September,14.95
+2009,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,F,Y15T24,PT,2025-03-15T00:00:00,2016,Data reference period: September,34.56
+2010,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,F,Y15T24,PT,2025-03-15T00:00:00,2016,Data reference period: September,37.57
+2012,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,F,Y15T24,PT,2025-03-15T00:00:00,2016,Data reference period: September,39.22
+2013,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,F,Y15T24,PT,2025-03-15T00:00:00,2016,Data reference period: September,39.78
+2014,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,F,Y15T24,PT,2025-03-15T00:00:00,2016,Data reference period: September,39.02
+2015,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,F,Y15T24,PT,2025-03-15T00:00:00,2016,Data reference period: September,45.3
+2016,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,F,Y15T24,PT,2025-03-15T00:00:00,2016,Data reference period: September,44.94
+2000,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,M,Y_GE15,PT,2025-03-15T00:00:00,2016,Data reference period: September,29.78
+2003,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,M,Y_GE15,PT,2025-03-15T00:00:00,2016,Data reference period: September,23.43
+2004,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,M,Y_GE15,PT,2025-03-15T00:00:00,2016,Data reference period: September,17.54
+2009,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,M,Y_GE15,PT,2025-03-15T00:00:00,2016,Data reference period: September,8.57
+2010,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,M,Y_GE15,PT,2025-03-15T00:00:00,2016,Data reference period: September,8.11
+2012,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,M,Y_GE15,PT,2025-03-15T00:00:00,2016,Data reference period: September,9.56
+2013,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,M,Y_GE15,PT,2025-03-15T00:00:00,2016,Data reference period: September,8.3
+2014,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,M,Y_GE15,PT,2025-03-15T00:00:00,2016,Data reference period: September,8.96
+2015,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,M,Y_GE15,PT,2025-03-15T00:00:00,2016,Data reference period: September,9.92
+2016,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,M,Y_GE15,PT,2025-03-15T00:00:00,2016,Data reference period: September,8.18
+2009,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,M,Y_GE25,PT,2025-03-15T00:00:00,2016,Data reference period: September,5.74
+2010,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,M,Y_GE25,PT,2025-03-15T00:00:00,2016,Data reference period: September,5.42
+2012,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,M,Y_GE25,PT,2025-03-15T00:00:00,2016,Data reference period: September,6.37
+2013,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,M,Y_GE25,PT,2025-03-15T00:00:00,2016,Data reference period: September,5.54
+2014,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,M,Y_GE25,PT,2025-03-15T00:00:00,2016,Data reference period: September,6.31
+2015,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,M,Y_GE25,PT,2025-03-15T00:00:00,2016,Data reference period: September,6.97
+2016,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,M,Y_GE25,PT,2025-03-15T00:00:00,2016,Data reference period: September,5.81
+2009,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,M,Y15T24,PT,2025-03-15T00:00:00,2016,Data reference period: September,18.97
+2010,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,M,Y15T24,PT,2025-03-15T00:00:00,2016,Data reference period: September,18.68
+2012,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,M,Y15T24,PT,2025-03-15T00:00:00,2016,Data reference period: September,24.92
+2013,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,M,Y15T24,PT,2025-03-15T00:00:00,2016,Data reference period: September,21.6
+2014,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,M,Y15T24,PT,2025-03-15T00:00:00,2016,Data reference period: September,22.29
+2015,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,M,Y15T24,PT,2025-03-15T00:00:00,2016,Data reference period: September,26.72
+2016,A,0,LFS - Household Employment Survey,SL_TLF_UEM,12,M,Y15T24,PT,2025-03-15T00:00:00,2016,Data reference period: September,22.07

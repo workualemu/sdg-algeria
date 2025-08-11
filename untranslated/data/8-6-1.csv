@@ -1,7 +1,25 @@
-Year,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,DATA_LAST_UPDATE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,COMMENT_OBS,SOURCE_DETAIL,Value
-2013,SL_TLF_NEET,231,None,Y15T24,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,10.48
-2021,SL_TLF_NEET,231,None,Y15T24,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,17.53
-2013,SL_TLF_NEET,231,F,Y15T24,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,15.13
-2021,SL_TLF_NEET,231,F,Y15T24,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,24.88
-2013,SL_TLF_NEET,231,M,Y15T24,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,5.66
-2021,SL_TLF_NEET,231,M,Y15T24,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,9.87
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2009,A,0,Data reference period: September | Age coverage - maximum age: 24 years old,LFS - Household Employment Survey,SL_TLF_NEET,12,None,Y15T24,PT,2025-03-15T00:00:00,2017,25.45
+2010,A,0,Data reference period: September | Age coverage - maximum age: 24 years old,LFS - Household Employment Survey,SL_TLF_NEET,12,None,Y15T24,PT,2025-03-15T00:00:00,2017,24.53
+2011,A,0,Data reference period: September | Age coverage - maximum age: 24 years old,LFS - Household Employment Survey,SL_TLF_NEET,12,None,Y15T24,PT,2025-03-15T00:00:00,2017,26.0
+2012,A,0,Data reference period: September | Age coverage - maximum age: 24 years old,LFS - Household Employment Survey,SL_TLF_NEET,12,None,Y15T24,PT,2025-03-15T00:00:00,2017,22.7
+2013,A,0,Data reference period: September | Age coverage - maximum age: 24 years old,LFS - Household Employment Survey,SL_TLF_NEET,12,None,Y15T24,PT,2025-03-15T00:00:00,2017,21.5
+2014,A,0,Data reference period: September | Age coverage - maximum age: 24 years old,LFS - Household Employment Survey,SL_TLF_NEET,12,None,Y15T24,PT,2025-03-15T00:00:00,2017,22.8
+2015,A,0,Data reference period: September | Age coverage - maximum age: 24 years old,LFS - Household Employment Survey,SL_TLF_NEET,12,None,Y15T24,PT,2025-03-15T00:00:00,2017,21.2
+2017,A,0,Data reference period: September | Age coverage - maximum age: 24 years old,LFS - Household Employment Survey,SL_TLF_NEET,12,None,Y15T24,PT,2025-03-15T00:00:00,2017,20.95
+2009,A,0,Data reference period: September | Age coverage - maximum age: 24 years old,LFS - Household Employment Survey,SL_TLF_NEET,12,F,Y15T24,PT,2025-03-15T00:00:00,2017,39.93
+2010,A,0,Data reference period: September | Age coverage - maximum age: 24 years old,LFS - Household Employment Survey,SL_TLF_NEET,12,F,Y15T24,PT,2025-03-15T00:00:00,2017,39.06
+2011,A,0,Data reference period: September | Age coverage - maximum age: 24 years old,LFS - Household Employment Survey,SL_TLF_NEET,12,F,Y15T24,PT,2025-03-15T00:00:00,2017,37.4
+2012,A,0,Data reference period: September | Age coverage - maximum age: 24 years old,LFS - Household Employment Survey,SL_TLF_NEET,12,F,Y15T24,PT,2025-03-15T00:00:00,2017,34.8
+2013,A,0,Data reference period: September | Age coverage - maximum age: 24 years old,LFS - Household Employment Survey,SL_TLF_NEET,12,F,Y15T24,PT,2025-03-15T00:00:00,2017,34.6
+2014,A,0,Data reference period: September | Age coverage - maximum age: 24 years old,LFS - Household Employment Survey,SL_TLF_NEET,12,F,Y15T24,PT,2025-03-15T00:00:00,2017,34.7
+2015,A,0,Data reference period: September | Age coverage - maximum age: 24 years old,LFS - Household Employment Survey,SL_TLF_NEET,12,F,Y15T24,PT,2025-03-15T00:00:00,2017,32.1
+2017,A,0,Data reference period: September | Age coverage - maximum age: 24 years old,LFS - Household Employment Survey,SL_TLF_NEET,12,F,Y15T24,PT,2025-03-15T00:00:00,2017,31.69
+2009,A,0,Data reference period: September | Age coverage - maximum age: 24 years old,LFS - Household Employment Survey,SL_TLF_NEET,12,M,Y15T24,PT,2025-03-15T00:00:00,2017,11.23
+2010,A,0,Data reference period: September | Age coverage - maximum age: 24 years old,LFS - Household Employment Survey,SL_TLF_NEET,12,M,Y15T24,PT,2025-03-15T00:00:00,2017,10.76
+2011,A,0,Data reference period: September | Age coverage - maximum age: 24 years old,LFS - Household Employment Survey,SL_TLF_NEET,12,M,Y15T24,PT,2025-03-15T00:00:00,2017,15.0
+2012,A,0,Data reference period: September | Age coverage - maximum age: 24 years old,LFS - Household Employment Survey,SL_TLF_NEET,12,M,Y15T24,PT,2025-03-15T00:00:00,2017,10.8
+2013,A,0,Data reference period: September | Age coverage - maximum age: 24 years old,LFS - Household Employment Survey,SL_TLF_NEET,12,M,Y15T24,PT,2025-03-15T00:00:00,2017,8.8
+2014,A,0,Data reference period: September | Age coverage - maximum age: 24 years old,LFS - Household Employment Survey,SL_TLF_NEET,12,M,Y15T24,PT,2025-03-15T00:00:00,2017,11.4
+2015,A,0,Data reference period: September | Age coverage - maximum age: 24 years old,LFS - Household Employment Survey,SL_TLF_NEET,12,M,Y15T24,PT,2025-03-15T00:00:00,2017,10.8
+2017,A,0,Data reference period: September | Age coverage - maximum age: 24 years old,LFS - Household Employment Survey,SL_TLF_NEET,12,M,Y15T24,PT,2025-03-15T00:00:00,2017,10.94

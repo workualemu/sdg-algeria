@@ -15,6 +15,36 @@
             "type": "integer"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "MICS 2018-19, UNICEF and ILO calculations",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SERIES",
             "type": "string"
           },
@@ -23,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "231",
+                "12",
                 ""
               ]
             }
@@ -46,7 +76,6 @@
             "constraints": {
               "enum": [
                 "Y5T17",
-                "Y5T14",
                 ""
               ]
             }
@@ -60,53 +89,11 @@
             "type": "string"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
-                ""
-              ]
-            }
-          },
-          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "2021",
-                "2015",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "NLFS 2021, UNICEF and ILO calculations",
-                "National CLS 2015, ILO Harmonized Microdata, https://ilostat.ilo.org/",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Age is 5-14 years",
+                "2018-19",
                 ""
               ]
             }

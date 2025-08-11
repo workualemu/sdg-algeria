@@ -16,32 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "231",
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "DATA_LAST_UPDATE",
-            "type": "string",
-            "title": "DATA_LAST_UPDATE"
-          },
-          {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
@@ -64,41 +38,117 @@
             "title": "UNIT_MULT"
           },
           {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2001",
-                ""
-              ]
-            },
-            "title": "TIME_DETAIL"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Data refer to Addis Ababa city only.",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
             "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
                 "UN Statistics Division, Country Files from the UNSD/UNEP data collection on environment statistics (available at: https://unstats.un.org/unsd/envstats/country_files) - UNSD/UNEP Questionnaire",
+                "Office National des Statistiques, Algérie",
+                "UNEP / WESR",
                 ""
               ]
             },
             "title": "SOURCE_DETAIL"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "12",
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "WT_INCINRT",
+                "WT_OTHERWM",
+                "WT_RECYCL",
+                "WT_COMPOST",
+                "WT_INCINRT_EGY",
+                "WT_LANDFILCTL",
+                ""
+              ]
+            },
+            "title": "COMPOSITE_BREAKDOWN"
+          },
+          {
+            "name": "ACTIVITY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "ISIC4_S",
+                "ISIC4_T",
+                ""
+              ]
+            },
+            "title": "ACTIVITY"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string",
+            "title": "DATA_LAST_UPDATE"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2020",
+                "2021",
+                "2007",
+                "2017",
+                "2015",
+                "2014",
+                ""
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
+            "name": "BASE_PER",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2015",
+                ""
+              ]
+            },
+            "title": "BASE_PER"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Quantity of hazardous waste in permanent storage.",
+                "The information provided concerns the treatment of waste from healthcare activities by incineration and landfill.",
+                "This is hazardous special waste.",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

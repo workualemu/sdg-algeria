@@ -15,34 +15,11 @@
             "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "231",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "DATA_LAST_UPDATE",
-            "type": "string"
-          },
-          {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
                 "A",
-                "O",
                 ""
               ]
             }
@@ -59,25 +36,13 @@
             }
           },
           {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2020",
-                "2023",
-                "2010-2020",
-                ""
-              ]
-            }
-          },
-          {
             "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
                 "Officially reported data",
                 "No certified forest area",
-                "NaN = A figure was not provided",
+                "Official country data",
                 ""
               ]
             }
@@ -89,7 +54,40 @@
               "enum": [
                 "FAO. Global Forest Resources Assessment 2020",
                 "No data on certified forest area in the FSC and PEFC records",
-                "NA",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "12",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2020",
+                "2023",
+                "2010-2020",
                 ""
               ]
             }

@@ -15,6 +15,47 @@
             "type": "integer"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "From 2010 – 2017, States Parties used the IHR monitoring questionnaire. The report is available in the e-SPAR platform (https://extranet.who.int/e-spar/ ).",
+                "In 2021, the SPAR tool was revised and further improved, taking account of the initial experience of countries with the COVID-19 pandemic. The second edition of SPAR (2021) contains 15 capacities and 35 indicators compared to 13 capacities and 24 indicators in the first edition.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IHR State Party Self-assessment annual report received and recorded in the WHO e-SPAR Platform (https://extranet.who.int/e-spar/ ).",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SERIES",
             "type": "string"
           },
@@ -23,7 +64,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "231",
+                "12",
                 ""
               ]
             }
@@ -87,26 +128,6 @@
             "type": "string"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
-                ""
-              ]
-            }
-          },
-          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -114,27 +135,6 @@
                 "2017",
                 "2020",
                 "2023",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "From 2010 – 2017, States Parties used the IHR monitoring questionnaire. The report is available in the e-SPAR platform (https://extranet.who.int/e-spar/ ).",
-                "In 2021, the SPAR tool was revised and further improved, taking account of the initial experience of countries with the COVID-19 pandemic. The second edition of SPAR (2021) contains 15 capacities and 35 indicators compared to 13 capacities and 24 indicators in the first edition.",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "IHR State Party Self-assessment annual report received and recorded in the WHO e-SPAR Platform (https://extranet.who.int/e-spar/ ).",
                 ""
               ]
             }

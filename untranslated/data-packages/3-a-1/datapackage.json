@@ -15,6 +15,60 @@
             "type": "integer"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UPPER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "26.6",
+                "0.9",
+                "52.3",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "LOWER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15.8",
+                "0.4",
+                "31.3",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "World Health Organization (WHO) Department of the Prevention of Noncommunicable Diseases;  Secretariat of the WHO Framework Convention on Tobacco Control",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SERIES",
             "type": "string"
           },
@@ -23,7 +77,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "231",
+                "12",
                 ""
               ]
             }
@@ -59,26 +113,6 @@
             "type": "string"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
-                ""
-              ]
-            }
-          },
-          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -89,45 +123,11 @@
             }
           },
           {
-            "name": "UPPER_BOUND",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "6.8",
-                "2",
-                "11.6",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "LOWER_BOUND",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "3.7",
-                "1",
-                "6.4",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "World Health Organization (WHO) Department of the Prevention of Noncommunicable Diseases;  Secretariat of the WHO Framework Convention on Tobacco Control",
-                ""
-              ]
-            }
-          },
-          {
             "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
-                "The most recent survey was conducted in 2016. This is a projection.",
+                "The most recent survey was conducted in 2016-17. This is a projection.",
                 ""
               ]
             }

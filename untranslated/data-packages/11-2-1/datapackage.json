@@ -7,72 +7,12 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "mac-roman",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "231",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "CUST_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "C01",
-                "C02",
-                "C03",
-                "C04",
-                "C05",
-                "C06",
-                "C07",
-                "C08",
-                "C09",
-                "C10",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "CUST_BREAKDOWN_LB",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Adama (Nazret)",
-                "Addis Ababa",
-                "Awasa (Hawassa)",
-                "Bahir Dar",
-                "Dire Dawa",
-                "Gonder (Gondar)",
-                "Harar",
-                "Dese (Dessie)",
-                "Jima (Jimma)",
-                "Kobo",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "DATA_LAST_UPDATE",
-            "type": "string"
           },
           {
             "name": "OBS_STATUS",
@@ -95,16 +35,6 @@
             }
           },
           {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2020",
-                ""
-              ]
-            }
-          },
-          {
             "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
@@ -120,6 +50,94 @@
             "constraints": {
               "enum": [
                 "UN-Habitat Urban Indicators Database",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "12",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "CUST_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "C02",
+                "C03",
+                "C04",
+                "C05",
+                "C06",
+                "C07",
+                "C08",
+                "C09",
+                "C10",
+                "C11",
+                "C12",
+                "C13",
+                "C14",
+                "C15",
+                "C16",
+                "C17",
+                "C18",
+                "C19",
+                "C20",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "CUST_BREAKDOWN_LB",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Annaba",
+                "Batna",
+                "Blida (El Boulaïda)",
+                "Chlef",
+                "Constantine (Qacentina)",
+                "Djelfa",
+                "El Djazaïr (Algiers)",
+                "El Khroub",
+                "Khemis Miliana",
+                "Mila",
+                "M'Sila",
+                "Oran (Wahran)",
+                "Tamanrasset (Tamenghasset)",
+                "Tébessa",
+                "Tiaret (Tihert)",
+                "Tolga",
+                "Béjaïa",
+                "Mostaganem (Mestghanem)",
+                "Sétif",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2020",
                 ""
               ]
             }

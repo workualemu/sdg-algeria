@@ -15,6 +15,36 @@
             "type": "integer"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SOURCE: UIS Education Survey Data extracted on 25 February 2025.",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SERIES",
             "type": "string"
           },
@@ -23,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "231",
+                "12",
                 ""
               ]
             }
@@ -45,11 +75,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "AGG_2_3",
                 "ISCED11_02",
                 "ISCED11_1",
-                "ISCED11_2",
-                "ISCED11_3",
                 ""
               ]
             }
@@ -63,46 +90,12 @@
             "type": "string"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
-                ""
-              ]
-            }
-          },
-          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "2010",
-                "2008",
-                "2009",
-                "2011",
-                "2015",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.",
-                "SOURCE: UIS Education Survey Data extracted on 25 February 2025.",
+                "2024",
+                "2023",
                 ""
               ]
             }

@@ -16,6 +16,39 @@
             "title": "Year"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            },
+            "title": "OBS_STATUS"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Algeria MICS 2019. The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above. Data extracted on 25 February 2025.",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -25,7 +58,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "231",
+                "12",
                 ""
               ]
             },
@@ -97,64 +130,15 @@
             "title": "DATA_LAST_UPDATE"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            },
-            "title": "OBS_STATUS"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
-                ""
-              ]
-            },
-            "title": "UNIT_MULT"
-          },
-          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
                 "2019",
-                "2016",
-                "2011",
                 ""
               ]
             },
             "title": "TIME_DETAIL"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ethiopian Socioeconomic Survey (ESS) 2018-19. The survey collected data on school attendance and educational attainment for age 4 and above. Data extracted on 25 February 2025.",
-                "Ethiopia DHS 2016. The survey collected data on school attendance for age 5-24 and educational attainment for age 5 and above. Data extracted on 25 February 2025.",
-                "Ethiopia DHS 2011. The survey collected data on school attendance for age 5-24 and educational attainment for age 5 and above. Data extracted on 25 February 2025.",
-                ""
-              ]
-            },
-            "title": "SOURCE_DETAIL"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "This data point is NOT APPLICABLE for the submitting nation.",
-                "This data point is NIL for the submitting nation.",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",

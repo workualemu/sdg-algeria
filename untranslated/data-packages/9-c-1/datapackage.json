@@ -15,28 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "231",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "DATA_LAST_UPDATE",
-            "type": "string"
-          },
-          {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
@@ -57,23 +35,43 @@
             }
           },
           {
-            "name": "TIME_DETAIL",
+            "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "2022",
-                "2023",
+                "Ministère de la Poste et des Télécommunications",
                 ""
               ]
             }
           },
           {
-            "name": "SOURCE_DETAIL",
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ethiopian Communications Authority",
-                "Data based on the ITU DataHub",
+                "12",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2023",
                 ""
               ]
             }
@@ -83,6 +81,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "source : ARPT.",
+                "Taux corrigé après correction par l'Autorité de régulation \"ARPCE\"",
                 "Data not available",
                 ""
               ]

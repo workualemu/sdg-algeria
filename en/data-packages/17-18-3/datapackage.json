@@ -16,32 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "231",
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "DATA_LAST_UPDATE",
-            "type": "string",
-            "title": "DATA_LAST_UPDATE"
-          },
-          {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
@@ -64,21 +38,13 @@
             "title": "UNIT_MULT"
           },
           {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2024",
-                ""
-              ]
-            },
-            "title": "TIME_DETAIL"
-          },
-          {
             "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
+                "Data not available",
+                "Observation value represents the number of countries with national statistical plans with funding from donors",
+                "Observation value represents the number of countries with national statistical plans that are fully funded",
                 "Observation value represents the number of countries with national statistical plans that are under implementation",
                 ""
               ]
@@ -90,11 +56,49 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "NA",
                 "PARIS21 SDG Survey",
                 ""
               ]
             },
             "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "12",
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string",
+            "title": "DATA_LAST_UPDATE"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2024",
+                ""
+              ]
+            },
+            "title": "TIME_DETAIL"
           },
           {
             "name": "Value",

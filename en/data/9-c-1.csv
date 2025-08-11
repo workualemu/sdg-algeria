@@ -1,35 +1,49 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,SOURCE_DETAIL,COMMENT_OBS,Value
-2004,IT_MOB_2GNTWK,231,PT,2025-03-06T00:00:00,A,0,2022,Ethiopian Communications Authority,,9.7
-2005,IT_MOB_2GNTWK,231,PT,2025-03-06T00:00:00,A,0,2022,Ethiopian Communications Authority,,10.0
-2006,IT_MOB_2GNTWK,231,PT,2025-03-06T00:00:00,A,0,2022,Ethiopian Communications Authority,,10.0
-2012,IT_MOB_2GNTWK,231,PT,2025-03-06T00:00:00,A,0,2022,Ethiopian Communications Authority,,73.0
-2014,IT_MOB_2GNTWK,231,PT,2025-03-06T00:00:00,A,0,2022,Ethiopian Communications Authority,,90.0
-2015,IT_MOB_2GNTWK,231,PT,2025-03-06T00:00:00,A,0,2022,Ethiopian Communications Authority,,95.0
-2016,IT_MOB_2GNTWK,231,PT,2025-03-06T00:00:00,A,0,2022,Ethiopian Communications Authority,,97.0
-2017,IT_MOB_2GNTWK,231,PT,2025-03-06T00:00:00,A,0,2022,Ethiopian Communications Authority,,97.0
-2019,IT_MOB_2GNTWK,231,PT,2025-03-06T00:00:00,A,0,2022,Ethiopian Communications Authority,,97.0
-2020,IT_MOB_2GNTWK,231,PT,2025-03-06T00:00:00,A,0,2022,Ethiopian Communications Authority,,97.0
-2021,IT_MOB_2GNTWK,231,PT,2025-03-06T00:00:00,A,0,2022,Ethiopian Communications Authority,,97.0
-2022,IT_MOB_2GNTWK,231,PT,2025-03-06T00:00:00,A,0,2022,Ethiopian Communications Authority,,99.1
-2011,IT_MOB_3GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,4.0
-2012,IT_MOB_3GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,4.0
-2013,IT_MOB_3GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,17.54
-2014,IT_MOB_3GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,65.0
-2015,IT_MOB_3GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,71.0
-2016,IT_MOB_3GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,85.0
-2017,IT_MOB_3GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,85.0
-2019,IT_MOB_3GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,85.0
-2020,IT_MOB_3GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,85.0
-2021,IT_MOB_3GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,85.0
-2022,IT_MOB_3GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,98.53
-2023,IT_MOB_3GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,98.53
-2014,IT_MOB_4GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,10.0
-2015,IT_MOB_4GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,10.0
-2016,IT_MOB_4GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,10.0
-2017,IT_MOB_4GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,7.0
-2019,IT_MOB_4GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,7.0
-2020,IT_MOB_4GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,7.0
-2021,IT_MOB_4GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,10.0
-2022,IT_MOB_4GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,33.0
-2023,IT_MOB_4GNTWK,231,PT,2025-03-06T00:00:00,A,0,2023,Ethiopian Communications Authority,,35.0
-2022,IT_MOB_5GNTWK,231,PT,2025-03-08T00:00:00,A,0,2023,Data based on the ITU DataHub,Data not available,0.0
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,COMMENT_OBS,Value
+2000,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_2GNTWK,12,PT,2025-03-06T00:00:00,2023,source : ARPT.,40.0
+2001,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_2GNTWK,12,PT,2025-03-06T00:00:00,2023,source : ARPT.,40.0
+2002,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_2GNTWK,12,PT,2025-03-06T00:00:00,2023,source : ARPT.,40.0
+2003,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_2GNTWK,12,PT,2025-03-06T00:00:00,2023,source : ARPT.,40.0
+2004,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_2GNTWK,12,PT,2025-03-06T00:00:00,2023,source : ARPT.,40.0
+2005,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_2GNTWK,12,PT,2025-03-06T00:00:00,2023,source : ARPT.,41.52
+2006,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_2GNTWK,12,PT,2025-03-06T00:00:00,2023,source : ARPT.,63.6
+2007,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_2GNTWK,12,PT,2025-03-06T00:00:00,2023,source : ARPT.,81.5
+2013,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_2GNTWK,12,PT,2025-03-06T00:00:00,2023,source : ARPT.,98.0
+2014,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_2GNTWK,12,PT,2025-03-06T00:00:00,2023,source : ARPT.,98.0
+2015,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_2GNTWK,12,PT,2025-03-06T00:00:00,2023,source : ARPT.,99.19
+2016,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_2GNTWK,12,PT,2025-03-06T00:00:00,2023,source : ARPT.,98.0
+2017,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_2GNTWK,12,PT,2025-03-06T00:00:00,2023,source : ARPT.,98.0
+2018,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_2GNTWK,12,PT,2025-03-06T00:00:00,2023,source : ARPT.,98.04
+2019,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_2GNTWK,12,PT,2025-03-06T00:00:00,2023,source : ARPT.,98.72
+2020,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_2GNTWK,12,PT,2025-03-06T00:00:00,2023,source : ARPT.,98.97
+2021,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_2GNTWK,12,PT,2025-03-06T00:00:00,2023,source : ARPT.,98.31
+2022,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_2GNTWK,12,PT,2025-03-06T00:00:00,2023,source : ARPT.,98.49
+2023,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_2GNTWK,12,PT,2025-03-06T00:00:00,2023,source : ARPT.,98.53
+2013,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_3GNTWK,12,PT,2025-03-06T00:00:00,2023,"Taux corrigé après correction par l'Autorité de régulation ""ARPCE""",6.0
+2014,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_3GNTWK,12,PT,2025-03-06T00:00:00,2023,"Taux corrigé après correction par l'Autorité de régulation ""ARPCE""",23.23
+2015,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_3GNTWK,12,PT,2025-03-06T00:00:00,2023,"Taux corrigé après correction par l'Autorité de régulation ""ARPCE""",46.0
+2016,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_3GNTWK,12,PT,2025-03-06T00:00:00,2023,"Taux corrigé après correction par l'Autorité de régulation ""ARPCE""",83.36
+2017,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_3GNTWK,12,PT,2025-03-06T00:00:00,2023,"Taux corrigé après correction par l'Autorité de régulation ""ARPCE""",90.0
+2018,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_3GNTWK,12,PT,2025-03-06T00:00:00,2023,"Taux corrigé après correction par l'Autorité de régulation ""ARPCE""",97.45
+2019,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_3GNTWK,12,PT,2025-03-06T00:00:00,2023,"Taux corrigé après correction par l'Autorité de régulation ""ARPCE""",97.72
+2020,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_3GNTWK,12,PT,2025-03-06T00:00:00,2023,"Taux corrigé après correction par l'Autorité de régulation ""ARPCE""",98.97
+2021,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_3GNTWK,12,PT,2025-03-06T00:00:00,2023,"Taux corrigé après correction par l'Autorité de régulation ""ARPCE""",98.18
+2022,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_3GNTWK,12,PT,2025-03-06T00:00:00,2023,"Taux corrigé après correction par l'Autorité de régulation ""ARPCE""",98.07
+2023,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_3GNTWK,12,PT,2025-03-06T00:00:00,2023,"Taux corrigé après correction par l'Autorité de régulation ""ARPCE""",98.18
+2012,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_4GNTWK,12,PT,2025-03-06T00:00:00,2023,"Taux corrigé après correction par l'Autorité de régulation ""ARPCE""",0.0
+2013,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_4GNTWK,12,PT,2025-03-06T00:00:00,2023,"Taux corrigé après correction par l'Autorité de régulation ""ARPCE""",0.0
+2014,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_4GNTWK,12,PT,2025-03-06T00:00:00,2023,"Taux corrigé après correction par l'Autorité de régulation ""ARPCE""",0.0
+2015,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_4GNTWK,12,PT,2025-03-06T00:00:00,2023,"Taux corrigé après correction par l'Autorité de régulation ""ARPCE""",0.0
+2016,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_4GNTWK,12,PT,2025-03-06T00:00:00,2023,"Taux corrigé après correction par l'Autorité de régulation ""ARPCE""",3.62
+2017,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_4GNTWK,12,PT,2025-03-06T00:00:00,2023,"Taux corrigé après correction par l'Autorité de régulation ""ARPCE""",30.49
+2018,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_4GNTWK,12,PT,2025-03-06T00:00:00,2023,"Taux corrigé après correction par l'Autorité de régulation ""ARPCE""",52.84
+2019,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_4GNTWK,12,PT,2025-03-06T00:00:00,2023,"Taux corrigé après correction par l'Autorité de régulation ""ARPCE""",53.63
+2020,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_4GNTWK,12,PT,2025-03-06T00:00:00,2023,"Taux corrigé après correction par l'Autorité de régulation ""ARPCE""",76.18
+2021,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_4GNTWK,12,PT,2025-03-06T00:00:00,2023,"Taux corrigé après correction par l'Autorité de régulation ""ARPCE""",79.89
+2022,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_4GNTWK,12,PT,2025-03-06T00:00:00,2023,"Taux corrigé après correction par l'Autorité de régulation ""ARPCE""",85.87
+2023,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_4GNTWK,12,PT,2025-03-06T00:00:00,2023,"Taux corrigé après correction par l'Autorité de régulation ""ARPCE""",90.42
+2018,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_5GNTWK,12,PT,2025-03-08T00:00:00,2023,Data not available,0.0
+2019,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_5GNTWK,12,PT,2025-03-08T00:00:00,2023,Data not available,0.0
+2020,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_5GNTWK,12,PT,2025-03-08T00:00:00,2023,Data not available,0.0
+2021,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_5GNTWK,12,PT,2025-03-08T00:00:00,2023,Data not available,0.0
+2022,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_5GNTWK,12,PT,2025-03-08T00:00:00,2023,Data not available,0.0
+2023,A,0,Ministère de la Poste et des Télécommunications,IT_MOB_5GNTWK,12,PT,2025-03-08T00:00:00,2023,Data not available,0.0

@@ -15,28 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "231",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "DATA_LAST_UPDATE",
-            "type": "string"
-          },
-          {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
@@ -57,11 +35,88 @@
             }
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UN Statistics Division, Country Files from the UNSD/UNEP data collection on environment statistics (available at: https://unstats.un.org/unsd/envstats/country_files) - UNSD/UNEP Questionnaire",
+                "Office National des Statistiques, Algérie",
+                "UNEP / WESR",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "12",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "WT_INCINRT",
+                "WT_OTHERWM",
+                "WT_RECYCL",
+                "WT_COMPOST",
+                "WT_INCINRT_EGY",
+                "WT_LANDFILCTL",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "ACTIVITY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "ISIC4_S",
+                "ISIC4_T",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "2001",
+                "2020",
+                "2021",
+                "2007",
+                "2017",
+                "2015",
+                "2014",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "BASE_PER",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2015",
                 ""
               ]
             }
@@ -71,24 +126,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Data refer to Addis Ababa city only.",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "UN Statistics Division, Country Files from the UNSD/UNEP data collection on environment statistics (available at: https://unstats.un.org/unsd/envstats/country_files) - UNSD/UNEP Questionnaire",
+                "Quantity of hazardous waste in permanent storage.",
+                "The information provided concerns the treatment of waste from healthcare activities by incineration and landfill.",
+                "This is hazardous special waste.",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

@@ -15,83 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "231",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_X",
-                "F",
-                "M",
-                "_U",
-                "None",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_X",
-                "Y_GE46",
-                "Y0T45",
-                "_U",
-                "None",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "OCCUPATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "None",
-                "AGG_PSP",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PC_DEFENCE",
-                "PC_HUM_RIGH",
-                "PC_FINANCE",
-                "PC_GEN_EQU",
-                "PC_FAFF_DEF",
-                "PC_FOR_AFF",
-                "None",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "DATA_LAST_UPDATE",
-            "type": "string"
-          },
-          {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
@@ -112,36 +35,20 @@
             }
           },
           {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2022",
-                "2025",
-                "2024",
-                "2021",
-                ""
-              ]
-            }
-          },
-          {
             "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bicameral: Lower chamber (House of Peoples' Representatives), No Committee, Data valid as of 1 Jan of given year",
-                "Bicameral: Lower chamber (House of Peoples' Representatives), Data valid as of 1 Jan of given year",
-                "Bicameral: Lower chamber (House of Peoples' Representatives), Chair(s) presides over a committee which covers multuple themes (Defence, Foreign affairs), No Age Data, Data valid as of 1 Jan of given year",
-                "Bicameral: Lower chamber (House of Peoples' Representatives), No Age Data, Data valid as of 1 Jan of given year",
-                "Bicameral: Lower chamber (House of Peoples' Representatives), Chair(s) presides over a committee which covers multuple themes (Defence, Foreign affairs), , Data valid as of 1 Jan of given year",
-                "Bicameral: Upper chamber (House of the Federation), No Data on Age or Gender of the chairperson, Data valid as of 1 Jan of given year",
-                "Bicameral: Upper chamber (House of the Federation), No Committee, Data valid as of 1 Jan of given year",
-                "Bicameral: Upper chamber (House of the Federation), Data valid as of 1 Jan of given year",
-                "Bicameral: Lower chamber (House of Peoples' Representatives), Data valid as of 1 Jan of given year;  2023 population figures (revised as of July 2024), UN World Population Prospects to calculate ratios; The ratio can be interpreted as follows:  \n-\t0 means no representation at all of women in parliament \n-\t1 means perfectly proportional representation of women  in parliament \n-\t<1 means under-representation of women in parliament \n-\t>1 means over-representation of women in parliament",
-                "Bicameral: Upper chamber (House of the Federation), Data valid as of 1 Jan of given year; 2023 population figures (revised as of July 2024), UN World Population Prospects to calculate ratios; The ratio can be interpreted as follows:  \n-\t0 means no representation at all of women in parliament \n-\t1 means perfectly proportional representation of women  in parliament \n-\t<1 means under-representation of women in parliament \n-\t>1 means over-representation of women in parliament",
-                "Bicameral: Lower chamber (House of Peoples' Representatives), Data valid as of 1 Jan of given year, based on available age data collected after each election",
-                "Bicameral: Lower chamber (House of Peoples' Representatives), Data valid as of 1 Jan of given year; 2023 population figures (revised as of July 2024) used from the United Nations Population Division - World Population Prospects database to calculate ratios; Ratios can be interpreted as follows:  \n-\t0 means no representation at all of ‘youth’ (45 years and below) in parliament \n-\t1 means perfectly proportional representation of ‘youth’ (45 years and below) in parliament \n-\t<1 means under-representation of ‘youth’ (45 years and below) in parliament \n-\t>1 means over-representation of ‘youth’ (45 years and below) in parliament",
-                "84 - Public administration and defence; compulsory social security",
+                "Bicameral: Lower chamber (National People's Assembly), No Committee, Data valid as of 1 Jan of given year",
+                "Bicameral: Lower chamber (National People's Assembly), Data valid as of 1 Jan of given year",
+                "Bicameral: Upper chamber (Council of the Nation), No Committee, Data valid as of 1 Jan of given year",
+                "Bicameral: Upper chamber (Council of the Nation), Data valid as of 1 Jan of given year",
+                "Bicameral: Lower chamber (National People's Assembly), Data valid as of 1 Jan of given year;  2023 population figures (revised as of July 2024), UN World Population Prospects to calculate ratios; The ratio can be interpreted as follows:  \n-\t0 means no representation at all of women in parliament \n-\t1 means perfectly proportional representation of women  in parliament \n-\t<1 means under-representation of women in parliament \n-\t>1 means over-representation of women in parliament",
+                "Bicameral: Upper chamber (Council of the Nation), Data valid as of 1 Jan of given year; 2023 population figures (revised as of July 2024), UN World Population Prospects to calculate ratios; The ratio can be interpreted as follows:  \n-\t0 means no representation at all of women in parliament \n-\t1 means perfectly proportional representation of women  in parliament \n-\t<1 means under-representation of women in parliament \n-\t>1 means over-representation of women in parliament",
+                "Bicameral: Lower chamber (National People's Assembly), Data valid as of 1 Jan of given year, based on available age data collected after each election",
+                "Bicameral: Upper chamber (Council of the Nation), Data valid as of 1 Jan of given year, based on available age data collected after each election",
+                "Bicameral: Lower chamber (National People's Assembly), Data valid as of 1 Jan of given year; 2023 population figures (revised as of July 2024) used from the United Nations Population Division - World Population Prospects database to calculate ratios; Ratios can be interpreted as follows:  \n-\t0 means no representation at all of ‘youth’ (45 years and below) in parliament \n-\t1 means perfectly proportional representation of ‘youth’ (45 years and below) in parliament \n-\t<1 means under-representation of ‘youth’ (45 years and below) in parliament \n-\t>1 means over-representation of ‘youth’ (45 years and below) in parliament",
+                "Bicameral: Upper chamber (Council of the Nation), Data valid as of 1 Jan of given year; 2023 population figures (revised as of July 2024) used from the United Nations Population Division - World Population Prospects database to calculate ratios; Ratios can be interpreted as follows:  \n-\t0 means no representation at all of ‘youth’ (45 years and below) in parliament \n-\t1 means perfectly proportional representation of ‘youth’ (45 years and below) in parliament \n-\t<1 means under-representation of ‘youth’ (45 years and below) in parliament \n-\t>1 means over-representation of ‘youth’ (45 years and below) in parliament",
                 ""
               ]
             }
@@ -152,7 +59,82 @@
             "constraints": {
               "enum": [
                 "Inter-Parliamentary Union (IPU), Parline Database",
-                "LFS - National Labor Force Survey",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "12",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_X",
+                "F",
+                "M",
+                "None",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_X",
+                "Y_GE46",
+                "Y0T45",
+                "None",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PC_GEN_EQU",
+                "PC_HUM_RIGH",
+                "PC_DEFENCE",
+                "PC_FOR_AFF",
+                "PC_FINANCE",
+                "None",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2024",
+                "2022",
+                "2025",
+                "2023",
                 ""
               ]
             }

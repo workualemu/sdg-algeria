@@ -16,6 +16,40 @@
             "title": "Year"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            },
+            "title": "OBS_STATUS"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Data based on the ITU DataHub",
+                "Ministère de la Poste et des Télécommunications",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -25,7 +59,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "231",
+                "12",
                 ""
               ]
             },
@@ -56,57 +90,24 @@
             "title": "DATA_LAST_UPDATE"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            },
-            "title": "OBS_STATUS"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
-                ""
-              ]
-            },
-            "title": "UNIT_MULT"
-          },
-          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "2022",
+                "2023",
                 ""
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Data based on the ITU DataHub",
-                "Ethiopian Communications Authority",
-                ""
-              ]
-            },
-            "title": "SOURCE_DETAIL"
-          },
-          {
             "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
-                "Source: Ethio Telecom",
-                "Starting end of 2016, and in 2017 our country was under a state of emergency where internet shutdown was implemented this  has shown significant decrease.",
+                "L'écart est dû à l'ajout des données d'autres abonnées de certaines technologies pris en charge dans la définition de l'UIT : FTTX + LS + WiMAX,  Large bande Satellite, et d'autres fournisseurs d’accès internet .",
+                "Ce chiffre représente les lignes  spécialisées professionnelles",
+                "Migration des abonnements des offre avec des débits moins de 10Mbt/s  vers des offres avec des débits de plus de 10Mbit/S",
                 ""
               ]
             },

@@ -15,6 +15,37 @@
             "type": "integer"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Administrative data based on 2017 data election results. Data provided by the National Statistical Office. Compiled by UNECA African Centre for Statistics and UN Women.",
+                "Inter-Parliamentary Union (IPU), Parline Database",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SERIES",
             "type": "string"
           },
@@ -23,7 +54,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "231",
+                "12",
                 ""
               ]
             }
@@ -48,30 +79,11 @@
             "type": "string"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
-                ""
-              ]
-            }
-          },
-          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
+                "2018",
                 "2025",
                 ""
               ]
@@ -84,17 +96,7 @@
               "enum": [
                 "Lower Chamber or Unicameral, Data valid as of 1 Jan of given year based on the number of seats filled in parliament at the time",
                 "Lower Chamber or Unicameral, Data valid as of 1 Jan of given year, figures correspond to the number of seats filled in parliament at the given time.",
-                "Bicameral: Lower chamber (House of Peoples' Representatives), Data valid as of 1 Jan of given year",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Inter-Parliamentary Union (IPU), Parline Database",
+                "Bicameral: Lower chamber (National People's Assembly), Data valid as of 1 Jan of given year",
                 ""
               ]
             }

@@ -1,75 +1,103 @@
-Year,SERIES,REF_AREA,COMPOSITE_BREAKDOWN,UNIT_MEASURE,DATA_LAST_UPDATE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,SOURCE_DETAIL,COMMENT_OBS,Value
-2003,IT_NET_BBND,231,None,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,7.72e-05
-2004,IT_NET_BBND,231,None,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,4.6e-05
-2005,IT_NET_BBND,231,None,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,7.78e-05
-2006,IT_NET_BBND,231,None,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.00032
-2007,IT_NET_BBND,231,None,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.00125
-2008,IT_NET_BBND,231,None,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.00175
-2009,IT_NET_BBND,231,None,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.00397
-2010,IT_NET_BBND,231,None,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.00454
-2011,IT_NET_BBND,231,None,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.00682
-2012,IT_NET_BBND,231,None,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.00891
-2013,IT_NET_BBND,231,None,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.24184
-2014,IT_NET_BBND,231,None,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.46609
-2015,IT_NET_BBND,231,None,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.4602
-2016,IT_NET_BBND,231,None,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.52381
-2017,IT_NET_BBND,231,None,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.0574
-2019,IT_NET_BBND,231,None,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.13738
-2020,IT_NET_BBND,231,None,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.17827
-2021,IT_NET_BBND,231,None,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.39938
-2022,IT_NET_BBND,231,None,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.45158
-2014,IT_NET_BBND,231,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.09322
-2015,IT_NET_BBND,231,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.10038
-2016,IT_NET_BBND,231,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.12112
-2017,IT_NET_BBND,231,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.04296
-2021,IT_NET_BBND,231,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.00147
-2022,IT_NET_BBND,231,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.0015
-2014,IT_NET_BBND,231,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.23304
-2015,IT_NET_BBND,231,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.2365
-2016,IT_NET_BBND,231,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.24892
-2017,IT_NET_BBND,231,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.01267
-2021,IT_NET_BBND,231,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.38235
-2022,IT_NET_BBND,231,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.42634
-2014,IT_NET_BBND,231,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.13983
-2015,IT_NET_BBND,231,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.14253
-2016,IT_NET_BBND,231,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.15377
-2017,IT_NET_BBND,231,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.00177
-2021,IT_NET_BBND,231,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.01556
-2022,IT_NET_BBND,231,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,A,0,2022,Data based on the ITU DataHub,,0.02373
-2003,IT_NET_BBNDN,231,None,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,Source: Ethio Telecom,57.0
-2004,IT_NET_BBNDN,231,None,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,Source: Ethio Telecom,35.0
-2005,IT_NET_BBNDN,231,None,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,Source: Ethio Telecom,61.0
-2006,IT_NET_BBNDN,231,None,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,Source: Ethio Telecom,261.0
-2007,IT_NET_BBNDN,231,None,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,Source: Ethio Telecom,1036.0
-2008,IT_NET_BBNDN,231,None,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,Source: Ethio Telecom,1496.0
-2009,IT_NET_BBNDN,231,None,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,Source: Ethio Telecom,3498.0
-2010,IT_NET_BBNDN,231,None,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,Source: Ethio Telecom,4107.0
-2011,IT_NET_BBNDN,231,None,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,Source: Ethio Telecom,6353.0
-2012,IT_NET_BBNDN,231,None,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,Source: Ethio Telecom,8535.0
-2013,IT_NET_BBNDN,231,None,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,Source: Ethio Telecom,238067.0
-2014,IT_NET_BBNDN,231,None,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,Source: Ethio Telecom,471285.0
-2015,IT_NET_BBNDN,231,None,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,Source: Ethio Telecom,478000.0
-2016,IT_NET_BBNDN,231,None,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,Source: Ethio Telecom,559000.0
-2017,IT_NET_BBNDN,231,None,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,Source: Ethio Telecom,62950.0
-2019,IT_NET_BBNDN,231,None,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,Source: Ethio Telecom,159000.0
-2020,IT_NET_BBNDN,231,None,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,Source: Ethio Telecom,212000.0
-2021,IT_NET_BBNDN,231,None,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,Source: Ethio Telecom,487800.0
-2022,IT_NET_BBNDN,231,None,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,Source: Ethio Telecom,566206.0
-2014,IT_NET_BBNDN,231,IS_256KT2M,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,"Starting end of 2016, and in 2017 our country was under a state of emergency where internet shutdown was implemented this  has shown significant decrease.",94257.0
-2015,IT_NET_BBNDN,231,IS_256KT2M,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,"Starting end of 2016, and in 2017 our country was under a state of emergency where internet shutdown was implemented this  has shown significant decrease.",104257.0
-2016,IT_NET_BBNDN,231,IS_256KT2M,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,"Starting end of 2016, and in 2017 our country was under a state of emergency where internet shutdown was implemented this  has shown significant decrease.",129257.0
-2017,IT_NET_BBNDN,231,IS_256KT2M,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,"Starting end of 2016, and in 2017 our country was under a state of emergency where internet shutdown was implemented this  has shown significant decrease.",47108.0
-2021,IT_NET_BBNDN,231,IS_256KT2M,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,"Starting end of 2016, and in 2017 our country was under a state of emergency where internet shutdown was implemented this  has shown significant decrease.",1800.0
-2022,IT_NET_BBNDN,231,IS_256KT2M,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,"Starting end of 2016, and in 2017 our country was under a state of emergency where internet shutdown was implemented this  has shown significant decrease.",1880.0
-2014,IT_NET_BBNDN,231,IS_2MT10M,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,"Starting end of 2016, and in 2017 our country was under a state of emergency where internet shutdown was implemented this  has shown significant decrease.",235643.0
-2015,IT_NET_BBNDN,231,IS_2MT10M,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,"Starting end of 2016, and in 2017 our country was under a state of emergency where internet shutdown was implemented this  has shown significant decrease.",245643.0
-2016,IT_NET_BBNDN,231,IS_2MT10M,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,"Starting end of 2016, and in 2017 our country was under a state of emergency where internet shutdown was implemented this  has shown significant decrease.",265643.0
-2017,IT_NET_BBNDN,231,IS_2MT10M,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,"Starting end of 2016, and in 2017 our country was under a state of emergency where internet shutdown was implemented this  has shown significant decrease.",13900.0
-2021,IT_NET_BBNDN,231,IS_2MT10M,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,"Starting end of 2016, and in 2017 our country was under a state of emergency where internet shutdown was implemented this  has shown significant decrease.",467000.0
-2022,IT_NET_BBNDN,231,IS_2MT10M,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,"Starting end of 2016, and in 2017 our country was under a state of emergency where internet shutdown was implemented this  has shown significant decrease.",534569.0
-2014,IT_NET_BBNDN,231,IS_GE10M,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,"Starting end of 2016, and in 2017 our country was under a state of emergency where internet shutdown was implemented this  has shown significant decrease.",141385.0
-2015,IT_NET_BBNDN,231,IS_GE10M,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,"Starting end of 2016, and in 2017 our country was under a state of emergency where internet shutdown was implemented this  has shown significant decrease.",148040.0
-2016,IT_NET_BBNDN,231,IS_GE10M,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,"Starting end of 2016, and in 2017 our country was under a state of emergency where internet shutdown was implemented this  has shown significant decrease.",164100.0
-2017,IT_NET_BBNDN,231,IS_GE10M,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,"Starting end of 2016, and in 2017 our country was under a state of emergency where internet shutdown was implemented this  has shown significant decrease.",1942.0
-2021,IT_NET_BBNDN,231,IS_GE10M,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,"Starting end of 2016, and in 2017 our country was under a state of emergency where internet shutdown was implemented this  has shown significant decrease.",19000.0
-2022,IT_NET_BBNDN,231,IS_GE10M,NUMBER,2025-03-24T00:00:00,A,0,2022,Ethiopian Communications Authority,"Starting end of 2016, and in 2017 our country was under a state of emergency where internet shutdown was implemented this  has shown significant decrease.",29757.0
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,COMPOSITE_BREAKDOWN,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,COMMENT_OBS,Value
+2003,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.05594
+2004,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.11033
+2005,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.40774
+2006,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.5056
+2007,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,None,PER_100_POP,2025-03-03T00:00:00,2023,,0.83956
+2008,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,None,PER_100_POP,2025-03-03T00:00:00,2023,,1.393
+2009,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,None,PER_100_POP,2025-03-03T00:00:00,2023,,2.30485
+2010,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,None,PER_100_POP,2025-03-03T00:00:00,2023,,2.487
+2011,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,None,PER_100_POP,2025-03-03T00:00:00,2023,,2.65762
+2012,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,None,PER_100_POP,2025-03-03T00:00:00,2023,,3.06737
+2013,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,None,PER_100_POP,2025-03-03T00:00:00,2023,,3.3321
+2014,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,None,PER_100_POP,2025-03-03T00:00:00,2023,,4.08032
+2015,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,None,PER_100_POP,2025-03-03T00:00:00,2023,,5.6706
+2016,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,None,PER_100_POP,2025-03-03T00:00:00,2023,,7.00004
+2017,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,None,PER_100_POP,2025-03-03T00:00:00,2023,,7.70046
+2018,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,None,PER_100_POP,2025-03-03T00:00:00,2023,,7.21567
+2019,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,None,PER_100_POP,2025-03-03T00:00:00,2023,,8.27527
+2020,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,None,PER_100_POP,2025-03-03T00:00:00,2023,,8.60645
+2021,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,None,PER_100_POP,2025-03-03T00:00:00,2023,,9.33184
+2022,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,None,PER_100_POP,2025-03-03T00:00:00,2023,,10.35172
+2023,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,None,PER_100_POP,2025-03-03T00:00:00,2023,,12.00868
+2014,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,2023,,2.48432
+2015,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,2023,,2.6834
+2016,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,2023,,2.70374
+2017,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,2023,,2.66234
+2018,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,2023,,0.01882
+2019,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,2023,,0.01545
+2020,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,2023,,0.01363
+2021,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,2023,,0.01265
+2022,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,2023,,0.00988
+2023,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,IS_256KT2M,PER_100_POP,2025-03-03T00:00:00,2023,,0.00994
+2014,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,2023,,1.38259
+2015,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,2023,,1.9066
+2016,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,2023,,2.3948
+2017,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,2023,,2.82458
+2018,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,2023,,5.16214
+2019,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,2023,,5.4974
+2020,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,2023,,5.83625
+2021,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.1429
+2022,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.0147
+2023,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,IS_2MT10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.01732
+2014,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.00051
+2015,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,2023,,0.00133
+2016,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,2023,,1.90149
+2017,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,2023,,2.21354
+2018,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,2023,,2.03471
+2019,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,2023,,2.76241
+2020,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,2023,,2.75657
+2021,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,2023,,9.17629
+2022,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,2023,,10.32714
+2023,A,0,Data based on the ITU DataHub,IT_NET_BBND,12,IS_GE10M,PER_100_POP,2025-03-03T00:00:00,2023,,11.98142
+2003,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,None,NUMBER,2025-03-24T00:00:00,2023,"L'écart est dû à l'ajout des données d'autres abonnées de certaines technologies pris en charge dans la définition de l'UIT : FTTX + LS + WiMAX,  Large bande Satellite, et d'autres fournisseurs d’accès internet .",18000.0
+2004,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,None,NUMBER,2025-03-24T00:00:00,2023,"L'écart est dû à l'ajout des données d'autres abonnées de certaines technologies pris en charge dans la définition de l'UIT : FTTX + LS + WiMAX,  Large bande Satellite, et d'autres fournisseurs d’accès internet .",36000.0
+2005,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,None,NUMBER,2025-03-24T00:00:00,2023,"L'écart est dû à l'ajout des données d'autres abonnées de certaines technologies pris en charge dans la définition de l'UIT : FTTX + LS + WiMAX,  Large bande Satellite, et d'autres fournisseurs d’accès internet .",135000.0
+2006,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,None,NUMBER,2025-03-24T00:00:00,2023,"L'écart est dû à l'ajout des données d'autres abonnées de certaines technologies pris en charge dans la définition de l'UIT : FTTX + LS + WiMAX,  Large bande Satellite, et d'autres fournisseurs d’accès internet .",170000.0
+2007,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,None,NUMBER,2025-03-24T00:00:00,2023,"L'écart est dû à l'ajout des données d'autres abonnées de certaines technologies pris en charge dans la définition de l'UIT : FTTX + LS + WiMAX,  Large bande Satellite, et d'autres fournisseurs d’accès internet .",287039.0
+2008,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,None,NUMBER,2025-03-24T00:00:00,2023,"L'écart est dû à l'ajout des données d'autres abonnées de certaines technologies pris en charge dans la définition de l'UIT : FTTX + LS + WiMAX,  Large bande Satellite, et d'autres fournisseurs d’accès internet .",485000.0
+2009,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,None,NUMBER,2025-03-24T00:00:00,2023,"L'écart est dû à l'ajout des données d'autres abonnées de certaines technologies pris en charge dans la définition de l'UIT : FTTX + LS + WiMAX,  Large bande Satellite, et d'autres fournisseurs d’accès internet .",818000.0
+2010,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,None,NUMBER,2025-03-24T00:00:00,2023,"L'écart est dû à l'ajout des données d'autres abonnées de certaines technologies pris en charge dans la définition de l'UIT : FTTX + LS + WiMAX,  Large bande Satellite, et d'autres fournisseurs d’accès internet .",900000.0
+2011,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,None,NUMBER,2025-03-24T00:00:00,2023,"L'écart est dû à l'ajout des données d'autres abonnées de certaines technologies pris en charge dans la définition de l'UIT : FTTX + LS + WiMAX,  Large bande Satellite, et d'autres fournisseurs d’accès internet .",980752.0
+2012,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,None,NUMBER,2025-03-24T00:00:00,2023,"L'écart est dû à l'ajout des données d'autres abonnées de certaines technologies pris en charge dans la définition de l'UIT : FTTX + LS + WiMAX,  Large bande Satellite, et d'autres fournisseurs d’accès internet .",1154748.0
+2013,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,None,NUMBER,2025-03-24T00:00:00,2023,"L'écart est dû à l'ajout des données d'autres abonnées de certaines technologies pris en charge dans la définition de l'UIT : FTTX + LS + WiMAX,  Large bande Satellite, et d'autres fournisseurs d’accès internet .",1280000.0
+2014,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,None,NUMBER,2025-03-24T00:00:00,2023,"L'écart est dû à l'ajout des données d'autres abonnées de certaines technologies pris en charge dans la définition de l'UIT : FTTX + LS + WiMAX,  Large bande Satellite, et d'autres fournisseurs d’accès internet .",1599692.0
+2015,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,None,NUMBER,2025-03-24T00:00:00,2023,"L'écart est dû à l'ajout des données d'autres abonnées de certaines technologies pris en charge dans la définition de l'UIT : FTTX + LS + WiMAX,  Large bande Satellite, et d'autres fournisseurs d’accès internet .",2269348.0
+2016,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,None,NUMBER,2025-03-24T00:00:00,2023,"L'écart est dû à l'ajout des données d'autres abonnées de certaines technologies pris en charge dans la définition de l'UIT : FTTX + LS + WiMAX,  Large bande Satellite, et d'autres fournisseurs d’accès internet .",2859567.0
+2017,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,None,NUMBER,2025-03-24T00:00:00,2023,"L'écart est dû à l'ajout des données d'autres abonnées de certaines technologies pris en charge dans la définition de l'UIT : FTTX + LS + WiMAX,  Large bande Satellite, et d'autres fournisseurs d’accès internet .",3210267.0
+2018,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,None,NUMBER,2025-03-24T00:00:00,2023,"L'écart est dû à l'ajout des données d'autres abonnées de certaines technologies pris en charge dans la définition de l'UIT : FTTX + LS + WiMAX,  Large bande Satellite, et d'autres fournisseurs d’accès internet .",3067022.0
+2019,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,None,NUMBER,2025-03-24T00:00:00,2023,"L'écart est dû à l'ajout des données d'autres abonnées de certaines technologies pris en charge dans la définition de l'UIT : FTTX + LS + WiMAX,  Large bande Satellite, et d'autres fournisseurs d’accès internet .",3582739.0
+2020,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,None,NUMBER,2025-03-24T00:00:00,2023,"L'écart est dû à l'ajout des données d'autres abonnées de certaines technologies pris en charge dans la définition de l'UIT : FTTX + LS + WiMAX,  Large bande Satellite, et d'autres fournisseurs d’accès internet .",3790459.0
+2021,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,None,NUMBER,2025-03-24T00:00:00,2023,"L'écart est dû à l'ajout des données d'autres abonnées de certaines technologies pris en charge dans la définition de l'UIT : FTTX + LS + WiMAX,  Large bande Satellite, et d'autres fournisseurs d’accès internet .",4177035.0
+2022,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,None,NUMBER,2025-03-24T00:00:00,2023,"L'écart est dû à l'ajout des données d'autres abonnées de certaines technologies pris en charge dans la définition de l'UIT : FTTX + LS + WiMAX,  Large bande Satellite, et d'autres fournisseurs d’accès internet .",4707694.0
+2023,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,None,NUMBER,2025-03-24T00:00:00,2023,"L'écart est dû à l'ajout des données d'autres abonnées de certaines technologies pris en charge dans la définition de l'UIT : FTTX + LS + WiMAX,  Large bande Satellite, et d'autres fournisseurs d’accès internet .",5543715.0
+2014,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,IS_256KT2M,NUMBER,2025-03-24T00:00:00,2023,Ce chiffre représente les lignes  spécialisées professionnelles,973977.0
+2015,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,IS_256KT2M,NUMBER,2025-03-24T00:00:00,2023,Ce chiffre représente les lignes  spécialisées professionnelles,1073883.0
+2016,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,IS_256KT2M,NUMBER,2025-03-24T00:00:00,2023,Ce chiffre représente les lignes  spécialisées professionnelles,1104499.0
+2017,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,IS_256KT2M,NUMBER,2025-03-24T00:00:00,2023,Ce chiffre représente les lignes  spécialisées professionnelles,1109910.0
+2018,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,IS_256KT2M,NUMBER,2025-03-24T00:00:00,2023,Ce chiffre représente les lignes  spécialisées professionnelles,7999.0
+2019,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,IS_256KT2M,NUMBER,2025-03-24T00:00:00,2023,Ce chiffre représente les lignes  spécialisées professionnelles,6691.0
+2020,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,IS_256KT2M,NUMBER,2025-03-24T00:00:00,2023,Ce chiffre représente les lignes  spécialisées professionnelles,6002.0
+2021,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,IS_256KT2M,NUMBER,2025-03-24T00:00:00,2023,Ce chiffre représente les lignes  spécialisées professionnelles,5663.0
+2022,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,IS_256KT2M,NUMBER,2025-03-24T00:00:00,2023,Ce chiffre représente les lignes  spécialisées professionnelles,4495.0
+2023,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,IS_256KT2M,NUMBER,2025-03-24T00:00:00,2023,Ce chiffre représente les lignes  spécialisées professionnelles,4591.0
+2014,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,IS_2MT10M,NUMBER,2025-03-24T00:00:00,2023,Ce chiffre représente les lignes  spécialisées professionnelles,542044.0
+2015,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,IS_2MT10M,NUMBER,2025-03-24T00:00:00,2023,Ce chiffre représente les lignes  spécialisées professionnelles,763014.0
+2016,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,IS_2MT10M,NUMBER,2025-03-24T00:00:00,2023,Ce chiffre représente les lignes  spécialisées professionnelles,978294.0
+2017,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,IS_2MT10M,NUMBER,2025-03-24T00:00:00,2023,Ce chiffre représente les lignes  spécialisées professionnelles,1177546.0
+2018,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,IS_2MT10M,NUMBER,2025-03-24T00:00:00,2023,Ce chiffre représente les lignes  spécialisées professionnelles,2194170.0
+2019,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,IS_2MT10M,NUMBER,2025-03-24T00:00:00,2023,Ce chiffre représente les lignes  spécialisées professionnelles,2380075.0
+2020,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,IS_2MT10M,NUMBER,2025-03-24T00:00:00,2023,Ce chiffre représente les lignes  spécialisées professionnelles,2570405.0
+2021,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,IS_2MT10M,NUMBER,2025-03-24T00:00:00,2023,Ce chiffre représente les lignes  spécialisées professionnelles,63965.0
+2022,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,IS_2MT10M,NUMBER,2025-03-24T00:00:00,2023,Ce chiffre représente les lignes  spécialisées professionnelles,6687.0
+2023,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,IS_2MT10M,NUMBER,2025-03-24T00:00:00,2023,Ce chiffre représente les lignes  spécialisées professionnelles,7996.0
+2014,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,IS_GE10M,NUMBER,2025-03-24T00:00:00,2023,Migration des abonnements des offre avec des débits moins de 10Mbt/s  vers des offres avec des débits de plus de 10Mbit/S,198.0
+2015,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,IS_GE10M,NUMBER,2025-03-24T00:00:00,2023,Migration des abonnements des offre avec des débits moins de 10Mbt/s  vers des offres avec des débits de plus de 10Mbit/S,531.0
+2016,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,IS_GE10M,NUMBER,2025-03-24T00:00:00,2023,Migration des abonnements des offre avec des débits moins de 10Mbt/s  vers des offres avec des débits de plus de 10Mbit/S,776774.0
+2017,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,IS_GE10M,NUMBER,2025-03-24T00:00:00,2023,Migration des abonnements des offre avec des débits moins de 10Mbt/s  vers des offres avec des débits de plus de 10Mbit/S,922811.0
+2018,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,IS_GE10M,NUMBER,2025-03-24T00:00:00,2023,Migration des abonnements des offre avec des débits moins de 10Mbt/s  vers des offres avec des débits de plus de 10Mbit/S,864853.0
+2019,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,IS_GE10M,NUMBER,2025-03-24T00:00:00,2023,Migration des abonnements des offre avec des débits moins de 10Mbt/s  vers des offres avec des débits de plus de 10Mbit/S,1195973.0
+2020,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,IS_GE10M,NUMBER,2025-03-24T00:00:00,2023,Migration des abonnements des offre avec des débits moins de 10Mbt/s  vers des offres avec des débits de plus de 10Mbit/S,1214052.0
+2021,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,IS_GE10M,NUMBER,2025-03-24T00:00:00,2023,Migration des abonnements des offre avec des débits moins de 10Mbt/s  vers des offres avec des débits de plus de 10Mbit/S,4107407.0
+2022,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,IS_GE10M,NUMBER,2025-03-24T00:00:00,2023,Migration des abonnements des offre avec des débits moins de 10Mbt/s  vers des offres avec des débits de plus de 10Mbit/S,4696512.0
+2023,A,0,Ministère de la Poste et des Télécommunications,IT_NET_BBNDN,12,IS_GE10M,NUMBER,2025-03-24T00:00:00,2023,Migration des abonnements des offre avec des débits moins de 10Mbt/s  vers des offres avec des débits de plus de 10Mbit/S,5531128.0

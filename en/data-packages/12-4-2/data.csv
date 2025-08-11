@@ -1,3 +1,101 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,COMMENT_OBS,SOURCE_DETAIL,Value
-2000,EN_TWT_GENV,231,T,2025-03-21T00:00:00,A,0,2001,Data refer to Addis Ababa city only.,"UN Statistics Division, Country Files from the UNSD/UNEP data collection on environment statistics (available at: https://unstats.un.org/unsd/envstats/country_files) - UNSD/UNEP Questionnaire",132330
-2001,EN_TWT_GENV,231,T,2025-03-21T00:00:00,A,0,2001,Data refer to Addis Ababa city only.,"UN Statistics Division, Country Files from the UNSD/UNEP data collection on environment statistics (available at: https://unstats.un.org/unsd/envstats/country_files) - UNSD/UNEP Questionnaire",151250
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,COMPOSITE_BREAKDOWN,ACTIVITY,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,BASE_PER,COMMENT_OBS,Value
+2014,A,0,"UN Statistics Division, Country Files from the UNSD/UNEP data collection on environment statistics (available at: https://unstats.un.org/unsd/envstats/country_files) - UNSD/UNEP Questionnaire",EN_EWT_COLLR,12,None,None,PT,2025-03-21T00:00:00,2020,,,10.0
+2020,A,0,"UN Statistics Division, Country Files from the UNSD/UNEP data collection on environment statistics (available at: https://unstats.un.org/unsd/envstats/country_files) - UNSD/UNEP Questionnaire",EN_EWT_COLLR,12,None,None,PT,2025-03-21T00:00:00,2020,,,16.02879
+2019,A,0,"Office National des Statistiques, Algérie",EN_HAZ_EXP,12,None,None,T,2025-03-21T00:00:00,2021,,,67696.65
+2020,A,0,"Office National des Statistiques, Algérie",EN_HAZ_EXP,12,None,None,T,2025-03-21T00:00:00,2021,,,0.0
+2021,A,0,"Office National des Statistiques, Algérie",EN_HAZ_EXP,12,None,None,T,2025-03-21T00:00:00,2021,,,20302.08
+2003,A,0,UNEP / WESR,EN_HAZ_GENGDP,12,None,None,KG_PER_CON_USD,2025-03-21T00:00:00,2007,2015,,0.00289
+2007,A,0,UNEP / WESR,EN_HAZ_GENGDP,12,None,None,KG_PER_CON_USD,2025-03-21T00:00:00,2007,2015,,0.00249
+2003,A,0,"Office National des Statistiques, Algérie",EN_HAZ_GENV,12,None,None,T,2025-03-21T00:00:00,2007,,Quantity of hazardous waste in permanent storage.,325000.0
+2007,A,0,"Office National des Statistiques, Algérie",EN_HAZ_GENV,12,None,None,T,2025-03-21T00:00:00,2007,,Quantity of hazardous waste in permanent storage.,325100.0
+2000,A,0,"Office National des Statistiques, Algérie",EN_HAZ_IMP,12,None,None,T,2025-03-21T00:00:00,2017,,,0.0
+2001,A,0,"Office National des Statistiques, Algérie",EN_HAZ_IMP,12,None,None,T,2025-03-21T00:00:00,2017,,,0.0
+2003,A,0,"Office National des Statistiques, Algérie",EN_HAZ_IMP,12,None,None,T,2025-03-21T00:00:00,2017,,,0.0
+2004,A,0,"Office National des Statistiques, Algérie",EN_HAZ_IMP,12,None,None,T,2025-03-21T00:00:00,2017,,,0.0
+2005,A,0,"Office National des Statistiques, Algérie",EN_HAZ_IMP,12,None,None,T,2025-03-21T00:00:00,2017,,,0.0
+2006,A,0,"Office National des Statistiques, Algérie",EN_HAZ_IMP,12,None,None,T,2025-03-21T00:00:00,2017,,,0.0
+2007,A,0,"Office National des Statistiques, Algérie",EN_HAZ_IMP,12,None,None,T,2025-03-21T00:00:00,2017,,,0.0
+2008,A,0,"Office National des Statistiques, Algérie",EN_HAZ_IMP,12,None,None,T,2025-03-21T00:00:00,2017,,,0.0
+2009,A,0,"Office National des Statistiques, Algérie",EN_HAZ_IMP,12,None,None,T,2025-03-21T00:00:00,2017,,,0.0
+2010,A,0,"Office National des Statistiques, Algérie",EN_HAZ_IMP,12,None,None,T,2025-03-21T00:00:00,2017,,,0.0
+2011,A,0,"Office National des Statistiques, Algérie",EN_HAZ_IMP,12,None,None,T,2025-03-21T00:00:00,2017,,,0.0
+2012,A,0,"Office National des Statistiques, Algérie",EN_HAZ_IMP,12,None,None,T,2025-03-21T00:00:00,2017,,,0.0
+2013,A,0,"Office National des Statistiques, Algérie",EN_HAZ_IMP,12,None,None,T,2025-03-21T00:00:00,2017,,,0.0
+2014,A,0,"Office National des Statistiques, Algérie",EN_HAZ_IMP,12,None,None,T,2025-03-21T00:00:00,2017,,,0.0
+2015,A,0,"Office National des Statistiques, Algérie",EN_HAZ_IMP,12,None,None,T,2025-03-21T00:00:00,2017,,,0.0
+2016,A,0,"Office National des Statistiques, Algérie",EN_HAZ_IMP,12,None,None,T,2025-03-21T00:00:00,2017,,,0.0
+2017,A,0,"Office National des Statistiques, Algérie",EN_HAZ_IMP,12,None,None,T,2025-03-21T00:00:00,2017,,,0.0
+2003,A,0,UNEP / WESR,EN_HAZ_PCAP,12,None,None,KG,2025-03-21T00:00:00,2007,,,10.13854
+2007,A,0,UNEP / WESR,EN_HAZ_PCAP,12,None,None,KG,2025-03-21T00:00:00,2007,,,9.56632
+2015,A,0,"Office National des Statistiques, Algérie",EN_HAZ_TREATV,12,WT_INCINRT,None,T,2025-03-21T00:00:00,2021,,The information provided concerns the treatment of waste from healthcare activities by incineration and landfill.,4229.9338
+2016,A,0,"Office National des Statistiques, Algérie",EN_HAZ_TREATV,12,WT_INCINRT,None,T,2025-03-21T00:00:00,2021,,The information provided concerns the treatment of waste from healthcare activities by incineration and landfill.,6220.98
+2017,A,0,"Office National des Statistiques, Algérie",EN_HAZ_TREATV,12,WT_INCINRT,None,T,2025-03-21T00:00:00,2021,,The information provided concerns the treatment of waste from healthcare activities by incineration and landfill.,6330.41
+2018,A,0,"Office National des Statistiques, Algérie",EN_HAZ_TREATV,12,WT_INCINRT,None,T,2025-03-21T00:00:00,2021,,The information provided concerns the treatment of waste from healthcare activities by incineration and landfill.,10691.47
+2019,A,0,"Office National des Statistiques, Algérie",EN_HAZ_TREATV,12,WT_INCINRT,None,T,2025-03-21T00:00:00,2021,,The information provided concerns the treatment of waste from healthcare activities by incineration and landfill.,10175.03
+2020,A,0,"Office National des Statistiques, Algérie",EN_HAZ_TREATV,12,WT_INCINRT,None,T,2025-03-21T00:00:00,2021,,The information provided concerns the treatment of waste from healthcare activities by incineration and landfill.,3395.58
+2021,A,0,"Office National des Statistiques, Algérie",EN_HAZ_TREATV,12,WT_INCINRT,None,T,2025-03-21T00:00:00,2021,,The information provided concerns the treatment of waste from healthcare activities by incineration and landfill.,21526.72
+2003,A,0,"Office National des Statistiques, Algérie",EN_HAZ_TREATV,12,WT_OTHERWM,None,T,2025-03-21T00:00:00,2007,,This is hazardous special waste.,2008500.0
+2007,A,0,"Office National des Statistiques, Algérie",EN_HAZ_TREATV,12,WT_OTHERWM,None,T,2025-03-21T00:00:00,2007,,This is hazardous special waste.,2008500.0
+2018,A,0,"Office National des Statistiques, Algérie",EN_HAZ_TREATV,12,WT_RECYCL,None,T,2025-03-21T00:00:00,2020,,,55147.43
+2019,A,0,"Office National des Statistiques, Algérie",EN_HAZ_TREATV,12,WT_RECYCL,None,T,2025-03-21T00:00:00,2020,,,41429.26
+2020,A,0,"Office National des Statistiques, Algérie",EN_HAZ_TREATV,12,WT_RECYCL,None,T,2025-03-21T00:00:00,2020,,,27255.31
+2014,A,0,"Office National des Statistiques, Algérie",EN_MWT_EXP,12,None,None,T,2025-03-21T00:00:00,2015,,,0.0
+2015,A,0,"Office National des Statistiques, Algérie",EN_MWT_EXP,12,None,None,T,2025-03-21T00:00:00,2015,,,0.0
+2014,A,0,"Office National des Statistiques, Algérie",EN_MWT_GENV,12,None,None,T,2025-03-21T00:00:00,2021,,,10477917.4
+2015,A,0,"Office National des Statistiques, Algérie",EN_MWT_GENV,12,None,None,T,2025-03-21T00:00:00,2021,,,10857375.8
+2016,A,0,"Office National des Statistiques, Algérie",EN_MWT_GENV,12,None,None,T,2025-03-21T00:00:00,2021,,,11273867.0
+2017,A,0,"Office National des Statistiques, Algérie",EN_MWT_GENV,12,None,None,T,2025-03-21T00:00:00,2021,,,11700525.4
+2018,A,0,"Office National des Statistiques, Algérie",EN_MWT_GENV,12,None,None,T,2025-03-21T00:00:00,2021,,,12137564.0
+2019,A,0,"Office National des Statistiques, Algérie",EN_MWT_GENV,12,None,None,T,2025-03-21T00:00:00,2021,,,12556000.0
+2020,A,0,"Office National des Statistiques, Algérie",EN_MWT_GENV,12,None,None,T,2025-03-21T00:00:00,2021,,,10735745.0
+2021,A,0,"Office National des Statistiques, Algérie",EN_MWT_GENV,12,None,None,T,2025-03-21T00:00:00,2021,,,11069720.0
+2014,A,0,"Office National des Statistiques, Algérie",EN_MWT_IMP,12,None,None,T,2025-03-21T00:00:00,2021,,,0.0
+2015,A,0,"Office National des Statistiques, Algérie",EN_MWT_IMP,12,None,None,T,2025-03-21T00:00:00,2021,,,0.0
+2018,A,0,"Office National des Statistiques, Algérie",EN_MWT_IMP,12,None,None,T,2025-03-21T00:00:00,2021,,,0.0
+2019,A,0,"Office National des Statistiques, Algérie",EN_MWT_IMP,12,None,None,T,2025-03-21T00:00:00,2021,,,0.0
+2020,A,0,"Office National des Statistiques, Algérie",EN_MWT_IMP,12,None,None,T,2025-03-21T00:00:00,2021,,,0.0
+2021,A,0,"Office National des Statistiques, Algérie",EN_MWT_IMP,12,None,None,T,2025-03-21T00:00:00,2021,,,0.0
+2014,A,0,"Office National des Statistiques, Algérie",EN_MWT_TREATR,12,WT_COMPOST,None,PT,2025-03-21T00:00:00,2014,,,1.01333
+2019,A,0,"Office National des Statistiques, Algérie",EN_MWT_TREATR,12,WT_INCINRT,None,PT,2025-03-21T00:00:00,2021,,,0.0
+2020,A,0,"Office National des Statistiques, Algérie",EN_MWT_TREATR,12,WT_INCINRT,None,PT,2025-03-21T00:00:00,2021,,,0.0
+2021,A,0,"Office National des Statistiques, Algérie",EN_MWT_TREATR,12,WT_INCINRT,None,PT,2025-03-21T00:00:00,2021,,,0.0
+2019,A,0,"Office National des Statistiques, Algérie",EN_MWT_TREATR,12,WT_INCINRT_EGY,None,PT,2025-03-21T00:00:00,2021,,,0.0
+2020,A,0,"Office National des Statistiques, Algérie",EN_MWT_TREATR,12,WT_INCINRT_EGY,None,PT,2025-03-21T00:00:00,2021,,,0.0
+2021,A,0,"Office National des Statistiques, Algérie",EN_MWT_TREATR,12,WT_INCINRT_EGY,None,PT,2025-03-21T00:00:00,2021,,,0.0
+2014,A,0,"Office National des Statistiques, Algérie",EN_MWT_TREATR,12,WT_OTHERWM,None,PT,2025-03-21T00:00:00,2021,,,100.0
+2015,A,0,"Office National des Statistiques, Algérie",EN_MWT_TREATR,12,WT_OTHERWM,None,PT,2025-03-21T00:00:00,2021,,,100.0
+2016,A,0,"Office National des Statistiques, Algérie",EN_MWT_TREATR,12,WT_OTHERWM,None,PT,2025-03-21T00:00:00,2021,,,100.0
+2017,A,0,"Office National des Statistiques, Algérie",EN_MWT_TREATR,12,WT_OTHERWM,None,PT,2025-03-21T00:00:00,2021,,,100.0
+2019,A,0,"Office National des Statistiques, Algérie",EN_MWT_TREATR,12,WT_OTHERWM,None,PT,2025-03-21T00:00:00,2021,,,100.0
+2020,A,0,"Office National des Statistiques, Algérie",EN_MWT_TREATR,12,WT_OTHERWM,None,PT,2025-03-21T00:00:00,2021,,,100.0
+2021,A,0,"Office National des Statistiques, Algérie",EN_MWT_TREATR,12,WT_OTHERWM,None,PT,2025-03-21T00:00:00,2021,,,100.0
+2014,A,0,"Office National des Statistiques, Algérie",EN_MWT_TREATV,12,WT_COMPOST,None,T,2025-03-21T00:00:00,2014,,,48810.0
+2018,A,0,"Office National des Statistiques, Algérie",EN_MWT_TREATV,12,WT_INCINRT,None,T,2025-03-21T00:00:00,2021,,,0.0
+2019,A,0,"Office National des Statistiques, Algérie",EN_MWT_TREATV,12,WT_INCINRT,None,T,2025-03-21T00:00:00,2021,,,0.0
+2020,A,0,"Office National des Statistiques, Algérie",EN_MWT_TREATV,12,WT_INCINRT,None,T,2025-03-21T00:00:00,2021,,,0.0
+2021,A,0,"Office National des Statistiques, Algérie",EN_MWT_TREATV,12,WT_INCINRT,None,T,2025-03-21T00:00:00,2021,,,0.0
+2018,A,0,"Office National des Statistiques, Algérie",EN_MWT_TREATV,12,WT_INCINRT_EGY,None,T,2025-03-21T00:00:00,2021,,,0.0
+2019,A,0,"Office National des Statistiques, Algérie",EN_MWT_TREATV,12,WT_INCINRT_EGY,None,T,2025-03-21T00:00:00,2021,,,0.0
+2020,A,0,"Office National des Statistiques, Algérie",EN_MWT_TREATV,12,WT_INCINRT_EGY,None,T,2025-03-21T00:00:00,2021,,,0.0
+2021,A,0,"Office National des Statistiques, Algérie",EN_MWT_TREATV,12,WT_INCINRT_EGY,None,T,2025-03-21T00:00:00,2021,,,0.0
+2014,A,0,"Office National des Statistiques, Algérie",EN_MWT_TREATV,12,WT_LANDFILCTL,None,T,2025-03-21T00:00:00,2021,,,4816810.1
+2015,A,0,"Office National des Statistiques, Algérie",EN_MWT_TREATV,12,WT_LANDFILCTL,None,T,2025-03-21T00:00:00,2021,,,5182160.2
+2016,A,0,"Office National des Statistiques, Algérie",EN_MWT_TREATV,12,WT_LANDFILCTL,None,T,2025-03-21T00:00:00,2021,,,5779000.0
+2017,A,0,"Office National des Statistiques, Algérie",EN_MWT_TREATV,12,WT_LANDFILCTL,None,T,2025-03-21T00:00:00,2021,,,6000000.0
+2019,A,0,"Office National des Statistiques, Algérie",EN_MWT_TREATV,12,WT_LANDFILCTL,None,T,2025-03-21T00:00:00,2021,,,6271305.5
+2020,A,0,"Office National des Statistiques, Algérie",EN_MWT_TREATV,12,WT_LANDFILCTL,None,T,2025-03-21T00:00:00,2021,,,6583924.3
+2021,A,0,"Office National des Statistiques, Algérie",EN_MWT_TREATV,12,WT_LANDFILCTL,None,T,2025-03-21T00:00:00,2021,,,6762738.8
+2019,A,0,"Office National des Statistiques, Algérie",EN_TWT_GENV,12,None,ISIC4_S,T,2025-03-21T00:00:00,2021,,,4340000.0
+2020,A,0,"Office National des Statistiques, Algérie",EN_TWT_GENV,12,None,ISIC4_S,T,2025-03-21T00:00:00,2021,,,3090000.0
+2021,A,0,"Office National des Statistiques, Algérie",EN_TWT_GENV,12,None,ISIC4_S,T,2025-03-21T00:00:00,2021,,,3170000.0
+2002,A,0,"Office National des Statistiques, Algérie",EN_TWT_GENV,12,None,ISIC4_T,T,2025-03-21T00:00:00,2021,,,5200000.0
+2005,A,0,"Office National des Statistiques, Algérie",EN_TWT_GENV,12,None,ISIC4_T,T,2025-03-21T00:00:00,2021,,,8500000.0
+2009,A,0,"Office National des Statistiques, Algérie",EN_TWT_GENV,12,None,ISIC4_T,T,2025-03-21T00:00:00,2021,,,9600000.0
+2014,A,0,"Office National des Statistiques, Algérie",EN_TWT_GENV,12,None,ISIC4_T,T,2025-03-21T00:00:00,2021,,,10477917.4
+2015,A,0,"Office National des Statistiques, Algérie",EN_TWT_GENV,12,None,ISIC4_T,T,2025-03-21T00:00:00,2021,,,10857375.8
+2016,A,0,"Office National des Statistiques, Algérie",EN_TWT_GENV,12,None,ISIC4_T,T,2025-03-21T00:00:00,2021,,,11273867.0
+2017,A,0,"Office National des Statistiques, Algérie",EN_TWT_GENV,12,None,ISIC4_T,T,2025-03-21T00:00:00,2021,,,11700525.4
+2018,A,0,"Office National des Statistiques, Algérie",EN_TWT_GENV,12,None,ISIC4_T,T,2025-03-21T00:00:00,2021,,,12137564.0
+2019,A,0,"Office National des Statistiques, Algérie",EN_TWT_GENV,12,None,ISIC4_T,T,2025-03-21T00:00:00,2021,,,8270000.0
+2020,A,0,"Office National des Statistiques, Algérie",EN_TWT_GENV,12,None,ISIC4_T,T,2025-03-21T00:00:00,2021,,,7730000.0
+2021,A,0,"Office National des Statistiques, Algérie",EN_TWT_GENV,12,None,ISIC4_T,T,2025-03-21T00:00:00,2021,,,7850000.0

@@ -15,6 +15,40 @@
             "type": "integer"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Algeria MICS 2019. The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above. Data extracted on 25 February 2025.",
+                "Ministry of Post, Telecommunications, Technologies and Digital",
+                "SOURCE: UIS Education Survey Data extracted on 25 February 2025.",
+                "Trends in International Mathematics and Science Study (TIMSS). Students achieving at least Intermediate International Benchmark. Grade 4 Data extracted on 25 February 2025.",
+                "Programme for International Student Assessment (PISA). Students achieving at least proficiency Level 2. Modal grade for PISA: http://dx.doi.org/10.1787/888934038799 Data extracted on 25 February 2025.",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SERIES",
             "type": "string"
           },
@@ -23,7 +57,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "231",
+                "12",
                 ""
               ]
             }
@@ -36,20 +70,6 @@
                 "None",
                 "F",
                 "M",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "None",
-                "Y15T24",
-                "Y15T64",
-                "Y25T54",
-                "Y55T64",
                 ""
               ]
             }
@@ -90,8 +110,36 @@
                 "ISCED11_2",
                 "ISCED11_3",
                 "None",
-                "AGG_2_3",
                 "ISCED11_02",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "SKILL_DLDONLD",
+                "SKILL_FONLCRS",
+                "SKILL_GSINF",
+                "SKILL_GSPUR",
+                "SKILL_HLTHINF",
+                "SKILL_ICTATCH",
+                "SKILL_ICTCDV",
+                "SKILL_ICTCPT",
+                "SKILL_ICTPRGM",
+                "SKILL_ICTPST",
+                "SKILL_ICTSFWR",
+                "SKILL_ICTSSHT",
+                "SKILL_INTBNK",
+                "SKILL_ONLCNS",
+                "SKILL_ONLSFT",
+                "SKILL_SNTWK",
+                "SKILL_VOIP",
+                "SKILL_MATH",
+                "SKILL_READ",
                 ""
               ]
             }
@@ -105,52 +153,16 @@
             "type": "string"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
-                ""
-              ]
-            }
-          },
-          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
                 "2019",
-                "2016",
-                "2011",
-                "2021",
-                "2008",
-                "2009",
+                "2018",
+                "2024",
+                "2023",
+                "2007",
                 "2015",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ethiopian Socioeconomic Survey (ESS) 2018-19. The survey collected data on school attendance and educational attainment for age 4 and above. Data extracted on 25 February 2025.",
-                "Ethiopia DHS 2016. The survey collected data on school attendance for age 5-24 and educational attainment for age 5 and above. Data extracted on 25 February 2025.",
-                "Ethiopia DHS 2011. The survey collected data on school attendance for age 5-24 and educational attainment for age 5 and above. Data extracted on 25 February 2025.",
-                "UIS based on UIS based on ETH - LFS - National Labor Force Survey; Repository: ILO-STATISTICS - Micro data processing - Age coverage - minimum age: 15 years old - Age coverage - maximum age: None Data extracted on 25 February 2025.",
-                "Source: UIS Dynamic template based on UIS Education Survey Data extracted on 25 February 2025.",
-                "SOURCE: UIS Education Survey Data extracted on 25 February 2025.",
                 ""
               ]
             }
@@ -160,8 +172,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "This data point is NOT APPLICABLE for the submitting nation.",
-                "This data point is NIL for the submitting nation.",
+                "Aged 15 and older. Are calculated from the data of the last 12 months",
+                "Aged 15 and older.",
                 ""
               ]
             }

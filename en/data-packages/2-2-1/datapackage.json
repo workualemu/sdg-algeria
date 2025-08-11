@@ -16,6 +16,72 @@
             "title": "Year"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            },
+            "title": "OBS_STATUS"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                "3",
+                ""
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
+            "name": "UPPER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "10.7",
+                "10.1",
+                "11.4",
+                "496.6",
+                "229.5",
+                "268",
+                ""
+              ]
+            },
+            "title": "UPPER_BOUND"
+          },
+          {
+            "name": "LOWER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "7.4",
+                "7",
+                "7.9",
+                "344.2",
+                "158.1",
+                "187.4",
+                ""
+              ]
+            },
+            "title": "LOWER_BOUND"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Joint Child Malnutrition Estimates (2025 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group.",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -25,7 +91,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "231",
+                "12",
                 ""
               ]
             },
@@ -66,29 +132,6 @@
             "title": "DATA_LAST_UPDATE"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            },
-            "title": "OBS_STATUS"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
-                "3",
-                ""
-              ]
-            },
-            "title": "UNIT_MULT"
-          },
-          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -98,49 +141,6 @@
               ]
             },
             "title": "TIME_DETAIL"
-          },
-          {
-            "name": "UPPER_BOUND",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "40.1",
-                "37.5",
-                "42.7",
-                "7790.1",
-                "3547.1",
-                "4234.6",
-                ""
-              ]
-            },
-            "title": "UPPER_BOUND"
-          },
-          {
-            "name": "LOWER_BOUND",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "31.2",
-                "28.9",
-                "33.6",
-                "6039.7",
-                "2745.8",
-                "3336.2",
-                ""
-              ]
-            },
-            "title": "LOWER_BOUND"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Joint Child Malnutrition Estimates (2025 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group.",
-                ""
-              ]
-            },
-            "title": "SOURCE_DETAIL"
           },
           {
             "name": "Value",

@@ -1,4 +1,27 @@
-Year,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,DATA_LAST_UPDATE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,SOURCE_DETAIL,Value
-2016,SH_SUD_ALCOL,231,None,Y_GE15,PT,2020-07-06T00:00:00,A,0,2016,WHO,2.5
-2016,SH_SUD_ALCOL,231,F,Y_GE15,PT,2020-07-06T00:00:00,A,0,2016,WHO,0.5
-2016,SH_SUD_ALCOL,231,M,Y_GE15,PT,2020-07-06T00:00:00,A,0,2016,WHO,4.5
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,SEX,AGE,COMPOSITE_BREAKDOWN,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,COMMENT_OBS,Value
+2016,A,0,WHO,SH_SUD_ALCOL,12,None,Y_GE15,None,PT,2020-07-06T00:00:00,2016,,0.8
+2016,A,0,WHO,SH_SUD_ALCOL,12,F,Y_GE15,None,PT,2020-07-06T00:00:00,2016,,0.0
+2016,A,0,WHO,SH_SUD_ALCOL,12,M,Y_GE15,None,PT,2020-07-06T00:00:00,2016,,1.5
+2016,A,0,Institute for Health Metrics and Evaluation/Annual Report Questionnaire,SH_SUD_TREAT,12,None,None,SUD_ATS,PT,2025-05-12T00:00:00,2019,Subnational,40.1
+2018,A,0,Institute for Health Metrics and Evaluation/Annual Report Questionnaire,SH_SUD_TREAT,12,None,None,SUD_ATS,PT,2025-05-12T00:00:00,2019,Subnational,45.23
+2019,A,0,Institute for Health Metrics and Evaluation/Annual Report Questionnaire,SH_SUD_TREAT,12,None,None,SUD_ATS,PT,2025-05-12T00:00:00,2019,Subnational,40.51
+2014,A,0,Institute for Health Metrics and Evaluation/Annual Report Questionnaire,SH_SUD_TREAT,12,None,None,SUD_DRUG_TOTAL,PT,2025-05-12T00:00:00,2021,Subnational,10.56
+2015,A,0,Institute for Health Metrics and Evaluation/Annual Report Questionnaire,SH_SUD_TREAT,12,None,None,SUD_DRUG_TOTAL,PT,2025-05-12T00:00:00,2021,Subnational,10.05
+2016,A,0,Institute for Health Metrics and Evaluation/Annual Report Questionnaire,SH_SUD_TREAT,12,None,None,SUD_DRUG_TOTAL,PT,2025-05-12T00:00:00,2021,Subnational,11.94
+2017,A,0,Institute for Health Metrics and Evaluation/Annual Report Questionnaire,SH_SUD_TREAT,12,None,None,SUD_DRUG_TOTAL,PT,2025-05-12T00:00:00,2021,Subnational,12.42
+2018,A,0,Institute for Health Metrics and Evaluation/Annual Report Questionnaire,SH_SUD_TREAT,12,None,None,SUD_DRUG_TOTAL,PT,2025-05-12T00:00:00,2021,Subnational,13.48
+2019,A,0,Institute for Health Metrics and Evaluation/Annual Report Questionnaire,SH_SUD_TREAT,12,None,None,SUD_DRUG_TOTAL,PT,2025-05-12T00:00:00,2021,Subnational,12.89
+2020,A,0,Institute for Health Metrics and Evaluation/Annual Report Questionnaire,SH_SUD_TREAT,12,None,None,SUD_DRUG_TOTAL,PT,2025-05-12T00:00:00,2021,Subnational,11.89
+2021,A,0,Institute for Health Metrics and Evaluation/Annual Report Questionnaire,SH_SUD_TREAT,12,None,None,SUD_DRUG_TOTAL,PT,2025-05-12T00:00:00,2021,Subnational,10.79
+2014,A,0,Institute for Health Metrics and Evaluation/Annual Report Questionnaire,SH_SUD_TREAT,12,F,None,SUD_DRUG_TOTAL,PT,2025-05-12T00:00:00,2021,Subnational,1.71
+2015,A,0,Institute for Health Metrics and Evaluation/Annual Report Questionnaire,SH_SUD_TREAT,12,F,None,SUD_DRUG_TOTAL,PT,2025-05-12T00:00:00,2021,Subnational,2.07
+2016,A,0,Institute for Health Metrics and Evaluation/Annual Report Questionnaire,SH_SUD_TREAT,12,F,None,SUD_DRUG_TOTAL,PT,2025-05-12T00:00:00,2021,Subnational,2.89
+2017,A,0,Institute for Health Metrics and Evaluation/Annual Report Questionnaire,SH_SUD_TREAT,12,F,None,SUD_DRUG_TOTAL,PT,2025-05-12T00:00:00,2021,Subnational,3.28
+2020,A,0,Institute for Health Metrics and Evaluation/Annual Report Questionnaire,SH_SUD_TREAT,12,F,None,SUD_DRUG_TOTAL,PT,2025-05-12T00:00:00,2021,Subnational,3.47
+2021,A,0,Institute for Health Metrics and Evaluation/Annual Report Questionnaire,SH_SUD_TREAT,12,F,None,SUD_DRUG_TOTAL,PT,2025-05-12T00:00:00,2021,Subnational,2.91
+2014,A,0,Institute for Health Metrics and Evaluation/Annual Report Questionnaire,SH_SUD_TREAT,12,M,None,SUD_DRUG_TOTAL,PT,2025-05-12T00:00:00,2021,Subnational,16.68
+2015,A,0,Institute for Health Metrics and Evaluation/Annual Report Questionnaire,SH_SUD_TREAT,12,M,None,SUD_DRUG_TOTAL,PT,2025-05-12T00:00:00,2021,Subnational,15.56
+2016,A,0,Institute for Health Metrics and Evaluation/Annual Report Questionnaire,SH_SUD_TREAT,12,M,None,SUD_DRUG_TOTAL,PT,2025-05-12T00:00:00,2021,Subnational,18.18
+2017,A,0,Institute for Health Metrics and Evaluation/Annual Report Questionnaire,SH_SUD_TREAT,12,M,None,SUD_DRUG_TOTAL,PT,2025-05-12T00:00:00,2021,Subnational,18.72
+2020,A,0,Institute for Health Metrics and Evaluation/Annual Report Questionnaire,SH_SUD_TREAT,12,M,None,SUD_DRUG_TOTAL,PT,2025-05-12T00:00:00,2021,Subnational,17.64
+2021,A,0,Institute for Health Metrics and Evaluation/Annual Report Questionnaire,SH_SUD_TREAT,12,M,None,SUD_DRUG_TOTAL,PT,2025-05-12T00:00:00,2021,Subnational,16.18

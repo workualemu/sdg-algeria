@@ -1,1 +1,13 @@
-Year,Value
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2008,A,0,"Employment in the tourism sector is the sum of the hotel, cafe and restaurant sectors.",Office National des Statistiques Algérie,ST_EMP_TRSMN,12,NUMBER,2025-03-27T00:00:00,2019,182000
+2009,A,0,"Employment in the tourism sector is the sum of the hotel, cafe and restaurant sectors.",Office National des Statistiques Algérie,ST_EMP_TRSMN,12,NUMBER,2025-03-27T00:00:00,2019,198000
+2010,A,0,"Employment in the tourism sector is the sum of the hotel, cafe and restaurant sectors.",Office National des Statistiques Algérie,ST_EMP_TRSMN,12,NUMBER,2025-03-27T00:00:00,2019,213000
+2011,A,0,"Employment in the tourism sector is the sum of the hotel, cafe and restaurant sectors.",Office National des Statistiques Algérie,ST_EMP_TRSMN,12,NUMBER,2025-03-27T00:00:00,2019,220000
+2012,A,0,"Employment in the tourism sector is the sum of the hotel, cafe and restaurant sectors.",Office National des Statistiques Algérie,ST_EMP_TRSMN,12,NUMBER,2025-03-27T00:00:00,2019,224028
+2013,A,0,"Employment in the tourism sector is the sum of the hotel, cafe and restaurant sectors.",Office National des Statistiques Algérie,ST_EMP_TRSMN,12,NUMBER,2025-03-27T00:00:00,2019,256775
+2014,A,0,"Employment in the tourism sector is the sum of the hotel, cafe and restaurant sectors.",Office National des Statistiques Algérie,ST_EMP_TRSMN,12,NUMBER,2025-03-27T00:00:00,2019,261289
+2015,A,0,"Employment in the tourism sector is the sum of the hotel, cafe and restaurant sectors.",Office National des Statistiques Algérie,ST_EMP_TRSMN,12,NUMBER,2025-03-27T00:00:00,2019,265803
+2016,A,0,"Employment in the tourism sector is the sum of the hotel, cafe and restaurant sectors.",Office National des Statistiques Algérie,ST_EMP_TRSMN,12,NUMBER,2025-03-27T00:00:00,2019,270317
+2017,A,0,"Employment in the tourism sector is the sum of the hotel, cafe and restaurant sectors.",Office National des Statistiques Algérie,ST_EMP_TRSMN,12,NUMBER,2025-03-27T00:00:00,2019,300000
+2018,A,0,"Employment in the tourism sector is the sum of the hotel, cafe and restaurant sectors.",Office National des Statistiques Algérie,ST_EMP_TRSMN,12,NUMBER,2025-03-27T00:00:00,2019,308027
+2019,A,0,"Employment in the tourism sector is the sum of the hotel, cafe and restaurant sectors.",Office National des Statistiques Algérie,ST_EMP_TRSMN,12,NUMBER,2025-03-27T00:00:00,2019,320000

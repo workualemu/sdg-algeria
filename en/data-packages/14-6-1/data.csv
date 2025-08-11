@@ -1,1 +1,2 @@
-Year,Value
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2024,A,0,Level of implementation: 1 lowest - 5 highest,Questionnaire on the implementation of the Code of Conduct for Responsible Fisheries - Country self-reporting,ER_REG_UNFCIM,12,NUMBER,2025-03-21T00:00:00,2024,3.0

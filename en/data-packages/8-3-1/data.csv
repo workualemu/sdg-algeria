@@ -1,10 +1,1 @@
-Year,SERIES,REF_AREA,SEX,AGE,ACTIVITY,UNIT_MEASURE,DATA_LAST_UPDATE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,COMMENT_OBS,SOURCE_DETAIL,Value
-2021,SL_ISV_IFEM,231,None,Y_GE15,None,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,85.21
-2021,SL_ISV_IFEM,231,None,Y_GE15,ISIC4_A,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,94.58
-2021,SL_ISV_IFEM,231,None,Y_GE15,ISIC4_BTU,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,68.93
-2021,SL_ISV_IFEM,231,F,Y_GE15,None,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,87.45
-2021,SL_ISV_IFEM,231,F,Y_GE15,ISIC4_A,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,95.09
-2021,SL_ISV_IFEM,231,F,Y_GE15,ISIC4_BTU,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,78.25
-2021,SL_ISV_IFEM,231,M,Y_GE15,None,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,83.58
-2021,SL_ISV_IFEM,231,M,Y_GE15,ISIC4_A,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,94.29
-2021,SL_ISV_IFEM,231,M,Y_GE15,ISIC4_BTU,PT,2025-03-15T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,58.66
+Year,Value

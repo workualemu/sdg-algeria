@@ -1,4 +1,6 @@
-Year,SERIES,REF_AREA,ACTIVITY,UNIT_MEASURE,DATA_LAST_UPDATE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,COMMENT_OBS,SOURCE_DETAIL,Value
-2005,SL_TLF_MANF,231,ISIC4_C,PT,2025-02-27T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,5.33
-2013,SL_TLF_MANF,231,ISIC4_C,PT,2025-02-27T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,5.12
-2021,SL_TLF_MANF,231,ISIC4_C,PT,2025-02-27T00:00:00,A,0,2021,Repository: ILO-STATISTICS - Micro data processing,LFS - National Labor Force Survey,3.17
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,ACTIVITY,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2001,A,0,Data reference period: September,LFS - Household Employment Survey,SL_TLF_MANF,12,ISIC4_C,PT,2025-02-27T00:00:00,2017,10.14
+2003,A,0,Data reference period: September,LFS - Household Employment Survey,SL_TLF_MANF,12,ISIC4_C,PT,2025-02-27T00:00:00,2017,9.23
+2004,A,0,Data reference period: September,LFS - Household Employment Survey,SL_TLF_MANF,12,ISIC4_C,PT,2025-02-27T00:00:00,2017,10.86
+2014,A,0,Data reference period: September,LFS - Household Employment Survey,SL_TLF_MANF,12,ISIC4_C,PT,2025-02-27T00:00:00,2017,11.32
+2017,A,0,Data reference period: September,LFS - Household Employment Survey,SL_TLF_MANF,12,ISIC4_C,PT,2025-02-27T00:00:00,2017,10.72

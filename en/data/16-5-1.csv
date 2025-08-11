@@ -1,1 +1,2 @@
-Year,Value
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2015,A,0,The data source is Transparency International's Global Corruption Barometer. The data were not provided by the Member State.,Global Corruption Barrometer,IU_COR_BRIB,12,PT,2025-03-26T00:00:00,2015,14

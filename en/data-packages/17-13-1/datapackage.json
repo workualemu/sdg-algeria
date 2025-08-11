@@ -16,32 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "231",
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "DATA_LAST_UPDATE",
-            "type": "string",
-            "title": "DATA_LAST_UPDATE"
-          },
-          {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
@@ -64,30 +38,16 @@
             "title": "UNIT_MULT"
           },
           {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2023",
-                "2022",
-                "2020",
-                "2008",
-                ""
-              ]
-            },
-            "title": "TIME_DETAIL"
-          },
-          {
             "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
                 "International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",
+                "International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",
                 "International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",
                 "World Bank, International Debt Statistics.",
                 "International Monetary Fund, Financial Soundness Indicators.",
                 "International Monetary Fund, International Financial Statistics and data files.",
-                "International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",
                 "World Bank national accounts data, and OECD National Accounts data files.",
                 "International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",
                 "World Trade Organization, and World Bank GDP estimates.",
@@ -97,15 +57,43 @@
             "title": "SOURCE_DETAIL"
           },
           {
-            "name": "COMMENT_OBS",
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Data refers to the country's fiscal year, which differs from the reference period of the official exchange rate which is related to the calendar year. See more details on the series metadata of the alternative conversion factor (PA.NUS.ATLS) and country metadata (special notes).",
+                "12",
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "REF_AREA"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string",
+            "title": "DATA_LAST_UPDATE"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2023",
+                "2011",
+                "2022",
+                ""
+              ]
+            },
+            "title": "TIME_DETAIL"
           },
           {
             "name": "Value",

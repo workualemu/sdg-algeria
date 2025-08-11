@@ -15,44 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "231",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "ACTIVITY",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "None",
-                "HH",
-                "ISIC4_BTFXE",
-                "ISIC4_C",
-                "ISIC4_F",
-                "ISIC4_GTS",
-                "ISIC4_GTS_HH",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "DATA_LAST_UPDATE",
-            "type": "string"
-          },
-          {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
@@ -73,12 +35,11 @@
             }
           },
           {
-            "name": "TIME_DETAIL",
+            "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
-                "2021",
-                "2024",
+                "Corresponds to the volumes treated in stations managed by the National Sanitation Office (ONA) only.",
                 ""
               ]
             }
@@ -88,17 +49,51 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "UN Habitat",
+                "UNSD",
                 "WHO 2024",
                 ""
               ]
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "number",
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
             "constraints": {
               "enum": [
+                "12",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "ACTIVITY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2017",
+                "2024",
                 ""
               ]
             }

@@ -1,3 +1,1 @@
-Year,SERIES,REF_AREA,INCOME_WEALTH_QUANTILE,UNIT_MEASURE,DATA_LAST_UPDATE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,COMMENT_OBS,SOURCE_DETAIL,Value
-2015,SI_HEI_TOTL,231,None,PT,2025-04-29T00:00:00,A,0,2015,Estimated from consumption data. Growth rates are for the period of 2010-2015.,World Bank,2
-2015,SI_HEI_TOTL,231,B40,PT,2025-04-29T00:00:00,A,0,2015,Estimated from consumption data. Growth rates are for the period of 2010-2015.,World Bank,1
+Year,Value

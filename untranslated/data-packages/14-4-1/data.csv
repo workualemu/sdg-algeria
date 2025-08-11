@@ -1,1 +1,2 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,COMMENT_OBS,SOURCE_DETAIL,Value
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2021,A,0,The indicator reported here is based on FAO SDG 14.4.1 questionnaire Field B3.2: Current stock status. here using 4 stocks where 0% had an unknown stock status.,FAO SDG14.4.1 questionnaire. Values were produced according to the SDG14.4.1 Metadata document.,ER_H2O_FWTL,12,PT,2025-07-09T00:00:00,2021,75.0

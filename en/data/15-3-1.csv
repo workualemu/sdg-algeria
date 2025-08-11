@@ -1,3 +1,3 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,SOURCE_DETAIL,Value
-2015,AG_LND_DGRD,231,PT,2024-10-31T00:00:00,A,0,2016-2019,"Ministry of Environment, Forest and Climate Change",8.26
-2019,AG_LND_DGRD,231,PT,2024-10-31T00:00:00,A,0,2016-2019,"Ministry of Environment, Forest and Climate Change",19.86
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2015,A,0,Ministry of Agriculture and Rural Development general directorate of forests,AG_LND_DGRD,12,PT,2024-10-31T00:00:00,2016-2019,2.44
+2019,A,0,Ministry of Agriculture and Rural Development general directorate of forests,AG_LND_DGRD,12,PT,2024-10-31T00:00:00,2016-2019,5.0

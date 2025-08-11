@@ -7,69 +7,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "euc_jp",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "231",
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "CUST_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "C02",
-                "C04",
-                "C05",
-                "C11",
-                "C12",
-                ""
-              ]
-            },
-            "title": "CUST_BREAKDOWN"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "CUST_BREAKDOWN_LB",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Addis Ababa",
-                "Bahir Dar",
-                "Dire Dawa",
-                "Jijiga",
-                "Shashemene",
-                ""
-              ]
-            },
-            "title": "CUST_BREAKDOWN_LB"
-          },
-          {
-            "name": "DATA_LAST_UPDATE",
-            "type": "string",
-            "title": "DATA_LAST_UPDATE"
           },
           {
             "name": "OBS_STATUS",
@@ -94,24 +38,11 @@
             "title": "UNIT_MULT"
           },
           {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2021",
-                "2018",
-                "2024",
-                ""
-              ]
-            },
-            "title": "TIME_DETAIL"
-          },
-          {
             "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
-                "Municipal Solid Waste (MSW) collection coverage is defined as the amount of MSW collected as a proportion of total MSW generated. Waste Wise Cities Tool (WaCT) uses a standardized, field-based methodology developed by UN-Habitat to assess the flow and management of municipal solid waste at the city level. It combines direct observation, interviews with stakeholders, and sampling techniques at households, transfer stations, and disposal sites to quantify the proportion of municipal waste that is collected and managed in controlled facilities. Designation and data provided by the country and compiled by UNHabitat. The designations employed do not imply the expression of any opinion whatsoever on the part of the Secretariat of the United Nations concerning the legal status of any country, territory, city or area; or of its authorities, or concerning the delimitation of its frontiers or boundaries.",
+                "Municipal Solid Waste (MSW) collection coverage is defined as the amount of MSW collected as a proportion of total MSW generated. Designation and data provided by the country and compiled by UNHabitat. The designations employed do not imply the expression of any opinion whatsoever on the part of the Secretariat of the United Nations concerning the legal status of any country, territory, city or area; or of its authorities, or concerning the delimitation of its frontiers or boundaries.",
                 "Municipal Solid Waste (MSW) collection coverage is defined as the amount of MSW collected as a proportion of total MSW generated.  Projected waste generation. (http://hdl.handle.net/10986/30317). Designation and data provided by the country and compiled by UNHabitat. The designations employed do not imply the expression of any opinion whatsoever on the part of the Secretariat of the United Nations concerning the legal status of any country, territory, city or area; or of its authorities, or concerning the delimitation of its frontiers or boundaries.",
                 ""
               ]
@@ -123,12 +54,81 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Waste Wise Cities Tool (WaCT) Survey, United Nations Human Settlements Programme (UN-Habitat)",
+                "UNSD, Country Files from the UNSD/UNEP data collection on environment statistics (available at: https://unstats.un.org/unsd/envstats/country_files). (Date of last update: 16 May 2023).",
                 "World Bank (2018). What A Waste Global Database, 2018 Edition.",
                 ""
               ]
             },
             "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "12",
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "CUST_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "C01",
+                "C06",
+                "C07",
+                "C08",
+                "C13",
+                ""
+              ]
+            },
+            "title": "CUST_BREAKDOWN"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "CUST_BREAKDOWN_LB",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Adrar",
+                "Constantine (Qacentina)",
+                "Djelfa",
+                "El Djazaïr (Algiers)",
+                "Oran (Wahran)",
+                ""
+              ]
+            },
+            "title": "CUST_BREAKDOWN_LB"
+          },
+          {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string",
+            "title": "DATA_LAST_UPDATE"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2017",
+                "2014",
+                "2018",
+                ""
+              ]
+            },
+            "title": "TIME_DETAIL"
           },
           {
             "name": "Value",

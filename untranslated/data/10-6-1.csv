@@ -1,127 +1,131 @@
-Year,SERIES,REF_AREA,COMPOSITE_BREAKDOWN,UNIT_MEASURE,DATA_LAST_UPDATE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,SOURCE_DETAIL,Value
-2000,SG_INT_MBRDEV,231,IO_AFDB,PT,2024-05-07T00:00:00,A,0,2022,African Development Bank Group Annual Report 2022,1.2987
-2005,SG_INT_MBRDEV,231,IO_AFDB,PT,2024-05-07T00:00:00,A,0,2022,African Development Bank Group Annual Report 2022,1.2987
-2010,SG_INT_MBRDEV,231,IO_AFDB,PT,2024-05-07T00:00:00,A,0,2022,African Development Bank Group Annual Report 2022,1.2987
-2014,SG_INT_MBRDEV,231,IO_AFDB,PT,2024-05-07T00:00:00,A,0,2022,African Development Bank Group Annual Report 2022,1.26582
-2015,SG_INT_MBRDEV,231,IO_AFDB,PT,2024-05-07T00:00:00,A,0,2022,African Development Bank Group Annual Report 2022,1.25
-2016,SG_INT_MBRDEV,231,IO_AFDB,PT,2024-05-07T00:00:00,A,0,2022,African Development Bank Group Annual Report 2022,1.25
-2017,SG_INT_MBRDEV,231,IO_AFDB,PT,2024-05-07T00:00:00,A,0,2022,African Development Bank Group Annual Report 2022,1.25
-2018,SG_INT_MBRDEV,231,IO_AFDB,PT,2024-05-07T00:00:00,A,0,2022,African Development Bank Group Annual Report 2022,1.25
-2019,SG_INT_MBRDEV,231,IO_AFDB,PT,2024-05-07T00:00:00,A,0,2022,African Development Bank Group Annual Report 2022,1.25
-2020,SG_INT_MBRDEV,231,IO_AFDB,PT,2024-05-07T00:00:00,A,0,2022,African Development Bank Group Annual Report 2022,1.23457
-2021,SG_INT_MBRDEV,231,IO_AFDB,PT,2024-05-07T00:00:00,A,0,2022,African Development Bank Group Annual Report 2022,1.23457
-2022,SG_INT_MBRDEV,231,IO_AFDB,PT,2024-05-07T00:00:00,A,0,2022,African Development Bank Group Annual Report 2022,1.23457
-2019,SG_INT_MBRDEV,231,IO_ECOSOC,PT,2024-05-07T00:00:00,A,0,2021,Report of the Economic and Social Council on its 2021 Session (A/76/3),1.85185
-2020,SG_INT_MBRDEV,231,IO_ECOSOC,PT,2024-05-07T00:00:00,A,0,2021,Report of the Economic and Social Council on its 2021 Session (A/76/3),1.85185
-2021,SG_INT_MBRDEV,231,IO_ECOSOC,PT,2024-05-07T00:00:00,A,0,2021,Report of the Economic and Social Council on its 2021 Session (A/76/3),1.85185
-2000,SG_INT_MBRDEV,231,IO_IBRD,PT,2024-05-07T00:00:00,A,0,2023,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",0.54945
-2005,SG_INT_MBRDEV,231,IO_IBRD,PT,2024-05-07T00:00:00,A,0,2023,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",0.54348
-2010,SG_INT_MBRDEV,231,IO_IBRD,PT,2024-05-07T00:00:00,A,0,2023,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",0.53476
-2015,SG_INT_MBRDEV,231,IO_IBRD,PT,2024-05-07T00:00:00,A,0,2023,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",0.53191
-2016,SG_INT_MBRDEV,231,IO_IBRD,PT,2024-05-07T00:00:00,A,0,2023,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",0.53191
-2017,SG_INT_MBRDEV,231,IO_IBRD,PT,2024-05-07T00:00:00,A,0,2023,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",0.5291
-2018,SG_INT_MBRDEV,231,IO_IBRD,PT,2024-05-07T00:00:00,A,0,2023,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",0.5291
-2019,SG_INT_MBRDEV,231,IO_IBRD,PT,2024-05-07T00:00:00,A,0,2023,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",0.5291
-2020,SG_INT_MBRDEV,231,IO_IBRD,PT,2024-05-07T00:00:00,A,0,2023,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",0.5291
-2021,SG_INT_MBRDEV,231,IO_IBRD,PT,2024-05-07T00:00:00,A,0,2023,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",0.5291
-2022,SG_INT_MBRDEV,231,IO_IBRD,PT,2024-05-07T00:00:00,A,0,2023,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",0.5291
-2023,SG_INT_MBRDEV,231,IO_IBRD,PT,2024-05-07T00:00:00,A,0,2023,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",0.5291
-2000,SG_INT_MBRDEV,231,IO_IFC,PT,2024-05-07T00:00:00,A,0,2023,IFC 2023 Annual Report Volume 2,0.57471
-2005,SG_INT_MBRDEV,231,IO_IFC,PT,2024-05-07T00:00:00,A,0,2023,IFC 2023 Annual Report Volume 2,0.5618
-2010,SG_INT_MBRDEV,231,IO_IFC,PT,2024-05-07T00:00:00,A,0,2023,IFC 2023 Annual Report Volume 2,0.54945
-2015,SG_INT_MBRDEV,231,IO_IFC,PT,2024-05-07T00:00:00,A,0,2023,IFC 2023 Annual Report Volume 2,0.54348
-2016,SG_INT_MBRDEV,231,IO_IFC,PT,2024-05-07T00:00:00,A,0,2023,IFC 2023 Annual Report Volume 2,0.54348
-2017,SG_INT_MBRDEV,231,IO_IFC,PT,2024-05-07T00:00:00,A,0,2023,IFC 2023 Annual Report Volume 2,0.54348
-2018,SG_INT_MBRDEV,231,IO_IFC,PT,2024-05-07T00:00:00,A,0,2023,IFC 2023 Annual Report Volume 2,0.54348
-2019,SG_INT_MBRDEV,231,IO_IFC,PT,2024-05-07T00:00:00,A,0,2023,IFC 2023 Annual Report Volume 2,0.5435
-2020,SG_INT_MBRDEV,231,IO_IFC,PT,2024-05-07T00:00:00,A,0,2023,IFC 2023 Annual Report Volume 2,0.54054
-2021,SG_INT_MBRDEV,231,IO_IFC,PT,2024-05-07T00:00:00,A,0,2023,IFC 2023 Annual Report Volume 2,0.54054
-2022,SG_INT_MBRDEV,231,IO_IFC,PT,2024-05-07T00:00:00,A,0,2023,IFC 2023 Annual Report Volume 2,0.53763
-2023,SG_INT_MBRDEV,231,IO_IFC,PT,2024-05-07T00:00:00,A,0,2023,IFC 2023 Annual Report Volume 2,0.53763
-2000,SG_INT_MBRDEV,231,IO_IMF,PT,2024-05-07T00:00:00,A,0,2023,IMF Annual Report 2023,0.5618
-2005,SG_INT_MBRDEV,231,IO_IMF,PT,2024-05-07T00:00:00,A,0,2023,IMF Annual Report 2023,0.55249
-2010,SG_INT_MBRDEV,231,IO_IMF,PT,2024-05-07T00:00:00,A,0,2023,IMF Annual Report 2023,0.54945
-2015,SG_INT_MBRDEV,231,IO_IMF,PT,2024-05-07T00:00:00,A,0,2023,IMF Annual Report 2023,0.53191
-2016,SG_INT_MBRDEV,231,IO_IMF,PT,2024-05-07T00:00:00,A,0,2023,IMF Annual Report 2023,0.53191
-2017,SG_INT_MBRDEV,231,IO_IMF,PT,2024-05-07T00:00:00,A,0,2023,IMF Annual Report 2023,0.5291
-2018,SG_INT_MBRDEV,231,IO_IMF,PT,2024-05-07T00:00:00,A,0,2023,IMF Annual Report 2023,0.5291
-2019,SG_INT_MBRDEV,231,IO_IMF,PT,2024-05-07T00:00:00,A,0,2023,IMF Annual Report 2023,0.5291
-2020,SG_INT_MBRDEV,231,IO_IMF,PT,2024-05-07T00:00:00,A,0,2023,IMF Annual Report 2023,0.5291
-2021,SG_INT_MBRDEV,231,IO_IMF,PT,2024-05-07T00:00:00,A,0,2023,IMF Annual Report 2023,0.52632
-2022,SG_INT_MBRDEV,231,IO_IMF,PT,2024-05-07T00:00:00,A,0,2023,IMF Annual Report 2023,0.52632
-2023,SG_INT_MBRDEV,231,IO_IMF,PT,2024-05-07T00:00:00,A,0,2023,IMF Annual Report 2023,0.52632
-2000,SG_INT_MBRDEV,231,IO_UNGA,PT,2024-05-07T00:00:00,A,0,2023,UN General Assembly website http://www.un.org/en/member-states/index.html,0.5291
-2005,SG_INT_MBRDEV,231,IO_UNGA,PT,2024-05-07T00:00:00,A,0,2023,UN General Assembly website http://www.un.org/en/member-states/index.html,0.52356
-2010,SG_INT_MBRDEV,231,IO_UNGA,PT,2024-05-07T00:00:00,A,0,2023,UN General Assembly website http://www.un.org/en/member-states/index.html,0.52083
-2015,SG_INT_MBRDEV,231,IO_UNGA,PT,2024-05-07T00:00:00,A,0,2023,UN General Assembly website http://www.un.org/en/member-states/index.html,0.51813
-2016,SG_INT_MBRDEV,231,IO_UNGA,PT,2024-05-07T00:00:00,A,0,2023,UN General Assembly website http://www.un.org/en/member-states/index.html,0.51813
-2017,SG_INT_MBRDEV,231,IO_UNGA,PT,2024-05-07T00:00:00,A,0,2023,UN General Assembly website http://www.un.org/en/member-states/index.html,0.51813
-2018,SG_INT_MBRDEV,231,IO_UNGA,PT,2024-05-07T00:00:00,A,0,2023,UN General Assembly website http://www.un.org/en/member-states/index.html,0.51813
-2019,SG_INT_MBRDEV,231,IO_UNGA,PT,2024-05-07T00:00:00,A,0,2023,UN General Assembly website http://www.un.org/en/member-states/index.html,0.51813
-2020,SG_INT_MBRDEV,231,IO_UNGA,PT,2024-05-07T00:00:00,A,0,2023,UN General Assembly website http://www.un.org/en/member-states/index.html,0.51813
-2021,SG_INT_MBRDEV,231,IO_UNGA,PT,2024-05-07T00:00:00,A,0,2023,UN General Assembly website http://www.un.org/en/member-states/index.html,0.51813
-2022,SG_INT_MBRDEV,231,IO_UNGA,PT,2024-05-07T00:00:00,A,0,2023,UN General Assembly website http://www.un.org/en/member-states/index.html,0.51813
-2023,SG_INT_MBRDEV,231,IO_UNGA,PT,2024-05-07T00:00:00,A,0,2023,UN General Assembly website http://www.un.org/en/member-states/index.html,0.51813
-2017,SG_INT_MBRDEV,231,IO_UNSC,PT,2024-05-07T00:00:00,A,0,2018,Report of the Security Council for 2018 (A/73/2),6.66667
-2018,SG_INT_MBRDEV,231,IO_UNSC,PT,2024-05-07T00:00:00,A,0,2018,Report of the Security Council for 2018 (A/73/2),6.66667
-2000,SG_INT_VRTDEV,231,IO_AFDB,PT,2024-05-07T00:00:00,A,0,2022,African Development Bank Group Annual Report 2022,1.685
-2005,SG_INT_VRTDEV,231,IO_AFDB,PT,2024-05-07T00:00:00,A,0,2022,African Development Bank Group Annual Report 2022,1.602
-2010,SG_INT_VRTDEV,231,IO_AFDB,PT,2024-05-07T00:00:00,A,0,2022,African Development Bank Group Annual Report 2022,1.57
-2014,SG_INT_VRTDEV,231,IO_AFDB,PT,2024-05-07T00:00:00,A,0,2022,African Development Bank Group Annual Report 2022,1.587
-2015,SG_INT_VRTDEV,231,IO_AFDB,PT,2024-05-07T00:00:00,A,0,2022,African Development Bank Group Annual Report 2022,1.58
-2016,SG_INT_VRTDEV,231,IO_AFDB,PT,2024-05-07T00:00:00,A,0,2022,African Development Bank Group Annual Report 2022,1.5764
-2017,SG_INT_VRTDEV,231,IO_AFDB,PT,2024-05-07T00:00:00,A,0,2022,African Development Bank Group Annual Report 2022,1.5764
-2018,SG_INT_VRTDEV,231,IO_AFDB,PT,2024-05-07T00:00:00,A,0,2022,African Development Bank Group Annual Report 2022,1.5851
-2019,SG_INT_VRTDEV,231,IO_AFDB,PT,2024-05-07T00:00:00,A,0,2022,African Development Bank Group Annual Report 2022,1.58816
-2020,SG_INT_VRTDEV,231,IO_AFDB,PT,2024-05-07T00:00:00,A,0,2022,African Development Bank Group Annual Report 2022,1.05498
-2021,SG_INT_VRTDEV,231,IO_AFDB,PT,2024-05-07T00:00:00,A,0,2022,African Development Bank Group Annual Report 2022,1.59722
-2022,SG_INT_VRTDEV,231,IO_AFDB,PT,2024-05-07T00:00:00,A,0,2022,African Development Bank Group Annual Report 2022,1.6025
-2019,SG_INT_VRTDEV,231,IO_ECOSOC,PT,2024-05-07T00:00:00,A,0,2021,Report of the Economic and Social Council on its 2021 Session (A/76/3/),1.85185
-2020,SG_INT_VRTDEV,231,IO_ECOSOC,PT,2024-05-07T00:00:00,A,0,2021,Report of the Economic and Social Council on its 2021 Session (A/76/3/),1.85185
-2021,SG_INT_VRTDEV,231,IO_ECOSOC,PT,2024-05-07T00:00:00,A,0,2021,Report of the Economic and Social Council on its 2021 Session (A/76/3/),1.85185
-2005,SG_INT_VRTDEV,231,IO_IBRD,PT,2024-05-07T00:00:00,A,0,2023,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",0.0759
-2010,SG_INT_VRTDEV,231,IO_IBRD,PT,2024-05-07T00:00:00,A,0,2023,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",0.0757
-2015,SG_INT_VRTDEV,231,IO_IBRD,PT,2024-05-07T00:00:00,A,0,2023,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",0.0736
-2016,SG_INT_VRTDEV,231,IO_IBRD,PT,2024-05-07T00:00:00,A,0,2023,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",0.07
-2017,SG_INT_VRTDEV,231,IO_IBRD,PT,2024-05-07T00:00:00,A,0,2023,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",0.0785
-2018,SG_INT_VRTDEV,231,IO_IBRD,PT,2024-05-07T00:00:00,A,0,2023,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",0.0903
-2019,SG_INT_VRTDEV,231,IO_IBRD,PT,2024-05-07T00:00:00,A,0,2023,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",0.0892
-2020,SG_INT_VRTDEV,231,IO_IBRD,PT,2024-05-07T00:00:00,A,0,2023,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",0.08751
-2021,SG_INT_VRTDEV,231,IO_IBRD,PT,2024-05-07T00:00:00,A,0,2023,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",0.0854
-2022,SG_INT_VRTDEV,231,IO_IBRD,PT,2024-05-07T00:00:00,A,0,2023,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",0.08391
-2023,SG_INT_VRTDEV,231,IO_IBRD,PT,2024-05-07T00:00:00,A,0,2023,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",0.08206
-2005,SG_INT_VRTDEV,231,IO_IFC,PT,2024-05-07T00:00:00,A,0,2023,IFC 2023 Annual Report Volume 2,0.0157
-2010,SG_INT_VRTDEV,231,IO_IFC,PT,2024-05-07T00:00:00,A,0,2023,IFC 2023 Annual Report Volume 2,0.0156
-2015,SG_INT_VRTDEV,231,IO_IFC,PT,2024-05-07T00:00:00,A,0,2023,IFC 2023 Annual Report Volume 2,0.03485
-2016,SG_INT_VRTDEV,231,IO_IFC,PT,2024-05-07T00:00:00,A,0,2023,IFC 2023 Annual Report Volume 2,0.03485
-2017,SG_INT_VRTDEV,231,IO_IFC,PT,2024-05-07T00:00:00,A,0,2023,IFC 2023 Annual Report Volume 2,0.03485
-2018,SG_INT_VRTDEV,231,IO_IFC,PT,2024-05-07T00:00:00,A,0,2023,IFC 2023 Annual Report Volume 2,0.0349
-2019,SG_INT_VRTDEV,231,IO_IFC,PT,2024-05-07T00:00:00,A,0,2023,IFC 2023 Annual Report Volume 2,0.0344
-2020,SG_INT_VRTDEV,231,IO_IFC,PT,2024-05-07T00:00:00,A,0,2023,IFC 2023 Annual Report Volume 2,0.03467
-2021,SG_INT_VRTDEV,231,IO_IFC,PT,2024-05-07T00:00:00,A,0,2023,IFC 2023 Annual Report Volume 2,0.03437
-2022,SG_INT_VRTDEV,231,IO_IFC,PT,2024-05-07T00:00:00,A,0,2023,IFC 2023 Annual Report Volume 2,0.03868
-2023,SG_INT_VRTDEV,231,IO_IFC,PT,2024-05-07T00:00:00,A,0,2023,IFC 2023 Annual Report Volume 2,0.03834
-2005,SG_INT_VRTDEV,231,IO_IMF,PT,2024-05-07T00:00:00,A,0,2023,IMF Annual Report 2023,0.073
-2010,SG_INT_VRTDEV,231,IO_IMF,PT,2024-05-07T00:00:00,A,0,2023,IMF Annual Report 2023,0.0717
-2015,SG_INT_VRTDEV,231,IO_IMF,PT,2024-05-07T00:00:00,A,0,2023,IMF Annual Report 2023,0.0823
-2016,SG_INT_VRTDEV,231,IO_IMF,PT,2024-05-07T00:00:00,A,0,2023,IMF Annual Report 2023,0.089
-2017,SG_INT_VRTDEV,231,IO_IMF,PT,2024-05-07T00:00:00,A,0,2023,IMF Annual Report 2023,0.0889
-2018,SG_INT_VRTDEV,231,IO_IMF,PT,2024-05-07T00:00:00,A,0,2023,IMF Annual Report 2023,0.0889
-2019,SG_INT_VRTDEV,231,IO_IMF,PT,2024-05-07T00:00:00,A,0,2023,IMF Annual Report 2023,0.08888
-2020,SG_INT_VRTDEV,231,IO_IMF,PT,2024-05-07T00:00:00,A,0,2023,IMF Annual Report 2023,0.08885
-2021,SG_INT_VRTDEV,231,IO_IMF,PT,2024-05-07T00:00:00,A,0,2023,IMF Annual Report 2023,0.08861
-2022,SG_INT_VRTDEV,231,IO_IMF,PT,2024-05-07T00:00:00,A,0,2023,IMF Annual Report 2023,0.0893
-2023,SG_INT_VRTDEV,231,IO_IMF,PT,2024-05-07T00:00:00,A,0,2023,IMF Annual Report 2023,0.0895
-2005,SG_INT_VRTDEV,231,IO_UNGA,PT,2024-05-07T00:00:00,A,0,2023,UN General Assembly website http://www.un.org/en/member-states/index.html,0.5236
-2010,SG_INT_VRTDEV,231,IO_UNGA,PT,2024-05-07T00:00:00,A,0,2023,UN General Assembly website http://www.un.org/en/member-states/index.html,0.5208
-2015,SG_INT_VRTDEV,231,IO_UNGA,PT,2024-05-07T00:00:00,A,0,2023,UN General Assembly website http://www.un.org/en/member-states/index.html,0.5181
-2016,SG_INT_VRTDEV,231,IO_UNGA,PT,2024-05-07T00:00:00,A,0,2023,UN General Assembly website http://www.un.org/en/member-states/index.html,0.5181
-2017,SG_INT_VRTDEV,231,IO_UNGA,PT,2024-05-07T00:00:00,A,0,2023,UN General Assembly website http://www.un.org/en/member-states/index.html,0.5181
-2018,SG_INT_VRTDEV,231,IO_UNGA,PT,2024-05-07T00:00:00,A,0,2023,UN General Assembly website http://www.un.org/en/member-states/index.html,0.5181
-2019,SG_INT_VRTDEV,231,IO_UNGA,PT,2024-05-07T00:00:00,A,0,2023,UN General Assembly website http://www.un.org/en/member-states/index.html,0.5181
-2020,SG_INT_VRTDEV,231,IO_UNGA,PT,2024-05-07T00:00:00,A,0,2023,UN General Assembly website http://www.un.org/en/member-states/index.html,0.5181
-2021,SG_INT_VRTDEV,231,IO_UNGA,PT,2024-05-07T00:00:00,A,0,2023,UN General Assembly website http://www.un.org/en/member-states/index.html,0.51813
-2022,SG_INT_VRTDEV,231,IO_UNGA,PT,2024-05-07T00:00:00,A,0,2023,UN General Assembly website http://www.un.org/en/member-states/index.html,0.51813
-2023,SG_INT_VRTDEV,231,IO_UNGA,PT,2024-05-07T00:00:00,A,0,2023,UN General Assembly website http://www.un.org/en/member-states/index.html,0.51813
-2017,SG_INT_VRTDEV,231,IO_UNSC,PT,2024-05-07T00:00:00,A,0,2018,Report of the Security Council for 2018 (A/73/2),6.6667
-2018,SG_INT_VRTDEV,231,IO_UNSC,PT,2024-05-07T00:00:00,A,0,2018,Report of the Security Council for 2018 (A/73/2),6.6667
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,COMPOSITE_BREAKDOWN,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2000,A,0,African Development Bank Group Annual Report 2022,SG_INT_MBRDEV,12,IO_AFDB,PT,2024-05-07T00:00:00,2022,1.2987
+2005,A,0,African Development Bank Group Annual Report 2022,SG_INT_MBRDEV,12,IO_AFDB,PT,2024-05-07T00:00:00,2022,1.2987
+2010,A,0,African Development Bank Group Annual Report 2022,SG_INT_MBRDEV,12,IO_AFDB,PT,2024-05-07T00:00:00,2022,1.2987
+2014,A,0,African Development Bank Group Annual Report 2022,SG_INT_MBRDEV,12,IO_AFDB,PT,2024-05-07T00:00:00,2022,1.26582
+2015,A,0,African Development Bank Group Annual Report 2022,SG_INT_MBRDEV,12,IO_AFDB,PT,2024-05-07T00:00:00,2022,1.25
+2016,A,0,African Development Bank Group Annual Report 2022,SG_INT_MBRDEV,12,IO_AFDB,PT,2024-05-07T00:00:00,2022,1.25
+2017,A,0,African Development Bank Group Annual Report 2022,SG_INT_MBRDEV,12,IO_AFDB,PT,2024-05-07T00:00:00,2022,1.25
+2018,A,0,African Development Bank Group Annual Report 2022,SG_INT_MBRDEV,12,IO_AFDB,PT,2024-05-07T00:00:00,2022,1.25
+2019,A,0,African Development Bank Group Annual Report 2022,SG_INT_MBRDEV,12,IO_AFDB,PT,2024-05-07T00:00:00,2022,1.25
+2020,A,0,African Development Bank Group Annual Report 2022,SG_INT_MBRDEV,12,IO_AFDB,PT,2024-05-07T00:00:00,2022,1.23457
+2021,A,0,African Development Bank Group Annual Report 2022,SG_INT_MBRDEV,12,IO_AFDB,PT,2024-05-07T00:00:00,2022,1.23457
+2022,A,0,African Development Bank Group Annual Report 2022,SG_INT_MBRDEV,12,IO_AFDB,PT,2024-05-07T00:00:00,2022,1.23457
+2000,A,0,Report of the Economic and Social Council on its 2018 Session (A/73/3),SG_INT_MBRDEV,12,IO_ECOSOC,PT,2024-05-07T00:00:00,2018,1.85185
+2016,A,0,Report of the Economic and Social Council on its 2018 Session (A/73/3),SG_INT_MBRDEV,12,IO_ECOSOC,PT,2024-05-07T00:00:00,2018,1.85185
+2017,A,0,Report of the Economic and Social Council on its 2018 Session (A/73/3),SG_INT_MBRDEV,12,IO_ECOSOC,PT,2024-05-07T00:00:00,2018,1.85185
+2018,A,0,Report of the Economic and Social Council on its 2018 Session (A/73/3),SG_INT_MBRDEV,12,IO_ECOSOC,PT,2024-05-07T00:00:00,2018,1.85185
+2000,A,0,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",SG_INT_MBRDEV,12,IO_IBRD,PT,2024-05-07T00:00:00,2023,0.54945
+2005,A,0,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",SG_INT_MBRDEV,12,IO_IBRD,PT,2024-05-07T00:00:00,2023,0.54348
+2010,A,0,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",SG_INT_MBRDEV,12,IO_IBRD,PT,2024-05-07T00:00:00,2023,0.53476
+2015,A,0,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",SG_INT_MBRDEV,12,IO_IBRD,PT,2024-05-07T00:00:00,2023,0.53191
+2016,A,0,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",SG_INT_MBRDEV,12,IO_IBRD,PT,2024-05-07T00:00:00,2023,0.53191
+2017,A,0,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",SG_INT_MBRDEV,12,IO_IBRD,PT,2024-05-07T00:00:00,2023,0.5291
+2018,A,0,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",SG_INT_MBRDEV,12,IO_IBRD,PT,2024-05-07T00:00:00,2023,0.5291
+2019,A,0,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",SG_INT_MBRDEV,12,IO_IBRD,PT,2024-05-07T00:00:00,2023,0.5291
+2020,A,0,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",SG_INT_MBRDEV,12,IO_IBRD,PT,2024-05-07T00:00:00,2023,0.5291
+2021,A,0,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",SG_INT_MBRDEV,12,IO_IBRD,PT,2024-05-07T00:00:00,2023,0.5291
+2022,A,0,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",SG_INT_MBRDEV,12,IO_IBRD,PT,2024-05-07T00:00:00,2023,0.5291
+2023,A,0,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",SG_INT_MBRDEV,12,IO_IBRD,PT,2024-05-07T00:00:00,2023,0.5291
+2000,A,0,IFC 2023 Annual Report Volume 2,SG_INT_MBRDEV,12,IO_IFC,PT,2024-05-07T00:00:00,2023,0.57471
+2005,A,0,IFC 2023 Annual Report Volume 2,SG_INT_MBRDEV,12,IO_IFC,PT,2024-05-07T00:00:00,2023,0.5618
+2010,A,0,IFC 2023 Annual Report Volume 2,SG_INT_MBRDEV,12,IO_IFC,PT,2024-05-07T00:00:00,2023,0.54945
+2015,A,0,IFC 2023 Annual Report Volume 2,SG_INT_MBRDEV,12,IO_IFC,PT,2024-05-07T00:00:00,2023,0.54348
+2016,A,0,IFC 2023 Annual Report Volume 2,SG_INT_MBRDEV,12,IO_IFC,PT,2024-05-07T00:00:00,2023,0.54348
+2017,A,0,IFC 2023 Annual Report Volume 2,SG_INT_MBRDEV,12,IO_IFC,PT,2024-05-07T00:00:00,2023,0.54348
+2018,A,0,IFC 2023 Annual Report Volume 2,SG_INT_MBRDEV,12,IO_IFC,PT,2024-05-07T00:00:00,2023,0.54348
+2019,A,0,IFC 2023 Annual Report Volume 2,SG_INT_MBRDEV,12,IO_IFC,PT,2024-05-07T00:00:00,2023,0.5435
+2020,A,0,IFC 2023 Annual Report Volume 2,SG_INT_MBRDEV,12,IO_IFC,PT,2024-05-07T00:00:00,2023,0.54054
+2021,A,0,IFC 2023 Annual Report Volume 2,SG_INT_MBRDEV,12,IO_IFC,PT,2024-05-07T00:00:00,2023,0.54054
+2022,A,0,IFC 2023 Annual Report Volume 2,SG_INT_MBRDEV,12,IO_IFC,PT,2024-05-07T00:00:00,2023,0.53763
+2023,A,0,IFC 2023 Annual Report Volume 2,SG_INT_MBRDEV,12,IO_IFC,PT,2024-05-07T00:00:00,2023,0.53763
+2000,A,0,IMF Annual Report 2023,SG_INT_MBRDEV,12,IO_IMF,PT,2024-05-07T00:00:00,2023,0.5618
+2005,A,0,IMF Annual Report 2023,SG_INT_MBRDEV,12,IO_IMF,PT,2024-05-07T00:00:00,2023,0.55249
+2010,A,0,IMF Annual Report 2023,SG_INT_MBRDEV,12,IO_IMF,PT,2024-05-07T00:00:00,2023,0.54945
+2015,A,0,IMF Annual Report 2023,SG_INT_MBRDEV,12,IO_IMF,PT,2024-05-07T00:00:00,2023,0.53191
+2016,A,0,IMF Annual Report 2023,SG_INT_MBRDEV,12,IO_IMF,PT,2024-05-07T00:00:00,2023,0.53191
+2017,A,0,IMF Annual Report 2023,SG_INT_MBRDEV,12,IO_IMF,PT,2024-05-07T00:00:00,2023,0.5291
+2018,A,0,IMF Annual Report 2023,SG_INT_MBRDEV,12,IO_IMF,PT,2024-05-07T00:00:00,2023,0.5291
+2019,A,0,IMF Annual Report 2023,SG_INT_MBRDEV,12,IO_IMF,PT,2024-05-07T00:00:00,2023,0.5291
+2020,A,0,IMF Annual Report 2023,SG_INT_MBRDEV,12,IO_IMF,PT,2024-05-07T00:00:00,2023,0.5291
+2021,A,0,IMF Annual Report 2023,SG_INT_MBRDEV,12,IO_IMF,PT,2024-05-07T00:00:00,2023,0.52632
+2022,A,0,IMF Annual Report 2023,SG_INT_MBRDEV,12,IO_IMF,PT,2024-05-07T00:00:00,2023,0.52632
+2023,A,0,IMF Annual Report 2023,SG_INT_MBRDEV,12,IO_IMF,PT,2024-05-07T00:00:00,2023,0.52632
+2000,A,0,UN General Assembly website http://www.un.org/en/member-states/index.html,SG_INT_MBRDEV,12,IO_UNGA,PT,2024-05-07T00:00:00,2023,0.5291
+2005,A,0,UN General Assembly website http://www.un.org/en/member-states/index.html,SG_INT_MBRDEV,12,IO_UNGA,PT,2024-05-07T00:00:00,2023,0.52356
+2010,A,0,UN General Assembly website http://www.un.org/en/member-states/index.html,SG_INT_MBRDEV,12,IO_UNGA,PT,2024-05-07T00:00:00,2023,0.52083
+2015,A,0,UN General Assembly website http://www.un.org/en/member-states/index.html,SG_INT_MBRDEV,12,IO_UNGA,PT,2024-05-07T00:00:00,2023,0.51813
+2016,A,0,UN General Assembly website http://www.un.org/en/member-states/index.html,SG_INT_MBRDEV,12,IO_UNGA,PT,2024-05-07T00:00:00,2023,0.51813
+2017,A,0,UN General Assembly website http://www.un.org/en/member-states/index.html,SG_INT_MBRDEV,12,IO_UNGA,PT,2024-05-07T00:00:00,2023,0.51813
+2018,A,0,UN General Assembly website http://www.un.org/en/member-states/index.html,SG_INT_MBRDEV,12,IO_UNGA,PT,2024-05-07T00:00:00,2023,0.51813
+2019,A,0,UN General Assembly website http://www.un.org/en/member-states/index.html,SG_INT_MBRDEV,12,IO_UNGA,PT,2024-05-07T00:00:00,2023,0.51813
+2020,A,0,UN General Assembly website http://www.un.org/en/member-states/index.html,SG_INT_MBRDEV,12,IO_UNGA,PT,2024-05-07T00:00:00,2023,0.51813
+2021,A,0,UN General Assembly website http://www.un.org/en/member-states/index.html,SG_INT_MBRDEV,12,IO_UNGA,PT,2024-05-07T00:00:00,2023,0.51813
+2022,A,0,UN General Assembly website http://www.un.org/en/member-states/index.html,SG_INT_MBRDEV,12,IO_UNGA,PT,2024-05-07T00:00:00,2023,0.51813
+2023,A,0,UN General Assembly website http://www.un.org/en/member-states/index.html,SG_INT_MBRDEV,12,IO_UNGA,PT,2024-05-07T00:00:00,2023,0.51813
+2005,A,0,Report of the Security Council (A/60/2),SG_INT_MBRDEV,12,IO_UNSC,PT,2024-05-07T00:00:00,2005,6.66667
+2000,A,0,African Development Bank Group Annual Report 2022,SG_INT_VRTDEV,12,IO_AFDB,PT,2024-05-07T00:00:00,2022,3.75
+2005,A,0,African Development Bank Group Annual Report 2022,SG_INT_VRTDEV,12,IO_AFDB,PT,2024-05-07T00:00:00,2022,3.79
+2010,A,0,African Development Bank Group Annual Report 2022,SG_INT_VRTDEV,12,IO_AFDB,PT,2024-05-07T00:00:00,2022,3.901
+2014,A,0,African Development Bank Group Annual Report 2022,SG_INT_VRTDEV,12,IO_AFDB,PT,2024-05-07T00:00:00,2022,4.209
+2015,A,0,African Development Bank Group Annual Report 2022,SG_INT_VRTDEV,12,IO_AFDB,PT,2024-05-07T00:00:00,2022,4.19
+2016,A,0,African Development Bank Group Annual Report 2022,SG_INT_VRTDEV,12,IO_AFDB,PT,2024-05-07T00:00:00,2022,4.211
+2017,A,0,African Development Bank Group Annual Report 2022,SG_INT_VRTDEV,12,IO_AFDB,PT,2024-05-07T00:00:00,2022,4.211
+2018,A,0,African Development Bank Group Annual Report 2022,SG_INT_VRTDEV,12,IO_AFDB,PT,2024-05-07T00:00:00,2022,4.2495
+2019,A,0,African Development Bank Group Annual Report 2022,SG_INT_VRTDEV,12,IO_AFDB,PT,2024-05-07T00:00:00,2022,4.2652
+2020,A,0,African Development Bank Group Annual Report 2022,SG_INT_VRTDEV,12,IO_AFDB,PT,2024-05-07T00:00:00,2022,3.27964
+2021,A,0,African Development Bank Group Annual Report 2022,SG_INT_VRTDEV,12,IO_AFDB,PT,2024-05-07T00:00:00,2022,5.02947
+2022,A,0,African Development Bank Group Annual Report 2022,SG_INT_VRTDEV,12,IO_AFDB,PT,2024-05-07T00:00:00,2022,5.05361
+2000,A,0,Report of the Economic and Social Council on its 2018 Session (A/73/3),SG_INT_VRTDEV,12,IO_ECOSOC,PT,2024-05-07T00:00:00,2018,1.85185
+2016,A,0,Report of the Economic and Social Council on its 2018 Session (A/73/3),SG_INT_VRTDEV,12,IO_ECOSOC,PT,2024-05-07T00:00:00,2018,1.85185
+2017,A,0,Report of the Economic and Social Council on its 2018 Session (A/73/3),SG_INT_VRTDEV,12,IO_ECOSOC,PT,2024-05-07T00:00:00,2018,1.85185
+2018,A,0,Report of the Economic and Social Council on its 2018 Session (A/73/3),SG_INT_VRTDEV,12,IO_ECOSOC,PT,2024-05-07T00:00:00,2018,1.85185
+2000,A,0,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",SG_INT_VRTDEV,12,IO_IBRD,PT,2024-05-07T00:00:00,2023,0.5904
+2005,A,0,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",SG_INT_VRTDEV,12,IO_IBRD,PT,2024-05-07T00:00:00,2023,0.587
+2010,A,0,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",SG_INT_VRTDEV,12,IO_IBRD,PT,2024-05-07T00:00:00,2023,0.5861
+2015,A,0,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",SG_INT_VRTDEV,12,IO_IBRD,PT,2024-05-07T00:00:00,2023,0.5328
+2016,A,0,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",SG_INT_VRTDEV,12,IO_IBRD,PT,2024-05-07T00:00:00,2023,0.54
+2017,A,0,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",SG_INT_VRTDEV,12,IO_IBRD,PT,2024-05-07T00:00:00,2023,0.5261
+2018,A,0,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",SG_INT_VRTDEV,12,IO_IBRD,PT,2024-05-07T00:00:00,2023,0.5156
+2019,A,0,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",SG_INT_VRTDEV,12,IO_IBRD,PT,2024-05-07T00:00:00,2023,0.5065
+2020,A,0,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",SG_INT_VRTDEV,12,IO_IBRD,PT,2024-05-07T00:00:00,2023,0.51262
+2021,A,0,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",SG_INT_VRTDEV,12,IO_IBRD,PT,2024-05-07T00:00:00,2023,0.51377
+2022,A,0,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",SG_INT_VRTDEV,12,IO_IBRD,PT,2024-05-07T00:00:00,2023,0.51894
+2023,A,0,"International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",SG_INT_VRTDEV,12,IO_IBRD,PT,2024-05-07T00:00:00,2023,0.52009
+2000,A,0,IFC 2023 Annual Report Volume 2,SG_INT_VRTDEV,12,IO_IFC,PT,2024-05-07T00:00:00,2023,0.2445
+2005,A,0,IFC 2023 Annual Report Volume 2,SG_INT_VRTDEV,12,IO_IFC,PT,2024-05-07T00:00:00,2023,0.2438
+2010,A,0,IFC 2023 Annual Report Volume 2,SG_INT_VRTDEV,12,IO_IFC,PT,2024-05-07T00:00:00,2023,0.2431
+2015,A,0,IFC 2023 Annual Report Volume 2,SG_INT_VRTDEV,12,IO_IFC,PT,2024-05-07T00:00:00,2023,0.24306
+2016,A,0,IFC 2023 Annual Report Volume 2,SG_INT_VRTDEV,12,IO_IFC,PT,2024-05-07T00:00:00,2023,0.24306
+2017,A,0,IFC 2023 Annual Report Volume 2,SG_INT_VRTDEV,12,IO_IFC,PT,2024-05-07T00:00:00,2023,0.24306
+2018,A,0,IFC 2023 Annual Report Volume 2,SG_INT_VRTDEV,12,IO_IFC,PT,2024-05-07T00:00:00,2023,0.2431
+2019,A,0,IFC 2023 Annual Report Volume 2,SG_INT_VRTDEV,12,IO_IFC,PT,2024-05-07T00:00:00,2023,0.2413
+2020,A,0,IFC 2023 Annual Report Volume 2,SG_INT_VRTDEV,12,IO_IFC,PT,2024-05-07T00:00:00,2023,0.24286
+2021,A,0,IFC 2023 Annual Report Volume 2,SG_INT_VRTDEV,12,IO_IFC,PT,2024-05-07T00:00:00,2023,0.26095
+2022,A,0,IFC 2023 Annual Report Volume 2,SG_INT_VRTDEV,12,IO_IFC,PT,2024-05-07T00:00:00,2023,0.28229
+2023,A,0,IFC 2023 Annual Report Volume 2,SG_INT_VRTDEV,12,IO_IFC,PT,2024-05-07T00:00:00,2023,0.30216
+2000,A,0,IMF Annual Report 2023,SG_INT_VRTDEV,12,IO_IMF,PT,2024-05-07T00:00:00,2023,0.5978
+2005,A,0,IMF Annual Report 2023,SG_INT_VRTDEV,12,IO_IMF,PT,2024-05-07T00:00:00,2023,0.5883
+2010,A,0,IMF Annual Report 2023,SG_INT_VRTDEV,12,IO_IMF,PT,2024-05-07T00:00:00,2023,0.5779
+2015,A,0,IMF Annual Report 2023,SG_INT_VRTDEV,12,IO_IMF,PT,2024-05-07T00:00:00,2023,0.5271
+2016,A,0,IMF Annual Report 2023,SG_INT_VRTDEV,12,IO_IMF,PT,2024-05-07T00:00:00,2023,0.422
+2017,A,0,IMF Annual Report 2023,SG_INT_VRTDEV,12,IO_IMF,PT,2024-05-07T00:00:00,2023,0.4187
+2018,A,0,IMF Annual Report 2023,SG_INT_VRTDEV,12,IO_IMF,PT,2024-05-07T00:00:00,2023,0.4186
+2019,A,0,IMF Annual Report 2023,SG_INT_VRTDEV,12,IO_IMF,PT,2024-05-07T00:00:00,2023,0.41863
+2020,A,0,IMF Annual Report 2023,SG_INT_VRTDEV,12,IO_IMF,PT,2024-05-07T00:00:00,2023,0.41843
+2021,A,0,IMF Annual Report 2023,SG_INT_VRTDEV,12,IO_IMF,PT,2024-05-07T00:00:00,2023,0.41782
+2022,A,0,IMF Annual Report 2023,SG_INT_VRTDEV,12,IO_IMF,PT,2024-05-07T00:00:00,2023,0.42106
+2023,A,0,IMF Annual Report 2023,SG_INT_VRTDEV,12,IO_IMF,PT,2024-05-07T00:00:00,2023,0.42201
+2000,A,0,UN General Assembly website http://www.un.org/en/member-states/index.html,SG_INT_VRTDEV,12,IO_UNGA,PT,2024-05-07T00:00:00,2023,0.5291
+2005,A,0,UN General Assembly website http://www.un.org/en/member-states/index.html,SG_INT_VRTDEV,12,IO_UNGA,PT,2024-05-07T00:00:00,2023,0.5236
+2010,A,0,UN General Assembly website http://www.un.org/en/member-states/index.html,SG_INT_VRTDEV,12,IO_UNGA,PT,2024-05-07T00:00:00,2023,0.5208
+2015,A,0,UN General Assembly website http://www.un.org/en/member-states/index.html,SG_INT_VRTDEV,12,IO_UNGA,PT,2024-05-07T00:00:00,2023,0.5181
+2016,A,0,UN General Assembly website http://www.un.org/en/member-states/index.html,SG_INT_VRTDEV,12,IO_UNGA,PT,2024-05-07T00:00:00,2023,0.5181
+2017,A,0,UN General Assembly website http://www.un.org/en/member-states/index.html,SG_INT_VRTDEV,12,IO_UNGA,PT,2024-05-07T00:00:00,2023,0.5181
+2018,A,0,UN General Assembly website http://www.un.org/en/member-states/index.html,SG_INT_VRTDEV,12,IO_UNGA,PT,2024-05-07T00:00:00,2023,0.5181
+2019,A,0,UN General Assembly website http://www.un.org/en/member-states/index.html,SG_INT_VRTDEV,12,IO_UNGA,PT,2024-05-07T00:00:00,2023,0.5181
+2020,A,0,UN General Assembly website http://www.un.org/en/member-states/index.html,SG_INT_VRTDEV,12,IO_UNGA,PT,2024-05-07T00:00:00,2023,0.5181
+2021,A,0,UN General Assembly website http://www.un.org/en/member-states/index.html,SG_INT_VRTDEV,12,IO_UNGA,PT,2024-05-07T00:00:00,2023,0.51813
+2022,A,0,UN General Assembly website http://www.un.org/en/member-states/index.html,SG_INT_VRTDEV,12,IO_UNGA,PT,2024-05-07T00:00:00,2023,0.51813
+2023,A,0,UN General Assembly website http://www.un.org/en/member-states/index.html,SG_INT_VRTDEV,12,IO_UNGA,PT,2024-05-07T00:00:00,2023,0.51813
+2005,A,0,Report of the Security Council (A/60/2),SG_INT_VRTDEV,12,IO_UNSC,PT,2024-05-07T00:00:00,2005,6.6667

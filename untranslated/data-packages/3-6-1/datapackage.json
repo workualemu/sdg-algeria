@@ -15,28 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "231",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "DATA_LAST_UPDATE",
-            "type": "string"
-          },
-          {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
@@ -57,22 +35,12 @@
             }
           },
           {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2021",
-                ""
-              ]
-            }
-          },
-          {
             "name": "UPPER_BOUND",
             "type": "string",
             "constraints": {
               "enum": [
-                "20.1",
-                "24153",
+                "20.6",
+                "9094",
                 ""
               ]
             }
@@ -82,8 +50,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15.3",
-                "18363",
+                "16.1",
+                "7119",
                 ""
               ]
             }
@@ -94,6 +62,38 @@
             "constraints": {
               "enum": [
                 "Global Status Report on Road Safety 2023 ( Data come from different sources police data, Ministry of health and Ministry of transport, studies and Survey)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "12",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2021",
                 ""
               ]
             }

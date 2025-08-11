@@ -16,37 +16,12 @@
             "title": "Year"
           },
           {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "231",
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "DATA_LAST_UPDATE",
-            "type": "string",
-            "title": "DATA_LAST_UPDATE"
-          },
-          {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
                 "A",
+                "D",
                 ""
               ]
             },
@@ -64,41 +39,137 @@
             "title": "UNIT_MULT"
           },
           {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2018",
-                ""
-              ]
-            },
-            "title": "TIME_DETAIL"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Litter from riverbanks",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
             "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
+                "Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",
                 "Plastic Pollution (MLW, MDMAP, ICC)",
+                "World Environment Situation Room",
                 ""
               ]
             },
             "title": "SOURCE_DETAIL"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "12",
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "CUST_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "C08",
+                "C12",
+                "C191",
+                "C196",
+                "C250",
+                "C275",
+                "C300",
+                "C336",
+                "C376",
+                "C380",
+                "C400",
+                "C422",
+                "C434",
+                "C470",
+                "C504",
+                "C724",
+                "C760",
+                "C788",
+                "C792",
+                "C818",
+                ""
+              ]
+            },
+            "title": "CUST_BREAKDOWN"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "FCC_E",
+                "FCC_H",
+                "FCC_M",
+                ""
+              ]
+            },
+            "title": "COMPOSITE_BREAKDOWN"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string",
+            "title": "DATA_LAST_UPDATE"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2010-2021",
+                "2010-2022",
+                "2010-2019",
+                "2018",
+                "2022",
+                ""
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
+            "name": "CUST_BREAKDOWN_LB",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Algeria",
+                "Croatia",
+                "Cyprus",
+                "France",
+                "State of Palestine",
+                "Greece",
+                "Holy See",
+                "Israel",
+                "Italy",
+                "Jordan",
+                "Lebanon",
+                "Libya",
+                "Malta",
+                "Morocco",
+                "Spain",
+                "Syrian Arab Republic",
+                "Tunisia",
+                "Turkey",
+                "Egypt",
+                ""
+              ]
+            },
+            "title": "CUST_BREAKDOWN_LB"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

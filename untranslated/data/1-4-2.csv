@@ -1,10 +1,1 @@
-Year,SERIES,REF_AREA,SEX,UNIT_MEASURE,DATA_LAST_UPDATE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,COMMENT_OBS,SOURCE_DETAIL,Value
-2016,SP_LGL_LNDDOC,231,None,PT,2024-11-07T00:00:00,A,0,2021,Total population is restricted to household head and wife due to data limitations.,LSMS,32.24625
-2021,SP_LGL_LNDDOC,231,None,PT,2024-11-07T00:00:00,A,0,2021,Total population is restricted to household head and wife due to data limitations.,LSMS,40.06857
-2016,SP_LGL_LNDDOC,231,F,PT,2024-11-07T00:00:00,A,0,2021,Total population is restricted to household head and wife due to data limitations.,LSMS,18.03604
-2021,SP_LGL_LNDDOC,231,F,PT,2024-11-07T00:00:00,A,0,2021,Total population is restricted to household head and wife due to data limitations.,LSMS,34.34115
-2021,SP_LGL_LNDDOC,231,M,PT,2024-11-07T00:00:00,A,0,2021,Total population is restricted to household head and wife due to data limitations.,LSMS,46.83763
-2016,SP_LGL_LNDSTR,231,None,PT,2024-11-07T00:00:00,A,0,2021,Total population is restricted to household head and wife due to data limitations.,LSMS,74.11411
-2021,SP_LGL_LNDSTR,231,None,PT,2024-11-07T00:00:00,A,0,2021,Total population is restricted to household head and wife due to data limitations.,LSMS,88.1721
-2021,SP_LGL_LNDSTR,231,F,PT,2024-11-07T00:00:00,A,0,2021,Total population is restricted to household head and wife due to data limitations.,LSMS,88.69291
-2021,SP_LGL_LNDSTR,231,M,PT,2024-11-07T00:00:00,A,0,2021,Total population is restricted to household head and wife due to data limitations.,LSMS,87.55657
+Year,Value

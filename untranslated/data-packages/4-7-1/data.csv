@@ -1,1 +1,5 @@
-Year,Value
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2020,A,0,"Country reports on the implementation of the UNESCO 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms",SE_GCEDESD_CUR,12,IX,2024-03-01T00:00:00,2017-2020,0.72917
+2020,A,0,"Country reports on the implementation of the UNESCO 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms",SE_GCEDESD_NEP,12,IX,2024-03-01T00:00:00,2017-2020,0.625
+2020,A,0,"Country reports on the implementation of the UNESCO 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms",SE_GCEDESD_SAS,12,IX,2024-03-01T00:00:00,2017-2020,0.75
+2020,A,0,"Country reports on the implementation of the UNESCO 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms",SE_GCEDESD_TED,12,IX,2024-03-01T00:00:00,2017-2020,0.65

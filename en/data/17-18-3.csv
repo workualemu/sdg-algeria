@@ -1,7 +1,22 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,COMMENT_OBS,SOURCE_DETAIL,Value
-2019,SG_STT_NSDSIMPL,231,NUMBER,2025-03-13T00:00:00,A,0,2024,Observation value represents the number of countries with national statistical plans that are under implementation,PARIS21 SDG Survey,1.0
-2020,SG_STT_NSDSIMPL,231,NUMBER,2025-03-13T00:00:00,A,0,2024,Observation value represents the number of countries with national statistical plans that are under implementation,PARIS21 SDG Survey,1.0
-2021,SG_STT_NSDSIMPL,231,NUMBER,2025-03-13T00:00:00,A,0,2024,Observation value represents the number of countries with national statistical plans that are under implementation,PARIS21 SDG Survey,1.0
-2022,SG_STT_NSDSIMPL,231,NUMBER,2025-03-13T00:00:00,A,0,2024,Observation value represents the number of countries with national statistical plans that are under implementation,PARIS21 SDG Survey,1.0
-2023,SG_STT_NSDSIMPL,231,NUMBER,2025-03-13T00:00:00,A,0,2024,Observation value represents the number of countries with national statistical plans that are under implementation,PARIS21 SDG Survey,1.0
-2024,SG_STT_NSDSIMPL,231,NUMBER,2025-03-13T00:00:00,A,0,2024,Observation value represents the number of countries with national statistical plans that are under implementation,PARIS21 SDG Survey,1.0
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2019,A,0,Data not available,NA,SG_STT_NSDSFDDNR,12,NUMBER,2025-03-13T00:00:00,2024,1.0
+2020,A,0,Data not available,NA,SG_STT_NSDSFDDNR,12,NUMBER,2025-03-13T00:00:00,2024,1.0
+2021,A,0,Data not available,NA,SG_STT_NSDSFDDNR,12,NUMBER,2025-03-13T00:00:00,2024,1.0
+2019,A,0,Observation value represents the number of countries with national statistical plans with funding from donors,PARIS21 SDG Survey,SG_STT_NSDSFDGVT,12,NUMBER,2025-03-13T00:00:00,2024,1.0
+2020,A,0,Observation value represents the number of countries with national statistical plans with funding from donors,PARIS21 SDG Survey,SG_STT_NSDSFDGVT,12,NUMBER,2025-03-13T00:00:00,2024,1.0
+2021,A,0,Observation value represents the number of countries with national statistical plans with funding from donors,PARIS21 SDG Survey,SG_STT_NSDSFDGVT,12,NUMBER,2025-03-13T00:00:00,2024,1.0
+2022,A,0,Observation value represents the number of countries with national statistical plans with funding from donors,PARIS21 SDG Survey,SG_STT_NSDSFDGVT,12,NUMBER,2025-03-13T00:00:00,2024,1.0
+2023,A,0,Observation value represents the number of countries with national statistical plans with funding from donors,PARIS21 SDG Survey,SG_STT_NSDSFDGVT,12,NUMBER,2025-03-13T00:00:00,2024,1.0
+2024,A,0,Observation value represents the number of countries with national statistical plans with funding from donors,PARIS21 SDG Survey,SG_STT_NSDSFDGVT,12,NUMBER,2025-03-13T00:00:00,2024,1.0
+2019,A,0,Observation value represents the number of countries with national statistical plans that are fully funded,PARIS21 SDG Survey,SG_STT_NSDSFND,12,NUMBER,2025-03-13T00:00:00,2024,1.0
+2020,A,0,Observation value represents the number of countries with national statistical plans that are fully funded,PARIS21 SDG Survey,SG_STT_NSDSFND,12,NUMBER,2025-03-13T00:00:00,2024,1.0
+2021,A,0,Observation value represents the number of countries with national statistical plans that are fully funded,PARIS21 SDG Survey,SG_STT_NSDSFND,12,NUMBER,2025-03-13T00:00:00,2024,1.0
+2022,A,0,Observation value represents the number of countries with national statistical plans that are fully funded,PARIS21 SDG Survey,SG_STT_NSDSFND,12,NUMBER,2025-03-13T00:00:00,2024,1.0
+2023,A,0,Observation value represents the number of countries with national statistical plans that are fully funded,PARIS21 SDG Survey,SG_STT_NSDSFND,12,NUMBER,2025-03-13T00:00:00,2024,1.0
+2024,A,0,Observation value represents the number of countries with national statistical plans that are fully funded,PARIS21 SDG Survey,SG_STT_NSDSFND,12,NUMBER,2025-03-13T00:00:00,2024,1.0
+2019,A,0,Observation value represents the number of countries with national statistical plans that are under implementation,PARIS21 SDG Survey,SG_STT_NSDSIMPL,12,NUMBER,2025-03-13T00:00:00,2024,1.0
+2020,A,0,Observation value represents the number of countries with national statistical plans that are under implementation,PARIS21 SDG Survey,SG_STT_NSDSIMPL,12,NUMBER,2025-03-13T00:00:00,2024,1.0
+2021,A,0,Observation value represents the number of countries with national statistical plans that are under implementation,PARIS21 SDG Survey,SG_STT_NSDSIMPL,12,NUMBER,2025-03-13T00:00:00,2024,1.0
+2022,A,0,Observation value represents the number of countries with national statistical plans that are under implementation,PARIS21 SDG Survey,SG_STT_NSDSIMPL,12,NUMBER,2025-03-13T00:00:00,2024,1.0
+2023,A,0,Observation value represents the number of countries with national statistical plans that are under implementation,PARIS21 SDG Survey,SG_STT_NSDSIMPL,12,NUMBER,2025-03-13T00:00:00,2024,1.0
+2024,A,0,Observation value represents the number of countries with national statistical plans that are under implementation,PARIS21 SDG Survey,SG_STT_NSDSIMPL,12,NUMBER,2025-03-13T00:00:00,2024,1.0

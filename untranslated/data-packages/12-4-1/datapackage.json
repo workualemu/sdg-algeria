@@ -15,28 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "231",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "DATA_LAST_UPDATE",
-            "type": "string"
-          },
-          {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
@@ -57,24 +35,47 @@
             }
           },
           {
-            "name": "TIME_DETAIL",
+            "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "2020-2024",
+                "Ministère de l'Environnement",
+                "Ministry of the Environment and Renewable Energy",
+                "Ministdre de I'Environnement et des Energies Renouvelables",
+                "Ministère de l’Agriculture et du Développement Rural",
+                "World Environment Situation Room",
                 ""
               ]
             }
           },
           {
-            "name": "SOURCE_DETAIL",
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Environmental Protection Authority",
-                "World Environment Situation Room",
-                "Ethiopia Environmental Protection Authority",
-                "Ministry of Foreign Affairs / Environmental Protection Authority",
+                "12",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2020-2024",
                 ""
               ]
             }

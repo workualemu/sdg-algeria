@@ -15,6 +15,42 @@
             "type": "integer"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
             "name": "SERIES",
             "type": "string"
           },
@@ -23,7 +59,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "231",
                 ""
               ]
             }
@@ -37,52 +72,10 @@
             "type": "string"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
-                ""
-              ]
-            }
-          },
-          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "2024",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "The figures included here concern only verified cases of killing of human rights defenders, journalists and trade unionists between 1 Jan and 31 Dec 2024 (as of 31 March 2025). OHCHR does not yet collect data on the number of cases of kidnapping of human rights defenders, journalists and trade unionists.",
-                "The figures included here concern only verified cases of enforced disappearance of human rights defenders, journalists and trade unionists between 1 Jan and 31 Dec 2024 (as of 31 March 2025). OHCHR does not yet collect data on the number of cases of kidnapping of human rights defenders, journalists and trade unionists.",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "OHCHR in collaboration with UNESCO, ILO, and accredited National Human Rights Institution",
                 ""
               ]
             }

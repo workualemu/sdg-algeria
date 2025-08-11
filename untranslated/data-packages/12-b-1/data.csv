@@ -1,40 +1,43 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,SOURCE_DETAIL,Value
-2008,ST_EEV_ACCSEEA,231,NUMBER,2025-05-01T00:00:00,A,0,2020,National Planning and Development Commission,0
-2009,ST_EEV_ACCSEEA,231,NUMBER,2025-05-01T00:00:00,A,0,2020,National Planning and Development Commission,0
-2010,ST_EEV_ACCSEEA,231,NUMBER,2025-05-01T00:00:00,A,0,2020,National Planning and Development Commission,0
-2011,ST_EEV_ACCSEEA,231,NUMBER,2025-05-01T00:00:00,A,0,2020,National Planning and Development Commission,0
-2012,ST_EEV_ACCSEEA,231,NUMBER,2025-05-01T00:00:00,A,0,2020,National Planning and Development Commission,0
-2013,ST_EEV_ACCSEEA,231,NUMBER,2025-05-01T00:00:00,A,0,2020,National Planning and Development Commission,0
-2014,ST_EEV_ACCSEEA,231,NUMBER,2025-05-01T00:00:00,A,0,2020,National Planning and Development Commission,0
-2015,ST_EEV_ACCSEEA,231,NUMBER,2025-05-01T00:00:00,A,0,2020,National Planning and Development Commission,0
-2016,ST_EEV_ACCSEEA,231,NUMBER,2025-05-01T00:00:00,A,0,2020,National Planning and Development Commission,0
-2017,ST_EEV_ACCSEEA,231,NUMBER,2025-05-01T00:00:00,A,0,2020,National Planning and Development Commission,0
-2018,ST_EEV_ACCSEEA,231,NUMBER,2025-05-01T00:00:00,A,0,2020,National Planning and Development Commission,0
-2019,ST_EEV_ACCSEEA,231,NUMBER,2025-05-01T00:00:00,A,0,2020,National Planning and Development Commission,0
-2020,ST_EEV_ACCSEEA,231,NUMBER,2025-05-01T00:00:00,A,0,2020,National Planning and Development Commission,0
-2008,ST_EEV_ACCTSA,231,NUMBER,2025-05-01T00:00:00,A,0,2020,National Planning and Development Commission,0
-2009,ST_EEV_ACCTSA,231,NUMBER,2025-05-01T00:00:00,A,0,2020,National Planning and Development Commission,0
-2010,ST_EEV_ACCTSA,231,NUMBER,2025-05-01T00:00:00,A,0,2020,National Planning and Development Commission,0
-2011,ST_EEV_ACCTSA,231,NUMBER,2025-05-01T00:00:00,A,0,2020,National Planning and Development Commission,0
-2012,ST_EEV_ACCTSA,231,NUMBER,2025-05-01T00:00:00,A,0,2020,National Planning and Development Commission,0
-2013,ST_EEV_ACCTSA,231,NUMBER,2025-05-01T00:00:00,A,0,2020,National Planning and Development Commission,0
-2014,ST_EEV_ACCTSA,231,NUMBER,2025-05-01T00:00:00,A,0,2020,National Planning and Development Commission,0
-2015,ST_EEV_ACCTSA,231,NUMBER,2025-05-01T00:00:00,A,0,2020,National Planning and Development Commission,0
-2016,ST_EEV_ACCTSA,231,NUMBER,2025-05-01T00:00:00,A,0,2020,National Planning and Development Commission,0
-2017,ST_EEV_ACCTSA,231,NUMBER,2025-05-01T00:00:00,A,0,2020,National Planning and Development Commission,0
-2018,ST_EEV_ACCTSA,231,NUMBER,2025-05-01T00:00:00,A,0,2020,National Planning and Development Commission,0
-2019,ST_EEV_ACCTSA,231,NUMBER,2025-05-01T00:00:00,A,0,2020,National Planning and Development Commission,7
-2020,ST_EEV_ACCTSA,231,NUMBER,2025-05-01T00:00:00,A,0,2020,National Planning and Development Commission,0
-2008,ST_EEV_STDACCT,231,NUMBER,2025-03-12T00:00:00,A,0,2020,National Planning and Development Commission,0
-2009,ST_EEV_STDACCT,231,NUMBER,2025-03-12T00:00:00,A,0,2020,National Planning and Development Commission,0
-2010,ST_EEV_STDACCT,231,NUMBER,2025-03-12T00:00:00,A,0,2020,National Planning and Development Commission,0
-2011,ST_EEV_STDACCT,231,NUMBER,2025-03-12T00:00:00,A,0,2020,National Planning and Development Commission,0
-2012,ST_EEV_STDACCT,231,NUMBER,2025-03-12T00:00:00,A,0,2020,National Planning and Development Commission,0
-2013,ST_EEV_STDACCT,231,NUMBER,2025-03-12T00:00:00,A,0,2020,National Planning and Development Commission,0
-2014,ST_EEV_STDACCT,231,NUMBER,2025-03-12T00:00:00,A,0,2020,National Planning and Development Commission,0
-2015,ST_EEV_STDACCT,231,NUMBER,2025-03-12T00:00:00,A,0,2020,National Planning and Development Commission,0
-2016,ST_EEV_STDACCT,231,NUMBER,2025-03-12T00:00:00,A,0,2020,National Planning and Development Commission,0
-2017,ST_EEV_STDACCT,231,NUMBER,2025-03-12T00:00:00,A,0,2020,National Planning and Development Commission,0
-2018,ST_EEV_STDACCT,231,NUMBER,2025-03-12T00:00:00,A,0,2020,National Planning and Development Commission,0
-2019,ST_EEV_STDACCT,231,NUMBER,2025-03-12T00:00:00,A,0,2020,National Planning and Development Commission,7
-2020,ST_EEV_STDACCT,231,NUMBER,2025-03-12T00:00:00,A,0,2020,National Planning and Development Commission,0
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2008,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_ACCSEEA,12,NUMBER,2025-05-01T00:00:00,2021,0
+2009,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_ACCSEEA,12,NUMBER,2025-05-01T00:00:00,2021,0
+2010,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_ACCSEEA,12,NUMBER,2025-05-01T00:00:00,2021,0
+2011,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_ACCSEEA,12,NUMBER,2025-05-01T00:00:00,2021,0
+2012,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_ACCSEEA,12,NUMBER,2025-05-01T00:00:00,2021,0
+2013,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_ACCSEEA,12,NUMBER,2025-05-01T00:00:00,2021,0
+2014,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_ACCSEEA,12,NUMBER,2025-05-01T00:00:00,2021,0
+2015,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_ACCSEEA,12,NUMBER,2025-05-01T00:00:00,2021,0
+2016,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_ACCSEEA,12,NUMBER,2025-05-01T00:00:00,2021,0
+2017,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_ACCSEEA,12,NUMBER,2025-05-01T00:00:00,2021,0
+2018,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_ACCSEEA,12,NUMBER,2025-05-01T00:00:00,2021,0
+2019,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_ACCSEEA,12,NUMBER,2025-05-01T00:00:00,2021,0
+2020,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_ACCSEEA,12,NUMBER,2025-05-01T00:00:00,2021,0
+2021,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_ACCSEEA,12,NUMBER,2025-05-01T00:00:00,2021,0
+2008,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_ACCTSA,12,NUMBER,2025-05-01T00:00:00,2021,0
+2009,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_ACCTSA,12,NUMBER,2025-05-01T00:00:00,2021,0
+2010,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_ACCTSA,12,NUMBER,2025-05-01T00:00:00,2021,0
+2011,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_ACCTSA,12,NUMBER,2025-05-01T00:00:00,2021,0
+2012,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_ACCTSA,12,NUMBER,2025-05-01T00:00:00,2021,0
+2013,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_ACCTSA,12,NUMBER,2025-05-01T00:00:00,2021,0
+2014,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_ACCTSA,12,NUMBER,2025-05-01T00:00:00,2021,0
+2015,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_ACCTSA,12,NUMBER,2025-05-01T00:00:00,2021,0
+2016,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_ACCTSA,12,NUMBER,2025-05-01T00:00:00,2021,0
+2017,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_ACCTSA,12,NUMBER,2025-05-01T00:00:00,2021,0
+2018,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_ACCTSA,12,NUMBER,2025-05-01T00:00:00,2021,0
+2019,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_ACCTSA,12,NUMBER,2025-05-01T00:00:00,2021,0
+2020,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_ACCTSA,12,NUMBER,2025-05-01T00:00:00,2021,0
+2021,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_ACCTSA,12,NUMBER,2025-05-01T00:00:00,2021,0
+2008,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_STDACCT,12,NUMBER,2025-03-12T00:00:00,2021,0
+2009,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_STDACCT,12,NUMBER,2025-03-12T00:00:00,2021,0
+2010,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_STDACCT,12,NUMBER,2025-03-12T00:00:00,2021,0
+2011,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_STDACCT,12,NUMBER,2025-03-12T00:00:00,2021,0
+2012,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_STDACCT,12,NUMBER,2025-03-12T00:00:00,2021,0
+2013,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_STDACCT,12,NUMBER,2025-03-12T00:00:00,2021,0
+2014,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_STDACCT,12,NUMBER,2025-03-12T00:00:00,2021,0
+2015,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_STDACCT,12,NUMBER,2025-03-12T00:00:00,2021,0
+2016,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_STDACCT,12,NUMBER,2025-03-12T00:00:00,2021,0
+2017,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_STDACCT,12,NUMBER,2025-03-12T00:00:00,2021,0
+2018,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_STDACCT,12,NUMBER,2025-03-12T00:00:00,2021,0
+2019,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_STDACCT,12,NUMBER,2025-03-12T00:00:00,2021,0
+2020,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_STDACCT,12,NUMBER,2025-03-12T00:00:00,2021,0
+2021,A,0,Ministère du Tourisme et de l'Artisanat,ST_EEV_STDACCT,12,NUMBER,2025-03-12T00:00:00,2021,0

@@ -16,6 +16,45 @@
             "title": "Year"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            },
+            "title": "OBS_STATUS"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "African Development Bank Group Annual Report 2022",
+                "Report of the Economic and Social Council on its 2018 Session (A/73/3)",
+                "International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",
+                "IFC 2023 Annual Report Volume 2",
+                "IMF Annual Report 2023",
+                "UN General Assembly website http://www.un.org/en/member-states/index.html",
+                "Report of the Security Council (A/60/2)",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -25,7 +64,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "231",
+                "12",
                 ""
               ]
             },
@@ -59,58 +98,18 @@
             "title": "DATA_LAST_UPDATE"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            },
-            "title": "OBS_STATUS"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
-                ""
-              ]
-            },
-            "title": "UNIT_MULT"
-          },
-          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
                 "2022",
-                "2021",
-                "2023",
                 "2018",
+                "2023",
+                "2005",
                 ""
               ]
             },
             "title": "TIME_DETAIL"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "African Development Bank Group Annual Report 2022",
-                "Report of the Economic and Social Council on its 2021 Session (A/76/3)",
-                "International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2023",
-                "IFC 2023 Annual Report Volume 2",
-                "IMF Annual Report 2023",
-                "UN General Assembly website http://www.un.org/en/member-states/index.html",
-                "Report of the Security Council for 2018 (A/73/2)",
-                "Report of the Economic and Social Council on its 2021 Session (A/76/3/)",
-                ""
-              ]
-            },
-            "title": "SOURCE_DETAIL"
           },
           {
             "name": "Value",

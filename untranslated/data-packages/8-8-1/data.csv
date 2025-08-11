@@ -1,1 +1,11 @@
-Year,Value
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,AGE,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2000,A,0,Coverage of occupational injuries: Compensated injuries | Type of rate: Incidence rate (per 100'000 persons insured),ADM-IR - Insurance Records,SL_EMP_FTLINJUR,12,Y_GE15,PER_100000_EMP,2025-03-15T00:00:00,2004,27.28
+2001,A,0,Coverage of occupational injuries: Compensated injuries | Type of rate: Incidence rate (per 100'000 persons insured),ADM-IR - Insurance Records,SL_EMP_FTLINJUR,12,Y_GE15,PER_100000_EMP,2025-03-15T00:00:00,2004,23.24
+2002,A,0,Coverage of occupational injuries: Compensated injuries | Type of rate: Incidence rate (per 100'000 persons insured),ADM-IR - Insurance Records,SL_EMP_FTLINJUR,12,Y_GE15,PER_100000_EMP,2025-03-15T00:00:00,2004,20.88
+2003,A,0,Coverage of occupational injuries: Compensated injuries | Type of rate: Incidence rate (per 100'000 persons insured),ADM-IR - Insurance Records,SL_EMP_FTLINJUR,12,Y_GE15,PER_100000_EMP,2025-03-15T00:00:00,2004,19.03
+2004,A,0,Coverage of occupational injuries: Compensated injuries | Type of rate: Incidence rate (per 100'000 persons insured),ADM-IR - Insurance Records,SL_EMP_FTLINJUR,12,Y_GE15,PER_100000_EMP,2025-03-15T00:00:00,2004,17.59
+2000,A,0,Coverage of occupational injuries: Compensated injuries | Type of rate: Incidence rate (per 100'000 persons insured),ADM-IR - Insurance Records,SL_EMP_INJUR,12,Y_GE15,PER_100000_EMP,2025-03-15T00:00:00,2004,1541.5
+2001,A,0,Coverage of occupational injuries: Compensated injuries | Type of rate: Incidence rate (per 100'000 persons insured),ADM-IR - Insurance Records,SL_EMP_INJUR,12,Y_GE15,PER_100000_EMP,2025-03-15T00:00:00,2004,1320.2
+2002,A,0,Coverage of occupational injuries: Compensated injuries | Type of rate: Incidence rate (per 100'000 persons insured),ADM-IR - Insurance Records,SL_EMP_INJUR,12,Y_GE15,PER_100000_EMP,2025-03-15T00:00:00,2004,1220.4
+2003,A,0,Coverage of occupational injuries: Compensated injuries | Type of rate: Incidence rate (per 100'000 persons insured),ADM-IR - Insurance Records,SL_EMP_INJUR,12,Y_GE15,PER_100000_EMP,2025-03-15T00:00:00,2004,1325.0
+2004,A,0,Coverage of occupational injuries: Compensated injuries | Type of rate: Incidence rate (per 100'000 persons insured),ADM-IR - Insurance Records,SL_EMP_INJUR,12,Y_GE15,PER_100000_EMP,2025-03-15T00:00:00,2004,1002.7
